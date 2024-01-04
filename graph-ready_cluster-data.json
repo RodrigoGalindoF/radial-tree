@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Central Node"
+  },
+  {
+    "id": 2,
+    "name": "Cluster #1",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Sub-Cluster #1",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "Sub-Cluster #2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "Sub-Cluster #3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "Cluster #2",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Sub-Cluster #1",
+    "parent": 6,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "Sub-Cluster #2",
+    "parent": 6,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "Sub-Cluster #3",
+    "parent": 6,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "Sub-Cluster #4",
+    "parent": 6,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "Sub-Cluster #5",
+    "parent": 6,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "Cluster #3",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Sub-Cluster #1",
+    "parent": 9,
+    "size": 1
+  }
+]
