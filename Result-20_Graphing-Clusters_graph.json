@@ -80,24 +80,29 @@
   },
   {
     "id": 17,
-    "name": "Clusters Remaining",
+    "name": "texas",
     "parent": 1
   },
   {
     "id": 18,
-    "name": "141",
-    "parent": 17,
-    "size": 1
+    "name": "Clusters Remaining",
+    "parent": 1
   },
   {
     "id": 19,
+    "name": "140",
+    "parent": 18,
+    "size": 1
+  },
+  {
+    "id": 20,
     "name": "Total Rows Remaining",
     "parent": 1
   },
   {
-    "id": 20,
-    "name": "285",
-    "parent": 19,
+    "id": 21,
+    "name": "284",
+    "parent": 20,
     "size": 1
   }
 ]
