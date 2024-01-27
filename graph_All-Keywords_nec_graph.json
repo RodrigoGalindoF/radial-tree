@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "nec"
+  },
+  {
+    "id": 2,
+    "name": "nec irs",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "1099 nec filing online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1099 nec how to file taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "electronic filing 1099-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "electronically file 1099 nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "file form 1099-nec online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "filing 1099 nec electronically",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how do i file 1099 nec with irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how do i report 1099 nec to irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how do i report a 1099-nec on my tax return",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how do i send 1099 nec to irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how to efile 1099 nec with irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how to file 1099 nec electronically",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "16",
+    "parent": 17,
+    "size": 1
+  }
+]
