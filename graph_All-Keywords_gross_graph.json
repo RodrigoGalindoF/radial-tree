@@ -1,0 +1,525 @@
+[
+  {
+    "id": 1,
+    "name": "gross"
+  },
+  {
+    "id": 2,
+    "name": "gross salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "define gross salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "define gross wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "definition gross wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "definition of gross salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "definition of gross wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "gross salary definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "gross salary meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "gross wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "gross wage definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "gross wage meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "gross wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "gross wages define",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "gross taxes",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "does gross income mean before taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "does gross mean before taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "gross income before tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "gross income before taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "gross income is before or after taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "gross income is before taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "gross pay is before or after taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "gross pay is before taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "gross salary before or after tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "gross salary before tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "gross wages before or after taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "is gross after tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "gross income",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "calculate annual gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "calculate gross annual income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "calculate yearly gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "calculating gross annual income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how do i calculate my annual gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how do i calculate my gross annual income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how do i figure out my annual gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how do i find my gross annual income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how do i find out my gross annual income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how do i know my annual gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how do you calculate your annual gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how do you figure out your annual gross income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "income gross",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "calculate gross and net income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "calculate gross income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "calculate gross income from net",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "calculate gross income from net pay",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "calculate gross to net income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "calculate my gross income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "calculate net income from gross",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "calculate net income from gross income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "calculate total gross income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "calculating gross and net income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "gross annual income formula",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "gross income calculater",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "gross payment",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "define gross payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "gross paid",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "gross payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "gross payment definition",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "gross payment meaning",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "gross up payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "meaning of gross payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "what is a gross payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "what is gross payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "gross payroll",
+    "parent": 1
+  },
+  {
+    "id": 65,
+    "name": "gross payroll",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "gross payroll calculator",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "gross revenue to payroll percentage by industry",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "gross up calculation for payroll",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "gross up payroll",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "gross up payroll calculator",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "gross up salary",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "gross up wages",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "how much should payroll be as a percentage of revenue",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "how to gross up payroll",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "how to gross up wages",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "payroll to revenue ratio",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "gross formula",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "calculate gross",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "calculate gross up",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "gross amount formula",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "gross up calculation",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "gross up calculation formula",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "gross up formula",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "grossing up formula",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "how to calculate gross",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 87,
+    "name": "0",
+    "parent": 86,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 89,
+    "name": "151",
+    "parent": 88,
+    "size": 1
+  }
+]
