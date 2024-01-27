@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "labor"
+  },
+  {
+    "id": 2,
+    "name": "unemployment georgia",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ga unemployment tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "georgia state unemployment tax rate 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "georgia state unemployment tax registration",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "georgia unemployment employer registration",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "georgia unemployment pay dates 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "georgia unemployment tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "georgia unemployment tax rate 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "georgia unemployment tax registration",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "georgia unemployment tax withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "georgia unemployment wage base 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how much does unemployment pay georgia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how much is georgia unemployment per week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "employee retension",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "employee retension",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "employee retension credit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "employee retension tax credit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "rei employee paystub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "rei w2 former employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "unum return to work form",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 23,
+    "name": "0",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "6",
+    "parent": 24,
+    "size": 1
+  }
+]
