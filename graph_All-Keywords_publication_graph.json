@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "publication"
+  },
+  {
+    "id": 2,
+    "name": "publication irs",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "internal revenue service irs publication 502",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "irs gov publication 502",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "irs publication 502",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "irs publication 502 pdf",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "irs publication 503",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "irs publication 505 pdf",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "irs publication 5165",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "irs publication 5329",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "irs publication 560",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "irs publication 560 for 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "irs publication 926",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "irs publication",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "2022 irs 15-t",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "2022 irs publication 15-t",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "2023 irs publication 15",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "2023 irs publication 15-t",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "irs 15-t 2022",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "irs 15-t 2023",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "irs 15t 2023",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "irs 2022 publication 15-t",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "irs 2023 publication 15-t",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "irs publication 15 2022",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "irs publication 15 2023",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "irs publication 15 t 2022",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "0",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 30,
+    "name": "32",
+    "parent": 29,
+    "size": 1
+  }
+]
