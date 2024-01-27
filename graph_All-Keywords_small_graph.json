@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "small"
+  },
+  {
+    "id": 2,
+    "name": "payroll small",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "affordable payroll for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "affordable payroll services for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "best payroll companies for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "best payroll companies for small businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "best payroll company for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "best payroll company for very small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "best payroll for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "best payroll for small businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "best payroll options for small businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "best payroll program for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "best payroll providers for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "best payroll service for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "141",
+    "parent": 17,
+    "size": 1
+  }
+]
