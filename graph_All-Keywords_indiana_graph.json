@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "indiana"
+  },
+  {
+    "id": 2,
+    "name": "indiana salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "average hourly wage in indiana",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "average salary in indiana",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "average salary of a nurse in indiana",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "average wage indiana",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "government salaries indiana",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "indiana county employee salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "indiana employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "indiana nurse salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "indiana public employee salary database",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "indiana public salary database",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "indiana rn salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "indiana salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "indiana state",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "does indiana tax social security",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "does indiana tax social security income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "indiana employee compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "indiana employer identification number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "indiana employer self service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "indiana employer self service login",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "indiana holiday pay laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "indiana payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "indiana public employee compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "indiana state employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "indiana state employee benefits",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "indiana state employee holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "33",
+    "parent": 30,
+    "size": 1
+  }
+]
