@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "name": "many"
+  },
+  {
+    "id": 2,
+    "name": "paychecks many",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "bi weekly how many paychecks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "bi weekly paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "bi weekly paycheck savings plan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "bi weekly paychecks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "bi weekly paychecks in a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "bi weekly paychecks per year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "bi-weekly paychecks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "biweekly how many paychecks in a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "biweekly paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "biweekly paychecks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "biweekly paychecks in a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "biweekly paychecks per year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "paycheck calculate",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "annual salary to biweekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "average biweekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "calculate biweekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "calculate biweekly paycheck from annual salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "calculate my biweekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "calculate my weekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "calculate weekly pay after tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "calculate weekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "estimate biweekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how do weekly paychecks work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how to calculate a weekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how to calculate biweekly paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "paychecks biweekly",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "bi weekly 3 paycheck months 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "bi weekly paychecks in 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "biweekly 3 paycheck months 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "biweekly paychecks in 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how many biweekly paychecks in 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how many paycheck in 2023 bi weekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how many paychecks for biweekly 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how many paychecks in 2022 biweekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how many paychecks in 2023 biweekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how many paychecks in a year bi weekly 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "if paid biweekly how many paychecks in 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "if paid biweekly how many paychecks in 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "payments year",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "bi monthly payment schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "bi weekly payment calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "bi weekly payment schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "bi weekly payments in a year",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "bi-weekly payment schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "bimonthly payment schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "biweekly payment schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "biweekly payments in a year",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how many bi weekly payments in a year",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how many biweekly payments are in a year",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how many biweekly payments in a year",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how many payments bi weekly in a year",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "many paid",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "how many pay periods if paid bi weekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how many pay periods if paid biweekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how many pay periods in 2023 if paid biweekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how many pay periods in a year if paid biweekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how many times a month do you get paid biweekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how many times a year do you get paid biweekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "how many times do i get paid biweekly 2022",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "how many times do i get paid biweekly 2023",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "how many times do you get paid biweekly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "how many times will i get paid biweekly in 2023",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "0",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "39",
+    "parent": 67,
+    "size": 1
+  }
+]
