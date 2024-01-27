@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "journal"
+  },
+  {
+    "id": 2,
+    "name": "payroll journal",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how to do a journal entry for payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how to do payroll journal entries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how to make a journal entry for payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how to make a payroll journal entry",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how to record payroll journal entry",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "journal entries for payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "journal entry for employer payroll taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "journal entry for payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "journal entry for payroll deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "journal entry to adjust payroll liabilities",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "journal entry to record payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "journal entry to record payroll liabilities",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "journal quickbooks",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "general journal entries in quickbooks",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "general journal entry quickbooks",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how do i do a journal entry in quickbooks",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how do i do a journal entry in quickbooks online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how do i enter a journal entry in quickbooks online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how do i make journal entries in quickbooks online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to enter a journal entry in quickbooks",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to enter a journal entry in quickbooks online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to find a journal entry in quickbooks",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to find a journal entry in quickbooks online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how to find journal entries in quickbooks online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how to import general journal entries into quickbooks",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "35",
+    "parent": 30,
+    "size": 1
+  }
+]
