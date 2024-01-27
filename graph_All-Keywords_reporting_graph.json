@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "reporting"
+  },
+  {
+    "id": 2,
+    "name": "aca filing",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "aca audit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "aca electronic filing",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "aca filing",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "aca filing requirements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "aca filings",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "aca forms",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "aca individual mandate repeal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "aca irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "aca laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "aca mandate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "aca payments",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "aca qualification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "aca employer",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "aca and employer mandate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "aca and employers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "aca applicable large employer",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "aca compliance for employers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "aca employer mandate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "aca employer mandate 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "aca employer mandate 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "aca employer penalties",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "aca employer requirements",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "aca fines for employers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "aca for employers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "aca guidelines for employers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "21",
+    "parent": 30,
+    "size": 1
+  }
+]
