@@ -1,0 +1,827 @@
+[
+  {
+    "id": 1,
+    "name": "exempt"
+  },
+  {
+    "id": 2,
+    "name": "exempt non",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "difference between exempt and non exempt employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "difference between exempt and non exempt employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "difference between exempt and non-exempt employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "difference between exempt employee and non-exempt employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "difference between non-exempt and exempt employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "do non exempt employees get benefits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "employee exempt vs non exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "exempt and non-exempt employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "exempt employee vs non exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "exempt employee vs non-exempt employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "exempt employees vs non exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "exempt non exempt employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "exempt employee",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "am i an exempt employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "am i an exempt or non exempt employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "an exempt worker is an employee who",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "criteria for exempt employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "define exempt employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "definition of exempt employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "do exempt employees pay taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "employee exempt",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "employee exempt status",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "employee exemption",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "employee exemptions",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "exempt employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "exempt salary",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "are salary employees exempt or non exempt",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "define salary non exempt",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "difference between exempt and non exempt salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "exempt and non exempt salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "exempt employees salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "exempt vs non-exempt salary employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "is non exempt salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "is non-exempt salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is salary exempt or non exempt",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "is salary non exempt",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "non exempt employee salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "non exempt salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "employee non",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "define non exempt employee",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "non exempt employee definition",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "non exempt employee meaning",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "non exempt employees definition",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "non exempt employees meaning",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "non-exempt employee definition",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "non-exempt employee meaning",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "non-exempt employee means",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "non-exempt employees definition",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "non-exempt employees meaning",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "what are non exempt employees",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "what are non-exempt employees",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "salary exempt",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "define salary exempt",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "does exempt mean salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "exempt employee salary requirements",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "exempt salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "exempt salary requirements",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "exemption salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "full time exempt salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "is exempt salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "is salary exempt",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "requirements for salary exempt",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "requirements for salary exempt employees",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "salary exempt",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "exempt hourly",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "4 hour rule for exempt employees",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "are exempt employees hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "are hourly employees exempt",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "can exempt employees be hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "can exempt employees be paid hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "can exempt employees be part time",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "can hourly employees be exempt",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "can part-time employees be exempt",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "can you pay an exempt employee hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "does non exempt mean hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "exempt employee hours",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "exempt employee work hours",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "exempt taxes",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "does exempt mean no taxes taken out",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "excluded taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "exempt tax meaning",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "tax exempt means",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "tax non exempt",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "tax-exempt meaning",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "what does exempt mean for taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "what does exempt mean in taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "what does exempt mean on taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "what is exempt status for taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "exempt salaried",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "are exempt employees salaried",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "exempt salaried employee",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "is a salaried employee exempt",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "is an exempt employee salaried",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "non exempt salaried employee",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "non exempt salaried employees",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "salaried employee exempt",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "salaried employee exempt vs non exempt",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "salaried employees are exempt or nonexempt",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "salaried exempt employee",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "salaried exempt employees",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "salaried non exempt employees",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "test duties",
+    "parent": 1
+  },
+  {
+    "id": 105,
+    "name": "department of labor duties test",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "department of labor exemption test",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "duties test exempt employees",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "duties test for exempt employees",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "exempt employee test",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "fair labor standards act exemption test",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "salary duties test",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "salary exemption test",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "salary test for exempt employees 2023",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "exempt time",
+    "parent": 1
+  },
+  {
+    "id": 115,
+    "name": "california exempt employee time tracking",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "exempt employee paid time off",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "exempt employee partial day absence",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "exempt employee time off",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "exempt employee time off rules",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "exempt employee time tracking",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "exempt employee unpaid time off",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "paid time off for exempt employees",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "partial day absences for exempt employees",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "partial-day absences for exempt employees",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "rules for exempt employees and time off",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "time tracking exempt employees",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "department labor",
+    "parent": 1
+  },
+  {
+    "id": 128,
+    "name": "department of labor exempt",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "department of labor exempt employee",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "department of labor exempt employees",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "department of labor exempt salary",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "department of labor exempt salary threshold 2023",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "department of labor exempt vs non exempt",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "department of labor non-exempt definition",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "exempt vs non-exempt department of labor",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "us department of labor exempt employees",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 138,
+    "name": "0",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 140,
+    "name": "146",
+    "parent": 139,
+    "size": 1
+  }
+]
