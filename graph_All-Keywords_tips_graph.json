@@ -1,0 +1,341 @@
+[
+  {
+    "id": 1,
+    "name": "tips"
+  },
+  {
+    "id": 2,
+    "name": "tips taxes",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "allocated tips on taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "are tips subject to social security tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "are tips taxable in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "can an employer withhold tips in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "can my employer deduct tips from my paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "can you write off tips on taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "cash tips and taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "claiming tips on taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "do employers have to pay taxes on tips",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "do employers pay payroll taxes on tips",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "do servers pay taxes on tips",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "do waitresses pay taxes on tips",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "wages tips",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "difference between wages tips and social security wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "is wages tips and other compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "is wages tips and other compensation gross or net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "local wages tips etc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "state wages and tips",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "state wages tips etc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "wages and tips",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "wages salaries and tips",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "wages salary commission fees tips and bonuses are",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "wages tips and other compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "wages tips and other compensation gross or net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "wages tips and other compensation vs social security wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "fica credit",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "fica tip credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "fica tip credit 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "fica tip credit calculation",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "fica tip credit calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "fica tip credit report",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "fica tips credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how to calculate fica tip credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "employees tipped",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "how to do payroll for tipped employees",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how to pay tipped employees",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how to pay tips to employees",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "negative paycheck tipped employees",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "paying tips through payroll",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "payroll for tipped employees",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "tipped employees",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "tip credit",
+    "parent": 1
+  },
+  {
+    "id": 45,
+    "name": "form 8846 tip credit",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "irs tip credit",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "tip credit deduction",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "tip credit form 8846",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "tip credit on pay stub",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "tip payment",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "tip tax credit",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "tips credit form",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "what is tip credit on pay stub",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "what is tip credit on paycheck",
+    "parent": 44,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 56,
+    "name": "0",
+    "parent": 55,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 58,
+    "name": "27",
+    "parent": 57,
+    "size": 1
+  }
+]
