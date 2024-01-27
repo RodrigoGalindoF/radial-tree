@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "illinois"
+  },
+  {
+    "id": 2,
+    "name": "salary illinois",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "average hourly wage in illinois",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "average illinois salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "average salary in illinois",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "il state employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "illinois comptroller employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "illinois employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "illinois employee salary database",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "illinois salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "illinois salary search",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "illinois state employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "illinois state employees salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "illinois state job salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "illinois state",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "exempt employee illinois",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "il state payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "illinois employee pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "illinois employer payroll taxes 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "illinois exempt employee laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "illinois one day rest in seven act amendment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "illinois payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "illinois state employee pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "illinois state employee salary 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "illinois state payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "illinois state university payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "payroll illinois",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "illinois paycheck",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "illinois pay stub",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "illinois paycheck",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "illinois paycheck calc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "illinois paycheck stub",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "illinois paystub",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "illinois tax from paycheck",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "paycheck after taxes illinois",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "paycheck city illinois",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "paycheck illinois",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "paycheck taxes illinois",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "paycheckcity illinois",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "state of illinois pay stub",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "ledger illinois",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "il salary ledger",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "illinois employee ledger",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "illinois ledger employee salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "illinois ledger salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "illinois state comptroller ledger",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "illinois state employee ledger",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "state of illinois employee ledger",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "paystubillinoisgov login",
+    "parent": 1
+  },
+  {
+    "id": 50,
+    "name": "paystubillinoisgov",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "paystubillinoisgov login",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "0",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "28",
+    "parent": 54,
+    "size": 1
+  }
+]
