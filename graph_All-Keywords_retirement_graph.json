@@ -1,0 +1,785 @@
+[
+  {
+    "id": 1,
+    "name": "retirement"
+  },
+  {
+    "id": 2,
+    "name": "retirement plan",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "401 k retirement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "401 k retirement account",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "401 k retirement plan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "401 k retirement plans",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "401 retirement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "401 retirement account",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "401k after retirement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "401k and retirement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "401k and retirement age",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "401k and retirement plan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "401k at retirement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "401k for retirement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "retirement account",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "able retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "calculate taxes in retirement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "can you have more than one retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "do i have a retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "government employee retirement plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "government retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "government retirement plans",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "government taking retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "government taking retirement money",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how do i claim potential private retirement benefits",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "my retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "private retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "retirement washington",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "department of retirement services washington",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "department of retirement services washington state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "department of retirement wa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "fairfax county retirement systems",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "is social security taxed in washington state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "retirement age in washington state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "retirement in washington",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "retirement in washington state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "retirement in washington state taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "retirement washington",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "retirement washington state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "state of washington retirement",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "retirement maryland",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "maryland 401k mandate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "maryland retirement",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "maryland retirement benefits",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "maryland retirement mandate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "maryland retirement pay dates",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "maryland retirement plan",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "maryland retirement plan mandate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "maryland retirement system",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "maryland saves retirement program",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "maryland small business retirement savings program",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "maryland state employee pension",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "maryland state employee retirement",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "berkshire hathaway",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "berkshire employment opportunities",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "berkshire hathaway job openings",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "berkshire hathaway jobs remote",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "berkshire hathaway workers comp insurance",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "berkshire hathaway workers comp login",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "berkshire hathaway workers comp phone number",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "berkshire job listings",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "berkshire jobs",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "berkshire jobs pittsfield ma",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "berkshire workers comp",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "arkansas teacher",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "arkansas teacher retirement cost-of-living increase 2023",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "arkansas teacher retirement insurance rates",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "arkansas teacher retirement pay schedule",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "arkansas teacher retirement pay schedule 2023",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "arkansas teacher retirement payroll schedule",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "arkansas teacher salary",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "arkansas teacher salary lookup",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "average arkansas teacher salary",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "oklahoma teachers retirement system",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "teacher salary in arkansas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "pension plan",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "credit for small employer pension plan",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "credit for small employer pension plan startup costs",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "do all employers offer pension",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "employee pension plan",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "employer sponsored pension plan",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "is retirement and pension the same",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "pension laws",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "pension plan laws",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "pension plan retirement",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "pension retirement planning",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "pension retirement plans",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "retirement and pension plans",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "retirement age",
+    "parent": 1
+  },
+  {
+    "id": 90,
+    "name": "an employee of 20 years recently retired",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "average retirement age by profession",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "legal retirement age in us",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "lowest retirement age in the world",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "mandatory retirement age for federal employees",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "operating engineers retirement age",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "retirement age in mexico",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "retirement average age",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "siemens retirement",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "merrill lynch",
+    "parent": 1
+  },
+  {
+    "id": 100,
+    "name": "contact merrill lynch",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "contact merrill lynch 401k",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "merrill lynch 401k tax documents",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "merrill lynch check verification",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "merrill lynch retirement calculator",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "merrill lynch retirement login",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "merrill lynch retirement plan",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "merrill lynch tax documents",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "merrill lynch tax forms",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "merrill lynch tax identification number",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "merrill lynch withdrawal form",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "company retirement",
+    "parent": 1
+  },
+  {
+    "id": 112,
+    "name": "capital administrations llc",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "company identification",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "company paid",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "dividend payment history",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "employer paid ltd",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "esop employer stock dividends",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "formed company",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "global retirement partners",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "global retirement partners llc",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "harbor retirement associates corporate office",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "maine retirement",
+    "parent": 1
+  },
+  {
+    "id": 123,
+    "name": "maine retirement mandate",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "maine retirement savings board",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "maine retirement savings program",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "maine state retirement benefits",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "maine state retirement payment schedule 2022",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "maine state retirement system",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "retirement age in maine",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 131,
+    "name": "0",
+    "parent": 130,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "271",
+    "parent": 132,
+    "size": 1
+  }
+]
