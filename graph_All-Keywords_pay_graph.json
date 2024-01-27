@@ -1,0 +1,1141 @@
+[
+  {
+    "id": 1,
+    "name": "pay"
+  },
+  {
+    "id": 2,
+    "name": "pay stub",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "sams club pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "smithfield pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "7 eleven pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "7 eleven pay stub portal login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "7 eleven portal pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "7-11 pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "7-11 portal pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "7-eleven pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "7-eleven pay stub portal login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "711 pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "dg pay stub portal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "retroactive pay",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "define retroactive pay",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "define retroactive payment",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "definition of retroactive",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "definition of retroactive pay",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "definition of retroactive payments",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how long does an employer have to pay retroactive pay",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "paid retroactively",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "payment retroactive",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "retroactive compensation",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "retroactive pay",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "retroactive pay definition",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "retroactive pay law",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "starbucks hourly",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "how much do employees at starbucks make",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "how much do you get paid at starbucks",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how much do you get paid to work at starbucks",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much does starbucks pay hourly",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "starbucks average wage",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "starbucks employee pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "starbucks hourly",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "starbucks hourly pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "starbucks hourly pay 2022",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "starbucks hourly pay california",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "starbucks hourly pay florida",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "starbucks hourly pay texas",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "federal calendar",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "2022 federal pay calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "2022 federal pay period calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "2023 federal calendar with pay periods",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "2023 federal government pay calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "2023 federal pay calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "2023 federal pay period calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "2023 pay period calendar federal",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "2024 federal pay calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "2024 federal pay period calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "federal 2023 pay calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "federal 2023 pay period calendar",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "federal biweekly pay period calendar 2022",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "starbucks pay",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "how to access starbucks pay stubs",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "how to see starbucks pay stubs",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "starbucks check stub",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "starbucks check stubs",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "starbucks partner hub pay stubs",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "starbucks partner pay stubs",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "starbucks pay stub",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "starbucks pay stub 2022",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "starbucks pay stub login",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "starbucks pay stub online",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "starbucks pay stub portal",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "starbucks pay stubs",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "kroger pay",
+    "parent": 1
+  },
+  {
+    "id": 67,
+    "name": "kfc check stubs",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "kfc pay stubs",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "kroger associate pay stub",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "kroger employee paystub",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "kroger express hr pay stub",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "kroger online pay stub",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "kroger pay stub",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "kroger pay stub login",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "kroger pay stub portal",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "kroger pay stubs",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "kroger pay stubs online",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "kroger paystub",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "pay online",
+    "parent": 1
+  },
+  {
+    "id": 80,
+    "name": "can i get my pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "create a pay stub online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "create pay stub online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "create pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "get my pay stub online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "get my pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "get pay stub online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "get pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "get your pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "how do i get my pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "how to get my pay stubs online",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "how to get online pay stubs",
+    "parent": 79,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "pay get",
+    "parent": 1
+  },
+  {
+    "id": 93,
+    "name": "employer not giving pay stubs",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "former employee requesting pay stubs",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "how do i get a pay stub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "how do i get my pay stub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "how do i get my pay stubs",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "how do i get pay stubs",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "how do you get a pay stub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "how do you get pay stubs",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "how to get a pay stub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "how to get a pay stub from work",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "how to get my pay stub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "how to get my pay stubs",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "pay calculate",
+    "parent": 1
+  },
+  {
+    "id": 106,
+    "name": "calculate basic pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "calculate my pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "calculate my pay check",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "calculate ot pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "calculate pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "calculate pay check",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "calculating interest on unpaid wages",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "calculating ot pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "calculating pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "how do you calculate your pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "how is a payout figure calculated",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "how to calculate differential pay",
+    "parent": 105,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "pay reporting",
+    "parent": 1
+  },
+  {
+    "id": 119,
+    "name": "ca pay data reporting",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "ca pay data reporting 2023",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "ca pay data reporting deadline",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "ca pay data reporting deadline 2023",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "ca pay equity reporting",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "california pay data reporting",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "california pay data reporting 2022",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "california pay data reporting deadline",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "california pay data reporting due date",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "california pay data reporting instructions",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "california pay data reporting portal",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "california pay data reporting requirements",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "starbucks paycheck",
+    "parent": 1
+  },
+  {
+    "id": 132,
+    "name": "contact customer service starbucks",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "starbucks employee verification",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "starbucks paycheck",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "starbucks paycheck online",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "starbucks paycheck weekly",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "starbucks payroll",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "starbucks payroll number",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "starbucks paystub",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "starbucks paystub login",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "starbucks paystubs",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "starbucks tax form",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "starbucks tax forms",
+    "parent": 131,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "payfactors factor",
+    "parent": 1
+  },
+  {
+    "id": 145,
+    "name": "define factor payments",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "payfactors",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "payfactors free",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "payfactors market data",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "payfactors payscale",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "which of the following is an internal pay factor",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "calendar pay",
+    "parent": 1
+  },
+  {
+    "id": 152,
+    "name": "ca state employee pay calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "ca state payroll calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "federal employee pay calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "federal government pay calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "federal pay calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "federal pay period calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "federal payday calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "federal tax calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "irs pay calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "irs tax calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "pay period calendar federal",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "state employee pay calendar",
+    "parent": 151,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "florida pay",
+    "parent": 1
+  },
+  {
+    "id": 165,
+    "name": "fl pay stub",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "fl pay stubs",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "florida check stubs",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "florida employee pay stub",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "florida pay stub",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "florida pay stubs",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "florida state employee pay stub",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "florida state pay stub",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "pay stubs for florida state employees",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "state of fl pay stubs",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "state of florida check stub",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "state of florida check stubs",
+    "parent": 164,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "sample pay",
+    "parent": 1
+  },
+  {
+    "id": 178,
+    "name": "employee pay stub sample",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "pay stub sample",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "pay stub sample free",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "pay stub samples",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "pay stubs sample",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "sample of a pay stub",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "sample pay check stubs",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 185,
+    "name": "sample pay stub",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "sample pay stubs",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "sample paycheck stub",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "sample paycheck stub for students",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "sample paycheck stubs",
+    "parent": 177,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 191,
+    "name": "29",
+    "parent": 190,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 193,
+    "name": "842",
+    "parent": 192,
+    "size": 1
+  }
+]
