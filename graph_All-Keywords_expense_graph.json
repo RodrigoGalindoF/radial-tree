@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "expense"
+  },
+  {
+    "id": 2,
+    "name": "expenses expense",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "are taxes an expense",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "direct labor cost journal entry",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "end of year business expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "expensify com expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "expensify expense reports",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "expensify how to submit expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "expensify receipts & expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "expensify submit expense",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how to submit expenses in expensify",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how to submit expenses on expensify",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "income before taxes less income tax expense equals",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "irs allowable expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "10",
+    "parent": 17,
+    "size": 1
+  }
+]
