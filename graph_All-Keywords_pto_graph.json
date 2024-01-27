@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "pto"
+  },
+  {
+    "id": 2,
+    "name": "pto paid",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "do salary employees get pto",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "do you get paid for pto",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "does accrued pto have to be paid out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "does pto have to be paid out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how does pto work on salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how does pto work with salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how long does it take to get pto paid out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "is pto paid",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "is pto required to be paid out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "paid time off pto",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "paylocity pto",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "pto paid time off",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "pto laws",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "arizona pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "az pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "ct pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "federal pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "georgia pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "mandated pto",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "michigan pto laws 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "montana pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "montana pto payout laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "ny pto laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "nys pto laws 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "pto best practices",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "pto taxed",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "does pto get taxed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "does pto payout get taxed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much is pto payout taxed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how much is pto taxed when you quit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "is pto payout taxable",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "is pto taxable",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "is pto taxed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "is pto taxed at a higher rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is pto taxed when paid out",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "pto cash out tax rate california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "pto payout tax rate calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "pto payout tax rate california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "15",
+    "parent": 43,
+    "size": 1
+  }
+]
