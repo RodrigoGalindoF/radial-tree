@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "monthly"
+  },
+  {
+    "id": 2,
+    "name": "monthly income",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate average monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "calculate income monthly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "calculate monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculate monthly net income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "calculate my monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculate net monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculating monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how calculate monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how can i calculate my monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how do you calculate your monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how to calculate monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how to calculate monthly net income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "semi monthly",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "calculate semi monthly pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "calculating semi monthly pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "getting paid semi monthly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how many paychecks in a year semi monthly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how many paychecks in semi monthly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how many paychecks semi monthly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how often is semi annual",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to calculate semi monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to calculate semi monthly pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to calculate semi monthly pay hourly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "paid semi monthly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "prorate semi monthly salary calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "monthly calculate",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "calculate how much i make a month",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "calculate monthly income from salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "calculate monthly pay",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "calculate monthly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "calculate monthly salary from annual",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "calculate monthly salary to annual",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "calculate my monthly pay",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "calculating monthly salary from annual salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how do i calculate monthly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how to calculate how much you make a month",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how to calculate monthly earnings",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how to calculate monthly income from annual salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "31",
+    "parent": 43,
+    "size": 1
+  }
+]
