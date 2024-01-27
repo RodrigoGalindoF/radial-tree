@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "verification"
+  },
+  {
+    "id": 2,
+    "name": "verification documents",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "1 9 verification documents",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1-9 verification documents",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "documents for i 9 verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "documents for i-9 verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "documents for i9 verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "documents to verify i9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "form i 9 verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "form i 9 verification documents",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "form i-9 verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "i 9 document verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "i 9 form verification documents",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "i 9 verification acceptable documents",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "verification employment",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "agency internal verification hra",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "bank of america verify employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "can a landlord call to verify employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "can anyone call to verify employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "dhl employment verification",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "dhl express employment verification",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "dhs 38 verification of employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "do apartments verify pay stubs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "employee identity verification",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "employee verification tool",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "employee verification website",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "employee verifications",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "dell employment",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "dell employment verification",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "dell inc employment verification",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "dell payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "dell verification of employment",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 34,
+    "name": "0",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "39",
+    "parent": 35,
+    "size": 1
+  }
+]
