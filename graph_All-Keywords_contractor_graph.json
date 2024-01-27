@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "name": "contractor"
+  },
+  {
+    "id": 2,
+    "name": "independent contractor",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "1099 contractor liability insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1099 employee vs independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "1099 for independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "1099 for independent contractors",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "1099 form for independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "1099 form for independent contractors",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "1099 form independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "1099 forms for independent contractors",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "1099 independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "1099 independent contractor agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "1099 independent contractor form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "1099 independent contractor insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "contractor contractors",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "1099 contractor tax rate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "1099 contractor taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "best way to pay 1099 contractors",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "can i email 1099 to contractors",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "can i email 1099s to contractors",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "create 1099 for contractor",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "create a 1099 for a contractor",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "create a 1099 for contractor",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "do i have to send 1099 to contractors",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "file 1099 for contractor",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "filing 1099 for contractors",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "filing a 1099 for a contractor",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "contractor much",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "average salary contractor",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "calculate contractor rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "contractor earnings",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "contractor income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "contractor insurance per job",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "contractor salaries",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "contractor salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "federal contractor salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "general contractor hourly rate 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "general contractor hourly rate california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "government contractor pay",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "government contractor pay scale",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "contractor government",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "becoming a government contractor",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "federal contractor compliance requirements",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "federal contractor requirements",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "government contract requirements",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "government contractor relationship guide",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "government contractor requirements",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how to become a government contractor",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how to become government contractor",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "independent taxes",
+    "parent": 1
+  },
+  {
+    "id": 51,
+    "name": "claiming independent on taxes",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "filing as an independent",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how can i claim myself as an independent",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "how to file as independent",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "how to file as independent on taxes",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how to file taxes independently",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "independent tax",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "independent worker taxes",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "requirements to file as independent taxes",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "taxes independent",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 62,
+    "name": "0",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "373",
+    "parent": 63,
+    "size": 1
+  }
+]
