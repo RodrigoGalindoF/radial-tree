@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "withhold"
+  },
+  {
+    "id": 2,
+    "name": "withhold much",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how much do i need to withhold for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how much do i withhold for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how much extra should i withhold for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much extra tax should i withhold",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how much federal income tax should i withhold",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much federal tax should i withhold",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how much federal tax should i withhold from my paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how much federal tax to withhold",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how much federal taxes should i withhold",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how much income tax should i withhold",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how much money should i withhold for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how much should i withhold for federal taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "much withhold",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how do i know how much federal tax to withhold",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how do i know how much tax to withhold",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how do i know how much to withhold for taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how do i know if enough taxes are being withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to calculate how much federal tax to withhold",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to determine how much tax to withhold",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to figure out how much to withhold for taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to know how much federal tax to withhold",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to know how much to withhold for taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to know if you are withholding enough taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how to make sure enough taxes are withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "0",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 30,
+    "name": "20",
+    "parent": 29,
+    "size": 1
+  }
+]
