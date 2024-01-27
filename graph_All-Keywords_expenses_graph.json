@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "expenses"
+  },
+  {
+    "id": 2,
+    "name": "deductions tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "1099 contractor deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1099 contractor tax deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "1099 deduction",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "1099 deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "1099 deductions and tax credits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "1099 deductions form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "1099 deductions list",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "1099 employee deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "1099 employee tax deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "1099 expense deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "1099 expenses deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "1099 form deductions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "20",
+    "parent": 17,
+    "size": 1
+  }
+]
