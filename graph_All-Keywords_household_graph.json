@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "household"
+  },
+  {
+    "id": 2,
+    "name": "household employee",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "employment taxes for household employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "household employee tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "household employee tax deduction",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "household employee tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "household employee tax guide",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "household employee tax guide 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "household employee taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "household employer tax guide",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "household employment tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "household employment taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "household help irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "household help tax reporting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "payroll household",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "best household employee payroll service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "best household payroll service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "best payroll service for household employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "household employee payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "household employee payroll service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "household employer payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "household payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "household payroll service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "household payroll services",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "household payroll taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "housekeeper payroll service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "payroll for household employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "25",
+    "parent": 30,
+    "size": 1
+  }
+]
