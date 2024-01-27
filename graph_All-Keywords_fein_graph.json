@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "fein"
+  },
+  {
+    "id": 2,
+    "name": "fein tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "federal tax id fein",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "fein irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "fein number irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "fein tax id",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "fein taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "irs fein",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "irs fein number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "irs fein online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "irs fein registration",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "irs fein verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "irsgov fein",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "is fein number same as tax id",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "fein get",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "apply fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "apply for fein online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "applying for a fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "applying for fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "do i need an fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "fein online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "find fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "find my fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "find your fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "get a fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "get an fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "get fein",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "ein fein",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "are ein and fein the same",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "are fein and ein the same",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "difference between ein and fein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "difference between fein and ein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "fein same as ein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "fein vs ein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "fein vs ein number",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "is an fein the same as an ein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is ein and fein the same",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "is ein same as fein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "is ein the same as fein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "is fein the same as ein",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "23",
+    "parent": 43,
+    "size": 1
+  }
+]
