@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "name": "corp"
+  },
+  {
+    "id": 2,
+    "name": "corp form",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "best state to form an s corp",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "form s corp",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "form s corporation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "form s-corp",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "forming an s corp",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "forming an s corp in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "forming an s corporation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "forming s corporation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "s corp independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "s corp or llc for independent contractor",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "s corp spouse as employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "s corp with one employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "corp compensation",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "reasonable compensation s corp",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "s corp compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "s corp compensation of officers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "s corp officer compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "s corp owner compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "s corp owner draw taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "s corp owner salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "s corp payments to owners",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "s corp reasonable compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "s corp salary for owner",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "s corp workers compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "s corporation change of ownership irs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "corps pay",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "do s corps pay corporate taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "do s corps pay payroll taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "do s corps pay quarterly taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "do s corps pay self employment tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "do s corps pay taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "do s-corps pay taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how are s corps taxed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how do s corps pay taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "tax rates for s corps",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "when do s corps file taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "payroll corp",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "best payroll for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "best payroll service for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "best payroll software for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "can i do my own payroll for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "do i need payroll for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how to set up payroll for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "payroll for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "payroll for s corp owner",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "payroll for single member s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "payroll for single owner s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "payroll s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "payroll services for s corp",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "self corp",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "am i self employed if i own an s corp",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "do s corp owners pay self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "do s corp pay self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "do you pay self employment tax on s corp income",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "does s corp pay self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "s corp and self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "s corp self employment",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "s corp self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "s corporation self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "s-corp self employment tax",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "self employed s corp",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "self employment tax for s corp",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "insurance corp",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "is disability insurance tax deductible for s corp",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "s corp employee benefits",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "s corp employee health insurance",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "s corp health insurance deduction",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "s corp health insurance for employees",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "s corp medical insurance deduction",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "s corp owner health insurance w-2",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "s corporation health insurance deduction",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 75,
+    "name": "0",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "22",
+    "parent": 76,
+    "size": 1
+  }
+]
