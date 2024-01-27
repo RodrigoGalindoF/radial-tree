@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "disability"
+  },
+  {
+    "id": 2,
+    "name": "disability employment",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "disability employment awareness",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "disability employment awareness month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "disability employment awareness month 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "disability employment month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "disabled employment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "employee disability",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "employment development department disability forms",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "employment development department disability insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "employment while on disability",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "national disability employment awareness",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "national disability employment awareness month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "national disability employment awareness month 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "disability taxable",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "are employer-paid long-term disability premiums taxable to employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "are long term disability benefits taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "are long term disability payments taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "are long-term care benefits taxable 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "are long-term care benefits taxable irs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "are long-term disability payments taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "does long term disability get taxed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "is long term disability income taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "is long term disability taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "is long-term disability taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "long term disability taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "long term disability taxed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "disability paid",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "do you get paid for short term disability",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "do you get paid while on short term disability",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how is short term disability paid",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how is short term disability paid out",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how is short-term disability paid out",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how much do you get paid for short term disability",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how much do you get paid on short term disability",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "is long-term disability paid weekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is short term disability paid",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "is short term disability paid weekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "is short term disability paid weekly or biweekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "is short-term disability paid weekly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "disability insurance",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "cost of short term disability insurance for employers",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "cost of short-term disability insurance for employers",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "disability insurance from employer",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "does employer pay health insurance while on disability",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "does employer pay health insurance while on disability california",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "employee short term disability insurance",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "employer provided disability insurance",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "employer sponsored disability insurance",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "independent short term disability insurance",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "long term disability insurance through employer",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "long-term disability insurance through employer",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "short term disability insurance for employees",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "0",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "47",
+    "parent": 56,
+    "size": 1
+  }
+]
