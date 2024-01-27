@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "ytd"
+  },
+  {
+    "id": 2,
+    "name": "ytd pay",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is ytd amount on pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is ytd in pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what is ytd on a pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is ytd on pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "ytd meaning on pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ytd on a pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ytd on pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "ytd pay stub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ytd pay stub meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "gross pay ytd",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "gross salary ytd",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "pay period ytd",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "ytd calculator",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how do i calculate ytd income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how do you calculate ytd income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how to calculate ytd gross pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how to calculate ytd in payslip",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to calculate ytd income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to calculate ytd income from pay stub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "ytd calc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "ytd calculation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "ytd calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "ytd calculator income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "ytd calculator paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "ytd formula",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "32",
+    "parent": 30,
+    "size": 1
+  }
+]
