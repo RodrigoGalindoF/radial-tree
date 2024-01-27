@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "name": "paystub"
+  },
+  {
+    "id": 2,
+    "name": "paystub paystubs",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "best paystub maker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "best paystubs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "blank paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "cheap paystubs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "copy of paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "create fake paystubs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "create paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "create paystubs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "create your own paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "creating paystubs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "define paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "dg paystub",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "dg employee pay portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "dg money network paystub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "dg paystub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "dg paystub login",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "dg paystub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "dg paystub portal login",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "dg paystubportal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "dg paystubs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "my dg paystub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "paystub calculator",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "california paystub calculator",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "free paystub calculator",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "free paystub generator with calculator",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "paystub calc",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "paystub calculator",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "paystub calculator california",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "paystub calculator florida",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "paystub calculator free",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "paystub calculator hourly",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "paystub calculator texas",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "paystub generator with calculator",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "paystub maker with calculator",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "paystubs get",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "find my paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how do i find my paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "how do i get a paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "how to access paystubs",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how to check paystubs",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how to find my paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how to find old paystubs",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how to find paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how to find paystubs",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how to find paystubs on workday",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how to get a paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how to get my paystub",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "paystub view",
+    "parent": 1
+  },
+  {
+    "id": 52,
+    "name": "dayforce paystub pdf",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "edit my paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "edit paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "how to edit paystubs",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how to read a paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how to read my paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how to read paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "intuit view my paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "paystub example pdf",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "paystub view",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "pdf paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "print paystub",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "paystub california",
+    "parent": 1
+  },
+  {
+    "id": 65,
+    "name": "ca paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "california paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "california paystub requirements",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "california paystub requirements 2022",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "california paystub requirements 2023",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "paystub requirements by state",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "rhode island pay stub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "rhode island paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "ri paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "state of california paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "state of ri paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "state paystub",
+    "parent": 64,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "florida paystub",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "florida employee paystub",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "florida paystub",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "florida paystubs",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "florida state employee paystub",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "state of fl paystub",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "state of florida employee paystub",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "state of florida paystub",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "state of florida paystubs",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "login wwwmoneynetworkpaystubcom",
+    "parent": 1
+  },
+  {
+    "id": 87,
+    "name": "wwwmoneynetworkpaystubcom",
+    "parent": 86,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "wwwpaystub",
+    "parent": 86,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "wwwpaystubportalcom login",
+    "parent": 86,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "wwwpaystubportalcom7-11",
+    "parent": 86,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "wwwpaystubportalcom7-11 login",
+    "parent": 86,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 93,
+    "name": "0",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 95,
+    "name": "161",
+    "parent": 94,
+    "size": 1
+  }
+]
