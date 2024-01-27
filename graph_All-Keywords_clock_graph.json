@@ -1,0 +1,472 @@
+[
+  {
+    "id": 1,
+    "name": "clock"
+  },
+  {
+    "id": 2,
+    "name": "paylocity clock",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how to clock in on paylocity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how to clock in on paylocity app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how to clock in on paylocity mobile app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "paylocity app clock in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "paylocity clock in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "paylocity clock in and out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "paylocity clocking in and out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "paylocity punch clock",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "paylocity time clock",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "paylocity time clock app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "paylocity time clock kiosk",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "paylocity time clock login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "time card",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "can an employer change your time card",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "can my employer adjust my timecard",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "employee time card",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "employee time card software",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "employee time card system",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "employee time cards",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "employee timecard",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "employees time card",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "online employee time card",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "online time cards for employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "time card for employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "time card system for employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "app time",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "app for employee hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "app for employee time clock",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "apps for employees to clock in and out",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "best app for employee time clock",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "best employee clock in app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "employee clock in and out app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "employee clock in apps",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "employee scheduling and time clock app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "employee time app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "employee time card app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "employee time card app free",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "employee time clock app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "clock employees",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "do non exempt employees have to clock in and out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "do salaried employees have to clock in",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "do salaried employees have to clock in and out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "do salary employees clock in",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "do salary employees clock in and out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "employee clock",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "employee clock in",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "employee clock in and out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "employee clock in and out system",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "employee clock in clock out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "employee clock in machine",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "employee clock in out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "timekeeping employee",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "employee time keeping",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "employee time keeping software",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "employee time management",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "employee timekeeping",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "employee timekeeping software",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "employee timekeeping system",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "employer on demand timekeeping",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "manage employee time",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "time keeping for employees",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "timekeeping employer on demand",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "timekeeping employerondemand",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "timekeeping for employees",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "paycor clock",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "paycor clock in",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "paycor clock in app",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "paycor clock in login",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "paycor employee clock in",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "paycor time clock",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "paycor time clock app",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "paycor time clock login",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "paycor time clock sign in",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "paycor timeclock",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "0",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 80,
+    "name": "30",
+    "parent": 79,
+    "size": 1
+  }
+]
