@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "texas"
+  },
+  {
+    "id": 2,
+    "name": "texas tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "do you tax labor in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "employee taxes in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "employer payroll taxes in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "employer taxes in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how much are payroll taxes in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much is payroll tax in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how much is self employment tax in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how much is the payroll tax in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "is labor taxable in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "is there tax on labor in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "labor taxable in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "payroll tax in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "calculator paycheck",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "austin paycheck calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "austin texas paycheck calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "paycheck calculator after taxes texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "paycheck calculator austin",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "paycheck calculator for texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "paycheck calculator texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "paycheck calculator texas after taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "paycheck calculator texas salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "paycheck calculator tx",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "paycheck salary calculator texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "paycheck tax calculator texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "paycheckcalculator texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "texas paycheck",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "check after taxes texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how much is my paycheck after taxes in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much tax does texas take out of your paycheck",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how much tax is taken out of my paycheck texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how much tax is taken out of paycheck in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how much taxes are deducted from paycheck in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how much taxes are taken out of my paycheck texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how much taxes are taken out of paycheck in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how much taxes are taken out of paycheck texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how much taxes deducted from paycheck in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how much taxes deducted from paycheck texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how much taxes taken out of paycheck in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "tax texas",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "income tax brackets in texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "tax bracket 2022 texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "tax brackets 2022 texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "tax brackets in texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "texas income tax brackets",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "texas salary tax bracket",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "what tax bracket am i in texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "income tax in texas 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "income tax in texas 2023",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "income tax rate in texas 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "income tax texas 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "income tax texas 2023",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "0",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "200",
+    "parent": 56,
+    "size": 1
+  }
+]
