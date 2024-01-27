@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "hours"
+  },
+  {
+    "id": 2,
+    "name": "hours calculate",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate employee hours",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "calculate hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "calculate hour worked",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculate hours",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "calculate hours com",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculate hours for work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculate hours of work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "calculate hours online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "calculate hours work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "calculate hours worked in a day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "calculate how many hours worked",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "calculate job hours",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "hours week",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "full time employee hours per week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "minimum hours for part-time a week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "minimum part time hours per week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "minimum working hours per week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "part time employee hours per week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "salary hours per week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 23,
+    "name": "0",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "37",
+    "parent": 24,
+    "size": 1
+  }
+]
