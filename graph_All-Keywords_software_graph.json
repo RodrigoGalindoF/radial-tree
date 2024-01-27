@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "software"
+  },
+  {
+    "id": 2,
+    "name": "payroll software",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "best desktop payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "best international payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "best payroll platform",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "best payroll platforms",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "best payroll software canada",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "best payroll software uk",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "canada payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "desktop payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "desktop payroll software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "foundation payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "free payroll software uk",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "global payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "237",
+    "parent": 17,
+    "size": 1
+  }
+]
