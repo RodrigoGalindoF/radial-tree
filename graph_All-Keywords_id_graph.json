@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "id"
+  },
+  {
+    "id": 2,
+    "name": "federal id",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "application for federal id number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "apply for federal id number online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "bellevue university federal id number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "federal id",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "federal id number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "federal id number application",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "federal id number for health insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "federal id number hsa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "federal id numbers",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "federal id search",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "federal id#",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "federal identification no",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "number tax",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "define tax id number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "do individuals have tax id numbers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "find tax id numbers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "find trust tax id number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "my tax id number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "tax account number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "tax id number application online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "tax id number benefits",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "tax id number cost",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "tax id number definition",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "tax id numbers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "tax id numbers search",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "state id",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "employee state id number",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "employer state id",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "employer state id lookup",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "employer state id number",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "employer state id number example",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "employer state id number lookup",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "employer state id number total state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "employers state id",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "employers state id no",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "employers state id number",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "employers state id number lookup",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "employers state id number total state",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "53",
+    "parent": 43,
+    "size": 1
+  }
+]
