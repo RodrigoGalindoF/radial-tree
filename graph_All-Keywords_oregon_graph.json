@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "oregon"
+  },
+  {
+    "id": 2,
+    "name": "oregon salaries",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "average hourly wage in oregon",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "average oregon salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "average salary in oregon",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "average wage in oregon",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "oregon employee salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "oregon employee salaries 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "oregon government salaries 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "oregon government salaries 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "oregon paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "oregon public employee salary database",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "oregon salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "oregon state employee salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "oregon paycheck",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "calculate paycheck oregon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "final paycheck oregon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "oregon affordable care act",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "oregon equal pay act",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "oregon final paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "oregon final paycheck direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "oregon pay equity act",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "oregon pay stub requirements",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "oregon pay stubs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "oregon paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "oregon paycheck calc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "oregon termination laws final paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "oregon payroll",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "how to do payroll in oregon",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "oregon employer services portal",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "oregon payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "oregon payroll reporting system",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "oregon payroll tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "oregon payroll taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "oregon state employee benefits",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "oregon state employee search",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "oregon state employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "oregon state payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "oregon state payroll taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "oregon ui employer login",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "portland oregon",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "pa salary in oregon",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "pa salary oregon",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "pa salary portland",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "portland oregon income tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "portland oregon income tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "portland oregon state income tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "portland oregon tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "portland oregon teacher salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "portland salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "portland state tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "tax rate portland oregon",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "taxes portland maine",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "0",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "21",
+    "parent": 56,
+    "size": 1
+  }
+]
