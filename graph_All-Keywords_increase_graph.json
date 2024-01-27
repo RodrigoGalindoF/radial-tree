@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "increase"
+  },
+  {
+    "id": 2,
+    "name": "calculator salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "annual increase calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "annual pay increase calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "annual pay raise calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "annual raise calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "annual salary increase calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "annual salary raise calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculate wage increase",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "prorated salary increase calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "raise calculator salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "raise in salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "raise salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "salary calculator increase",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "increase salary",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "annual pay raise average",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "annual raise",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "average annual pay raise",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "average annual raise percentage",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "average salary increase for promotion to manager",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to calculate merit increase",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to negotiate annual raise",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "justify salary increase",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "justifying salary increase",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "negotiating a salary increase",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "negotiating salary increase",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "performance review raise",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "wage increase",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "average annual wage increase",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "average wage increase per year",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "average yearly wage increase",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "compound wage increase",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "us wage growth over time",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "united states wage growth",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "us wage growth",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "us wage growth by year",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "us wage increase",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "wage increases by year",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "yearly salary increase average",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "yearly wage increase",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "36",
+    "parent": 43,
+    "size": 1
+  }
+]
