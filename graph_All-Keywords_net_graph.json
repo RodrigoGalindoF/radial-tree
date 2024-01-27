@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "net"
+  },
+  {
+    "id": 2,
+    "name": "net calculate",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate my net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "calculate my net salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "calculate net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculate net pay from salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "calculate net pay salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculate net salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculate salary from net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "calculating net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "calculating net wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "compute net salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "formula for calculating net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "formula to calculate net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "gross net",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "base salary is net or gross",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "base salary net or gross",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "base salary vs gross salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "basic salary vs gross salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "difference between gross and net salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "difference between gross and net wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "gross and net salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "gross payment vs net payment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "gross salary and net salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "gross salary to net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "gross salary to net salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "gross salary vs net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "net salary",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "calculate net income california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "calculate net pay california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "calculate net salary california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "calculator net salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "calculatornet salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "california net salary calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "net calculator salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "net pay salary calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "net salary after tax calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "net salary calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "net salary calculator california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "net salary calculator massachusetts",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "net gross",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "calculate gross from net",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "calculation net",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "gross net formula",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "gross to net calculation",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "gross-to-net calculations",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how to calculate gross and net",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how to calculate gross from net",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how to calculate net to gross",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "net calculation",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "net calculation from gross",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "net change calculation",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "net gross formula",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "0",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "111",
+    "parent": 56,
+    "size": 1
+  }
+]
