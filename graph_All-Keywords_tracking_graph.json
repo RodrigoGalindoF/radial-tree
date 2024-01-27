@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "tracking"
+  },
+  {
+    "id": 2,
+    "name": "time tracking",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "construction employee time tracking app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "contractor time cards",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "contractor time clock",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "contractor time management",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "contractor time sheet",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "contractor time tracking app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "contractor time tracking spreadsheet",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "contractor tracking",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "contractor tracking software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "federal contractor timekeeping requirements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "gusto contractor time tracking",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "gusto time tracking for contractors",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "employee hours",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "a manager records the number of hours x",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "app for tracking employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "app to keep track of employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "app to keep track of employees hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "app to track employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "app to track employee hours and location",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "apps that track employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "apps to track employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "best app to keep track of employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "best way to keep track of employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "best way to keep track of employees hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "best way to track employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "75",
+    "parent": 30,
+    "size": 1
+  }
+]
