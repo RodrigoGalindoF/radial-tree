@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "laws"
+  },
+  {
+    "id": 2,
+    "name": "california laws",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ca labor law breaks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ca labor law for breaks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ca labor laws breaks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ca labor laws for breaks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "california break labor laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "california break laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "california break laws 12 hour shift",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "california break laws 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "california employee break laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "california hourly employee break laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "california labor break laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "california labor code breaks",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "18",
+    "parent": 17,
+    "size": 1
+  }
+]
