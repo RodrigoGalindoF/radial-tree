@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "records"
+  },
+  {
+    "id": 2,
+    "name": "payroll retention",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how long do you need to keep payroll records",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how long should you keep payroll records",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how long to keep payroll records",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how long to keep payroll records for business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how long to retain payroll records",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "payroll document retention requirements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "payroll file retention",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "payroll record keeping",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "payroll record keeping requirements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "payroll record retention",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "payroll record retention guidelines",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "payroll record retention requirements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "records long",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how long are employee records kept",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how long are employers required to keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how long are you required to keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how long do businesses need to keep records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how long do employers keep records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how long does a company have to keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how long does a company have to keep records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how long does a company keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how long does an employer have to keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how long does an employer keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how long does an employer need to keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how long does employer have to keep employee records",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "19",
+    "parent": 30,
+    "size": 1
+  }
+]
