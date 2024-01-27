@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "self"
+  },
+  {
+    "id": 2,
+    "name": "tax self",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "federal income tax rate for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "self employed income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "self employed tax rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "self employement tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "self employment federal tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "self employment income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "self employment tax percent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "self employment tax percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "self employment tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "self employment tax rate federal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "self employment tax rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "self-employed tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "self employed",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "1099 for self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "1099 for self employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "1099 form for self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "1099 form for self employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "1099 form self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "1099 is self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "1099 self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "1099 self employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "1099 self employment tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "1099 self-employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "1099 tax form self employment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "1099 vs self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "much self",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "how much are self employment taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how much are self-employment taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much are taxes for self employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how much can you earn before tax self employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how much can you earn self employed before paying tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how much can you make self employed without paying taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how much for self employment tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how much income tax for self employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how much is self employment tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how much is self employment taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how much is self-employment tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how much is the self-employment tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "self pay",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "how do i do self employment taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how do i pay my self employment tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how do i pay my self employment taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how do i pay self employment tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how do i pay tax as self employed",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how do i pay tax self employed",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how do i pay tax when self employed",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how do self employed pay themselves",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how do you pay self employment tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how do you pay tax as self employed",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how to do taxes as self employed",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how to do taxes for self employed",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "0",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "103",
+    "parent": 56,
+    "size": 1
+  }
+]
