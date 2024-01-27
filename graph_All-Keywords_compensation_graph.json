@@ -1,0 +1,649 @@
+[
+  {
+    "id": 1,
+    "name": "compensation"
+  },
+  {
+    "id": 2,
+    "name": "compensation california",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ca state workers compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ca workers compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ca workers compensation coverage verification",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ca workers compensation laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "california compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "california compensation law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "california compensation laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "california department of workers compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "california pay laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "california state workers compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "california workers compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "california workers compensation benefits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "deferred compensation",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "benefits of deferred compensation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "can i close my deferred compensation account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "deferred comp retirement plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "deferred compensation plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "deferred compensation plan benefits",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "deferred compensation plan examples",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "deferred compensation plan login",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "deferred compensation plan withdrawal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "deferred compensation plans",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "deferred compensation retirement plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "deferred salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "deferred salary agreement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "compensation analysis",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "compensation analysis",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "compensation analysis report",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "compensation analysis software",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "compensation analysis tools",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "compensation comparison calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "compensation comparison tool",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "compensation data analysis",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "compensation differential",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "compensation examples",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "compensation math definition",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "compensation meaning",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "compensation modeling",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "compensation management",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "best incentive compensation management software",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "compensation administration",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "compensation management",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "compensation management in hr",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "compensation management in hrm",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "compensation management software vendors",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "compensation management solutions",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "compensation management tool",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "compensation management tools",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "compensation plan management",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "compensation plan software",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "compensation planning software",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "deferral salary",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "defer salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "deferral plan verification",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "employee 401k deferrals are subject to which taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "employee deferral",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "employee deferral 401k",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "employee deferral definition",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "employee salary deferral",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "employee salary deferral 401k",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "pre tax salary deferral",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "salary deferral",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "salary deferral 401k",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "salary deferral agreement",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "florida workers",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "florida worker compensation exemption",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "florida workers comp verification",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "florida workers compensation coverage verification",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "florida workers compensation insurance verification",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "florida workers compensation proof of coverage",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "state of florida workers compensation exemption",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "who is exempt from workers compensation insurance in florida",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "workers comp verification florida",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "workers compensation florida exemption",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "payroll workers",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "how does salary payroll work",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "payroll and salary",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "payroll and workers compensation",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "payroll employee salary",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "payroll jobs salary",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "payroll salary",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "payroll tax and workers compensation",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "payroll wages",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "payroll workers compensation",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "salary payroll",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "what payroll is included in a workers compensation audit",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "workers compensation and payroll",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "compensation excluded",
+    "parent": 1
+  },
+  {
+    "id": 91,
+    "name": "define non employee compensation",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "excluded from federal taxable wages",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "is nonemployee compensation considered wages",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "is nonemployee compensation earned income",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "is nonemployee compensation taxable",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "non employee compensation meaning",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "what does excluded from taxable wages mean",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "whats non employee compensation",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "workers compensation benefits are excluded from gross income",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "premium calculate",
+    "parent": 1
+  },
+  {
+    "id": 101,
+    "name": "calculate premium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "how to calculate premium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "how to calculate the premium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "how to calculate wc premium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "premium rate factors",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "premium rate factors 15 10",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 108,
+    "name": "0",
+    "parent": 107,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 110,
+    "name": "118",
+    "parent": 109,
+    "size": 1
+  }
+]
