@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "name": "chicago"
+  },
+  {
+    "id": 2,
+    "name": "chicago calculator",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate my paycheck chicago",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "chicago paycheck calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "chicago salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "chicago salary tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "chicago tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "chicago taxes calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "chicago transfer tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "paycheck calculator chicago",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "payroll calculator chicago",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "payroll tax calculator chicago",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "property tax calculator chicago",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "property tax chicago calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "salary illinois",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "chicago nurse salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "chicago rn salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "nurse salary chicago",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "nurses salary illinois",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "nursing salary chicago",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "nursing salary illinois",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "rn illinois salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "rn salary in illinois",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "rn salary in illinois per hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "chicago salary",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "average chicago salary",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "average hourly wage in chicago",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "average it salary in chicago",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "average salary chicago",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "chicago salary",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "chicago salary average",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "hr salary chicago",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "product owner salary chicago",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "sales engineer salary chicago",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "0",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 38,
+    "name": "6",
+    "parent": 37,
+    "size": 1
+  }
+]
