@@ -1,0 +1,1183 @@
+[
+  {
+    "id": 1,
+    "name": "calculator"
+  },
+  {
+    "id": 2,
+    "name": "calculator paycheck",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "paycheck calculator chesapeake va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "paycheck calculator for va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "paycheck calculator richmond va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "paycheck calculator va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "paycheck calculator west virginia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "paycheck tax calculator va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "paycheck tax calculator virginia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "payroll calculator va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "payroll calculator virginia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "payroll tax calculator va",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "payroll tax calculator virginia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "va paycheck calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "calculator tax",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "1099 tax calculator nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "after tax calculator new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "after tax calculator nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "after tax income calculator new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "after tax income calculator new york city",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "after tax income calculator nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "after taxes calculator new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "after taxes calculator ny",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "after taxes calculator nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "income after tax calculator new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "income after tax calculator nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "income tax calculator new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "salary calculator",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "after tax salary calculator new york",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "calculate salary after taxes new york",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "calculate salary after taxes nyc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "new york after tax salary calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "new york city salary tax calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "new york salary calculator after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "new york salary tax calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "new york state salary tax calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "new york state tax calculator for salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "ny salary calculator after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "ny salary tax calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "nyc salary calculator after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "calculator hourly",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "hourly pay after tax calculator",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "hourly tax calculator",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "hourly wage after tax calculator",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "hourly wage and tax calculator",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "hourly wage calculator after tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "hourly wage calculator after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "hourly wage calculator with tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "hourly wage tax calculator",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "income tax calculator hourly",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "income tax calculator hourly rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "per hour tax calculator",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "salary to hourly calculator after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "calculator income",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "calculator income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "calculator income tax calculator",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "calculator tax income",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "calculatornet income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "grossing up non taxable income calculator",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how to calculate tax calculator",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "income tax calculation calculator",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "income tax calculator",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "income tax calculator for",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "income tax calculator taxable income",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "income tax calculators",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "income tax tax calculator",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "calculator salary",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "annual salary calculator new york",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "annual salary calculator nyc",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "calculate net pay new york",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "calculate net pay nyc",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "calculate net salary new york",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "living wage calculator new york",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "living wage calculator nyc",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "net salary calculator new york",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "net salary calculator nyc",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "new york salary calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "new york state salary calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "new york wage calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "payroll calculator",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "new york city payroll calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "new york payroll tax calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "new york state payroll calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "ny payroll calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "ny payroll tax calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "ny state payroll calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "nyc payroll calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "nyc payroll tax calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "nys payroll calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "nys payroll tax calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "payroll calculator new york",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "payroll calculator new york city",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "calculator withholding",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "calculator federal tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "calculator for federal tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "calculator for payroll tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "calculator for tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "calculator payroll tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "calculator withholding tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "employee tax withholding calculator",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "employee withholding calculator",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "employer federal tax withholding calculator",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "employer payroll tax withholding calculator",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "employer payroll withholding calculator",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "employer tax withholding calculator",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "texas calculator",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "annual income calculator texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "annual salary calculator texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "monthly salary calculator texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "salary calculator for texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "salary calculator in texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "salary calculator texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "salary calculator texas after taxes",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "salary calculator usa texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "salary tax calculator texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "salary taxes calculator texas",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "texas salary calc",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "texas salary calculator",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "timecard calculator",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "calculate your time card",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "california timecard calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "employee calculator time card",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "employee time card calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "free timecard calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "hourly time card calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "payroll time card calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "timecard calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "timecard calculator free",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "timecard calculator net",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "timecard conversion",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "timecard conversion calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "calculator self",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "calculator self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "calculator tax for self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "deductible part of self-employment tax calculator",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "employed and self employed tax calculator",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "estimated tax calculator for self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "estimated tax calculator self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "estimated tax self employed calculator",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "estimated taxes calculator self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "federal income tax calculator self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "federal income tax self employed calculator",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "federal tax calculator self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "free tax calculator for self employed",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "calculator california",
+    "parent": 1
+  },
+  {
+    "id": 146,
+    "name": "annual salary calculator california",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "ca salary calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "ca salary tax calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "ca wage calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "calculate pay after taxes california",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "calculate salary after taxes california",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "calculate salary california",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "calculator salary california",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "california after tax salary calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "california monthly salary calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "california salary after tax calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "california salary calculator",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "hourly calculator",
+    "parent": 1
+  },
+  {
+    "id": 159,
+    "name": "hourly pay calculator nyc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "hourly paycheck calculator new york",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "hourly rate calculator nyc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "hourly salary calculator nyc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "hourly to salary calculator new york",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "hourly to salary calculator nyc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "hourly wage calculator new york",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "hourly wage calculator ny",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "hourly wage calculator nyc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "nyc paycheck calculator hourly",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "nys paycheck calculator hourly",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "paycheck calculator nyc hourly",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "calculator irs",
+    "parent": 1
+  },
+  {
+    "id": 172,
+    "name": "irsgov tax calculator 2022",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "irsgov w4 calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "irs calculator for taxes",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "irs calculator taxes",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "irs income calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "irs late payment calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "irs late payment interest calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "irs pay calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "irs payment calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "irs payment plan calculator",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "irs payment plan calculator 2022",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "irs payment plan calculator 2023",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "calculator wage",
+    "parent": 1
+  },
+  {
+    "id": 185,
+    "name": "calculator wage",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "hourly wage plus tips calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "how to calculate a waitress paycheck",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "how to calculate wages tips and other compensation",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "job wage calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "payroll calculator with tips",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 191,
+    "name": "payroll salary calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "payroll wage calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 193,
+    "name": "salary payroll calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 194,
+    "name": "salary to wage calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 195,
+    "name": "simple wage calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 196,
+    "name": "us wage calculator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 197,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 198,
+    "name": "63",
+    "parent": 197,
+    "size": 1
+  },
+  {
+    "id": 199,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 200,
+    "name": "3762",
+    "parent": 199,
+    "size": 1
+  }
+]
