@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "name": "ohio"
+  },
+  {
+    "id": 2,
+    "name": "ohio tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "federal tax rate in ohio",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how much are state taxes in ohio",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how much do taxes take out in ohio",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much does ohio take out for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how much does ohio take out in taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much does ohio taxes take out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how much is income tax in ohio",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how much is ohio income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how much is ohio state income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how much is ohio state tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how much is ohio tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how much is state income tax in ohio",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "paycheck ohio",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how much tax comes out of paycheck in ohio",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how much taxes come out of paycheck in ohio",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how much taxes deducted from paycheck ohio",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "ohio paycheck tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "ohio tax on paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "ohio tax paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "ohio taxes taken out of paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "paycheck after taxes ohio",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "taxes taken out of paycheck in ohio",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "taxes taken out of paycheck ohio",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "ohio withholding",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "ohio employer withholding registration",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "ohio state tax withholding",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "ohio state withholding",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ohio withholding",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "ohio withholding registration",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "ohio withholding tables 2022",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "ohio withholding tables 2023",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "ohio withholding tax registration",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "register for ohio withholding tax",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "state of ohio withholding",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "state of ohio withholding tables",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "ohio id",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "employer state id number ohio",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "ohio employer state id number",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "ohio employer state id number lookup",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "ohio tax id",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "ohio tax id lookup",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "ohio workers comp certificate",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "ohio workers compensation certificate",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "state of ohio tax id number lookup",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "tax id number lookup ohio",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "tax id number ohio lookup",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "ohio payroll",
+    "parent": 1
+  },
+  {
+    "id": 50,
+    "name": "ohio employer payroll taxes",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "ohio payroll",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "ohio payroll tax",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "ohio payroll taxes",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "ohio state employee payroll",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "ohio state university payroll",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "ohio university payroll",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "payroll taxes ohio",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "state of ohio employee payroll",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "state of ohio payroll",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "state of ohio payroll tax",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "state of ohio payroll taxes",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 63,
+    "name": "0",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 65,
+    "name": "55",
+    "parent": 64,
+    "size": 1
+  }
+]
