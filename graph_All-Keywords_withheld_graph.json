@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "withheld"
+  },
+  {
+    "id": 2,
+    "name": "withheld federal",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "at what income is federal tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "do you want federal tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "federal income tax not withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "federal income tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "federal income tax withheld meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "federal income taxes withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "federal tax income withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "federal tax not withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "federal tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "federal tax withheld meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "federal taxes withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "federal withheld tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "withheld taxes",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "amount of taxes withheld meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "income tax withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "income tax withheld meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "irs tax withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "tax to be withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "tax withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "tax withheld meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "taxes withheld",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "taxes withheld meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "taxes withheld means",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "what are withheld taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "what do taxes withheld mean",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "32",
+    "parent": 30,
+    "size": 1
+  }
+]
