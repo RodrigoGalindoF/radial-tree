@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "minimum"
+  },
+  {
+    "id": 2,
+    "name": "minimum income",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "federal minimum taxable income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "federal tax minimum",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "federal taxes minimum income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "filing taxes minimum earnings",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "minimum federal income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "minimum federal tax withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "minimum income for federal income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "minimum income for federal tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "minimum income for federal tax withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "minimum income for federal taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "minimum income for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "minimum income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "14",
+    "parent": 17,
+    "size": 1
+  }
+]
