@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "contribution"
+  },
+  {
+    "id": 2,
+    "name": "contribution limit",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "2022 maximum 401k contribution employee and employer",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "2022 self employed 401k limits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "401 k annual limit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "401 k employer contributions limit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "401k after tax limit 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "401k before tax limit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "401k contribution limits 2022 employer",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "401k contribution limits 2023 after tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "401k employee contribution limits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "401k employer contribution limits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "401k employer contribution limits 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "401k highly compensated employee limit 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "32",
+    "parent": 17,
+    "size": 1
+  }
+]
