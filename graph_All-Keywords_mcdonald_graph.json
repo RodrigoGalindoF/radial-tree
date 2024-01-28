@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "name": "mcdonald"
+  },
+  {
+    "id": 2,
+    "name": "mcdonalds salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "annual mcdonalds salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "annual salary for mcdonalds",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "annual salary for mcdonalds employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "annual salary of a mcdonalds employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "annual salary of a mcdonalds worker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "average mcdonalds salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "average salary for mcdonalds employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "average salary for mcdonalds worker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "average salary of a mcdonalds worker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "average salary of mcdonalds worker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "average yearly salary of mcdonalds employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how many employees does mcdonalds have globally",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "mcdonalds much",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "does mcdonalds pay overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how much do mcdonalds employees get paid",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how much do you get paid a year at mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how much do you get paid at mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how much do you get paid at mcdonalds at 14",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how much do you get paid in mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how much do you get paid mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how much do you get paid to work at mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how much do you get paid working at mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how much u get paid at mcdonalds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "mcdonalds starting",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "mcdonalds starting salary",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "mcdonalds starting wage",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "starting salary at mcdonalds",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "starting salary mcdonalds",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "starting wage at mcdonalds",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "starting wage at mcdonalds 2023",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "what is starting wage at mcdonalds",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "0",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "37",
+    "parent": 36,
+    "size": 1
+  }
+]
