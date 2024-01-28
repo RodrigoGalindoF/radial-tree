@@ -1,0 +1,1183 @@
+[
+  {
+    "id": 1,
+    "name": "salary"
+  },
+  {
+    "id": 2,
+    "name": "calculate salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate annual pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "calculate annual salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "calculate annual wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculate how much i make a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "calculate how much you make a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculate my annual salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculate salary yearly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "calculate year salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "calculate yearly pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "calculate yearly salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "calculate yearly wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "calculating yearly salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "salary teacher",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "average teachers salary in florida",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "miami florida teacher salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "palm beach teacher salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "polk county florida teacher salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "tampa fl teacher salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "tampa teacher salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "teacher salary in florida per hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "teacher salary in orlando fl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "teacher salary in orlando florida",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "teacher salary in palm beach county",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "teacher salary in west palm beach florida",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "teacher salary jacksonville fl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "tennessee salary",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "accountant salary tennessee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "average hourly wage in tn",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "average salary in tennessee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "average salary in tn",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "average salary tennessee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "average wage in tennessee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "east tennessee state salaries",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "ot salary tennessee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "pa salary in tennessee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "salaries in tn",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "state of tennessee employee salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "state of tennessee payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "salary calculate",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "calculate my salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "calculate salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "calculate the salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "calculate your salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "calculating salaries",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "calculating salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "calculating salary pay",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "calculation of salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "compute my salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "determining salary for employees",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how can i calculate my salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how do i calculate my salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "annual salary",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "annual pay",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "annual pay definition",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "annual pay means",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "annual payment meaning",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "annual salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "annual salary definition",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "annual salary meaning",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "annual salary rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "annual to salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "annualised salary meaning",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "annualized salary",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "annualized salary meaning",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "salary monthly",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "10000 a month salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "12 000 salary per month",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "define monthly salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "definition of monthly salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "employee monthly salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "estimate monthly salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "is monthly salary gross or net",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "monthly salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "monthly salary definition",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "monthly salary example",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "monthly to salary",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "monthly wage",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "california average",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "average annual salary california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "average annual salary in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "average california salary",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "average hourly pay in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "average hourly wage in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "average salary california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "average salary in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "average salary in california per hour",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "average wage california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "average yearly salary california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "average yearly salary in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "california average hourly wage",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "massachusetts salary",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "20 hours a week job annual income massachusetts",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "average salary in massachusetts",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "average salary massachusetts",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "average wage in massachusetts",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "average wage massachusetts",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "ma salary database",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "mass state salary",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "massachusetts average salary",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "massachusetts employee salaries",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "massachusetts government salaries",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "massachusetts nurse salary",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "massachusetts overtime laws for salary employees",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "hourly annual",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "annual income based on hourly wage",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "annual income from hourly",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "annual income to hourly",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "annual pay to hourly",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "annual rate to hourly",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "annual to hourly",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "annual to hourly pay",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "annual to hourly rate",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "convert hourly to annual income",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "hourly gross income",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "hourly income",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "hourly income to annual",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "state kentucky",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "average salary kentucky",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "government salaries kentucky",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "kentucky employee salary",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "kentucky salary",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "kentucky salary search",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "kentucky state employee salaries",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "kentucky state employee salaries 2022",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "kentucky state employee salaries 2023",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "kentucky state employee salary",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "kentucky state employees salaries",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "kentucky state employees salary",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "kentucky state salaries",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "salary taxes",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "after tax salary",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "after taxes salary",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "how much is my salary after tax",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "how much is my salary after taxes",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "how much salary after tax",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "how much will my salary be after taxes",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "is a salary after tax",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "is salary after tax",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "is salary after taxes",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "my salary after taxes",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "salary after tax",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "salary after taxes",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "salary compare",
+    "parent": 1
+  },
+  {
+    "id": 146,
+    "name": "comparable salary",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "compare my salary",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "compare salaries",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "compare salaries of jobs",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "compare salary",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "compare salary by year",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "compare wages",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "compare wages by job",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "compare wages by year",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "how does my salary compare",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "how does my salary compare to others",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "how to compare salaries",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "nc salary",
+    "parent": 1
+  },
+  {
+    "id": 159,
+    "name": "average hourly pay in nc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "average hourly wage in nc",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "average hourly wage in north carolina",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "average salary in north carolina",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "average salary north carolina",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "greensboro nc salary",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "nc employee pay",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "nc employee salary",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "nc employee salary database",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "nc salary",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "nc salary lookup",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "nc state employee budget 2023",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "salary wage",
+    "parent": 1
+  },
+  {
+    "id": 172,
+    "name": "difference between salary and wage",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "difference between wage and salary",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "pay vs salary",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "salaries and wages",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "salaries vs wages",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "salary and wage",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "salary or wage",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "salary v wage",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "salary versus wages",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "salary vs",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "salary vs wage",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "salary vs wages",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "estimator salary",
+    "parent": 1
+  },
+  {
+    "id": 185,
+    "name": "average estimator salary",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "cost estimator salary",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "estimator job salary",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "estimator salary",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "insurance estimator salary",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "job salary estimator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 191,
+    "name": "net salary estimator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "salary estimator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 193,
+    "name": "salary estimator by position",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 194,
+    "name": "salary estimator hourly",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 195,
+    "name": "salary for estimator",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 196,
+    "name": "sales estimator salary",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 197,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 198,
+    "name": "91",
+    "parent": 197,
+    "size": 1
+  },
+  {
+    "id": 199,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 200,
+    "name": "1596",
+    "parent": 199,
+    "size": 1
+  }
+]
