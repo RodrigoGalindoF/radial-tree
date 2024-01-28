@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "name": "security"
+  },
+  {
+    "id": 2,
+    "name": "ssactivewear ss",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ss activewear",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ssactiverwear",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ssactivewear login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ssactivewear phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "wwwsocialsecuritygovemployer",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "withholding social",
+    "parent": 1
+  },
+  {
+    "id": 9,
+    "name": "can i change my federal withholding online",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "can i change my social security tax withholding online",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "can i change my withholding on social security online",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "can you change social security tax withholding online",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "change social security tax withholding",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "change social security withholding",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "change social security withholding tax",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "change withholding for social security",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "changing social security tax withholding",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "changing withholding on social security",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how do i change my withholding on social security",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to change social security tax withholding",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "self social",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "name": "do self employed get social security benefits",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "do self employed pay into social security",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "do self employed pay social security",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "do self employed pay social security tax",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "do self employed pay social security taxes",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "do self employed people get social security",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "do self employed receive social security",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "how do i pay self employment social security tax",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how do i pay social security tax when self employed",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how do i pay social security taxes when self employed",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how do self employed pay social security",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how does self employed pay social security",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "stop social",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "at what age do you stop paying fica taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "at what age do you stop paying social security tax",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "at what age do you stop paying social security taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "at what point do you stop paying social security tax",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "when do i stop paying social security tax",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "when do social security taxes stop",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "when do stop paying social security tax",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "when do you quit paying social security tax",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "when do you stop paying medicare and social security taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "when do you stop paying medicare taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "when do you stop paying social security tax",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "when do you stop paying social security taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "deduction social",
+    "parent": 1
+  },
+  {
+    "id": 48,
+    "name": "deduction limit",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "max social security deduction",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "max social security deduction 2022",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "maximum deduction for social security",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "maximum social security deduction",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "maximum social security deduction 2022",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "social security deduction cap",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "social security deduction limit",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "social security deduction limit 2022",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "social security deduction max",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "social security deduction maximum",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "social security max deduction",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "federal social",
+    "parent": 1
+  },
+  {
+    "id": 61,
+    "name": "do federal taxes withheld include social security and medicare",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "do federal withholdings include social security",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "do you include medicare in federal withholding",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "does federal income tax withheld include social security and medicare",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "does federal tax withholding include social security",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "does federal taxes withheld include social security and medicare",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "does federal withholding include social security",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "does federal withholding include social security and medicare",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "does medicare tax count as federal withholding",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "does social security and medicare count as federal withholding",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "does social security count as federal withholding",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "does social security tax and medicare count as federal withholding",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "state social",
+    "parent": 1
+  },
+  {
+    "id": 74,
+    "name": "are state taxes taken out of social security",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "can state taxes be withheld from social security",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "can you have state taxes withheld from social security",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "does social security withhold state taxes",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "is social security tax federal or state",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "social security state tax",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "social security state tax withholding",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "social security tax by state",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "withholding state tax from social security",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "social tax",
+    "parent": 1
+  },
+  {
+    "id": 84,
+    "name": "is socialsecurity taxed",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "social tax",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "is social securty taxable",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "social sec tax",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "social sec tax rate",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "social secruity tax",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "social secuirty tax",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "social secuirty tax rate",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "social secuity tax",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "social secuity tax rate",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "social securtiy tax",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 96,
+    "name": "0",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 98,
+    "name": "89",
+    "parent": 97,
+    "size": 1
+  }
+]
