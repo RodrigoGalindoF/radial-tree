@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "salaried"
+  },
+  {
+    "id": 2,
+    "name": "salaried hourly",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "benefits of salaried vs hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "difference between hourly and salaried",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "difference between salaried and hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "difference between salaried and hourly employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "federal guidelines for salaried vs hourly employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "hourly vs salaried",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "hourly vs salaried employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "salaried employee vs hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "salaried employee vs hourly employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "salaried to hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "salaried vs hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "salaried vs hourly benefits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "hours salaried",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "can a full time employee work less than 40 hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "can salaried employees work less than 40 hours per week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how many hours can salaried employees work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how many hours do salaried employees work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how many hours does a salaried employee have to work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how many hours does a salaried employee work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how many hours is a salaried employee required to work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how many hours must a salaried employee work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how many hours should a salaried employee work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how many hours should salaried employees work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "salaried employee hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "salaried employees work hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "6",
+    "parent": 30,
+    "size": 1
+  }
+]
