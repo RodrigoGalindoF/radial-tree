@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "name": "flsa"
+  },
+  {
+    "id": 2,
+    "name": "flsa changes",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "changes in flsa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "changes to flsa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "define flsa status",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "does flsa apply to all employers",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "federal flsa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "federal futa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "flsa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "flsa changes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "flsa changes 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "flsa compliance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "flsa designation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "flsa laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "flsa test",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "duties test flsa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "enterprise coverage flsa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "flsa calculation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "flsa calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "flsa duties test",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "flsa duties test worksheet 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "flsa duties test worksheet 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "flsa enterprise coverage",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "flsa ot calculation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "flsa ot calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "flsa test",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "flsa penalties",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "flsa exceptions",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "flsa penalties",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "flsa violation",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "flsa violation examples",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "flsa violation penalties",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "flsa violations",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "penalties for violating flsa",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "flsa pay",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "flsa pay",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "flsa payment",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "flsa premium pay",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "flsa regular rate of pay",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "flsa regular rate of pay calculation",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "flsa standby pay",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "regular rate of pay flsa",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "0",
+    "parent": 43,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 46,
+    "name": "29",
+    "parent": 45,
+    "size": 1
+  }
+]
