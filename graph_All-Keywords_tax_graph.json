@@ -1,0 +1,1183 @@
+[
+  {
+    "id": 1,
+    "name": "tax"
+  },
+  {
+    "id": 2,
+    "name": "tax return",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "401 k tax return",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "401 tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "401 tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "401k after tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "401k and tax return",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "401k before or after tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "401k before tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "401k contribution on tax return",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "401k contribution tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "401k eligibility letter to employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "401k plan tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "401k reporting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "income tax",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "after tax income nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "federal income tax in new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "federal income tax ny",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "federal income tax nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "income after taxes new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "income after taxes nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "income tax for new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "income tax in new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "income tax in ny",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "income tax in nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "income tax in nys",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "income tax new york",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "deductions tax",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "calculate tax deductions",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how are federal tax deductions calculated",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how are tax deductions calculated",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how to add deductions on taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how to calculate a tax deduction",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how to calculate tax deduction",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how to calculate tax deductions",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how to do tax deductions",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how to figure out tax deductions",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how to find tax deductions",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how to get more deductions for taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how to get more deductions on taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "georgia tax",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "calculate georgia income tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "does georgia have an income tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "does georgia pay state taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "does georgia tax social security",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "estimated tax payments georgia",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "federal income tax georgia",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "file ga state taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "file georgia state taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "ga income tax return",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "ga income taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "ga state income tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "ga state tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "tennessee tax",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "are there state taxes in tennessee",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "do you file state taxes in tennessee",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "does tennessee have a state income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "does tennessee have a state tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "does tennessee have an income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "does tennessee have federal income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "does tennessee have income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "does tennessee have state income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "does tennessee have state tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "does tennessee have state taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "does tennessee pay state taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "does the state of tennessee have a state income tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "estimate taxes",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "2022 income tax estimate",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "2022 tax estimate",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "2023 taxes estimate",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "calculate 2023 estimated taxes",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "calculate estimated taxes 2022",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "calculate estimated taxes 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "estimate 2023 taxes",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "estimate income tax 2022",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "estimate income tax 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "estimate my federal taxes for 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "estimate my tax return 2022",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "estimate my tax return 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "oregon tax",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "oregon estimated tax",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "oregon estimated tax payment online",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "oregon estimated tax payments",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "oregon estimated taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "oregon state income tax estimator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "oregon state tax estimator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "oregon tax estimator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "oregon tax return estimator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "pay oregon estimated taxes",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "pay oregon estimated taxes online",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "pay oregon income tax online",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "pay oregon payroll taxes online",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "colorado tax",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "colorado employment tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "colorado family leave payroll tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "colorado family leave tax 2023",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "colorado final paycheck",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "colorado final paycheck law penalty",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "colorado paid family leave effective date",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "colorado paycheck",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "colorado payroll tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "colorado payroll taxes",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "colorado termination laws final paycheck",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "colorado wage tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "colorado wage withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "indiana tax",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "how to get a tax id number in indiana",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "indiana department of revenue tax id number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "indiana state tax id",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "indiana state tax id number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "indiana state tax id number lookup",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "indiana tax id",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "indiana tax id lookup",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "indiana tax id number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "indiana tax id number lookup",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "indiana tax identification number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "indiana taxpayer identification number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "state of indiana federal id number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "jersey new",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "does new jersey have state tax",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "does new jersey have state taxes",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "income tax for new jersey",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "income tax in new jersey",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "income tax jersey",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "income tax jersey city",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "income tax new jersey",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "jersey city payroll tax",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "jersey city taxes",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "jersey city taxes online",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "new jersey corporate income tax",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "new jersey corporation tax",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "futa tax",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "2021 futa tax rate",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "2023 futa tax limit",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "2023 futa tax rate",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "2023 futa tax rates",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "2023 futa tax rates and limits",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "2024 futa tax rate",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "employer futa tax rate 2022",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "futa maximum taxable earnings 2022",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "futa tax 2023",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "futa tax form 2022",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "futa tax limit",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "futa tax rate 2020",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "tax income",
+    "parent": 1
+  },
+  {
+    "id": 146,
+    "name": "7000 income tax",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "70000 how much tax will i pay",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "75000 income tax",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "federal income tax on 70000",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "federal tax on 70 000 income",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "federal tax on 70000",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "federal tax on 75000",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "federal taxes on 70 000 income",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "federal taxes on 70000",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "federal taxes on 70000 a year",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "how much federal tax on 70000",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "how much federal tax should i pay on $70 000",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "tax maryland",
+    "parent": 1
+  },
+  {
+    "id": 159,
+    "name": "baltimore md tax rate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "baltimore sales tax rate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "city of baltimore taxes",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "how much are maryland taxes",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "how much are taxes in maryland",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "how much does maryland take out for taxes",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "how much is income tax in maryland",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "how much is maryland income tax",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "how much is maryland sales tax",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "how much is maryland state income tax",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "how much is maryland state tax",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "how much is maryland tax",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "ss tax",
+    "parent": 1
+  },
+  {
+    "id": 172,
+    "name": "federal taxes on ss",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "how is ss taxed",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "how is ssa taxed",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "how much is ss tax",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "is ss income taxed",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "is ss taxed",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "is ss taxed as income",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "is ss taxed federal",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "is ss taxed federally",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "is ssa taxable",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "is ssi taxable",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "is ssi taxed",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "tax nj",
+    "parent": 1
+  },
+  {
+    "id": 185,
+    "name": "income tax percentage in nj",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "income tax rate new jersey",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "new jersey income tax percentage",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "new jersey state income tax percentage",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "new jersey state income tax rate",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "new jersey state income tax rates",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 191,
+    "name": "new jersey tax percentage",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "nj federal income tax rate",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 193,
+    "name": "nj federal tax rate",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 194,
+    "name": "nj income tax percentage",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 195,
+    "name": "nj income tax rate",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 196,
+    "name": "nj state and federal tax rate",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 197,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 198,
+    "name": "172",
+    "parent": 197,
+    "size": 1
+  },
+  {
+    "id": 199,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 200,
+    "name": "4151",
+    "parent": 199,
+    "size": 1
+  }
+]
