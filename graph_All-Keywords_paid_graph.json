@@ -1,0 +1,589 @@
+[
+  {
+    "id": 1,
+    "name": "paid"
+  },
+  {
+    "id": 2,
+    "name": "fmla paid",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "are you paid during fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "can i get paid while on fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "can you get paid for fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "can you get paid on fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "can you get paid through fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "do i get paid for fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "do you get paid on fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "do you get paid when you take fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "do you get paid when youre on fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "do you get paid while on fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "do you get paid with fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "do you still get paid on fmla",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "paid get",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "benefits of getting paid on the 1st and 15th",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "can you get paid early",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "cards that let you get paid early",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "cards to get paid early",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "do you get paid early for labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "does varo get paid early",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "does wisely get paid early",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "get paid up to 3 days faster",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "get paid up to 4 days faster",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "getting paid on the 15th and 30th",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "getting paid on the 1st and 15th",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "hourly benefits of fasting chart",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "paid meaning",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "define paid",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "define paid in full",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "meaning of paid out",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "paid date meaning",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "paid define",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "paid full meaning",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "paid out meaning",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "paid every",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "benefits of being paid weekly",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "disadvantages of getting paid monthly",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "disadvantages of getting paid weekly",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "get paid every two weeks",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "get paid every week",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "getting paid every 2 weeks",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "getting paid every two weeks",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "getting paid weekly",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how does getting paid biweekly work",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how does getting paid every 2 weeks work",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how does getting paid weekly work",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "i get paid every two weeks",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "double paid",
+    "parent": 1
+  },
+  {
+    "id": 50,
+    "name": "do you get paid double on labor day",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how do you get paid double time",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "labor day double pay",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "paid double",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "paid double on holidays",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "paid double time on holidays",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "when do you get paid double time",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "when is double time paid",
+    "parent": 49,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "paid weekly",
+    "parent": 1
+  },
+  {
+    "id": 59,
+    "name": "do ups get paid weekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "do ups get paid weekly or biweekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "do walmart employees get paid weekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "do walmart get paid weekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "do walmart get paid weekly or biweekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "does ups get paid weekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "does ups get paid weekly or biweekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "does walmart get paid every week",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "does walmart get paid weekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "does walmart get paid weekly or biweekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "is walmart paid weekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "is walmart paid weekly or biweekly",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "paid time",
+    "parent": 1
+  },
+  {
+    "id": 72,
+    "name": "get paid time and a half",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "getting paid time and a half",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "non worked paid time",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "not getting paid on time california",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "paid at time and a half",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "paid on time",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "paid time and a half",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "paid volunteer time",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "paid volunteer time off",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "what does getting paid time and a half mean",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "when do you get paid time and a half",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "paid month",
+    "parent": 1
+  },
+  {
+    "id": 84,
+    "name": "getting paid monthly",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "getting paid once a month",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "getting paid twice a month",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "paid monthly",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "paid twice a month",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "payroll twice a month is called",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "twice a month payroll",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "weekly get",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "do nurses get paid weekly",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "do nurses get paid weekly or biweekly",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "do rn get paid weekly or biweekly",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "how much do nurses get paid weekly",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "nurse weekly salary",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 98,
+    "name": "0",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 100,
+    "name": "81",
+    "parent": 99,
+    "size": 1
+  }
+]
