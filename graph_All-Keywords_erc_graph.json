@@ -1,0 +1,513 @@
+[
+  {
+    "id": 1,
+    "name": "erc"
+  },
+  {
+    "id": 2,
+    "name": "erc irs",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "erc irs phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "erc irs status",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "erc status irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "erc status with irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "erc tax credit irs phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "erc tax credit phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how to check erc status with irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how to check the status of erc with irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "irs check erc status",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "irs erc check status",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "irs erc credit phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "irs erc refund status phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "erc refund",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "are erc refunds taxable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "are erc refunds taxable income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "erc payroll tax refund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "erc payroll tax refund program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "erc refund irs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "erc refund status irs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "erc tax credit refund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "erc tax credit refund status",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "erc tax refund 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "erc tax refund status",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "erc tax refunds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "ertc refund status irs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "erc employees",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "can self employed get erc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "can you get erc if you are self-employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "employee erc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "erc amount per employee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "erc credit for self employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "erc credit self employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "erc eligible employer",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "erc employment",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "erc for employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "erc for self employed",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "erc full time employee",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "erc number of employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "erc payment",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "erc payment",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "erc payment delays",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "erc payment status",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "erc payment timeline",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "erc payments",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "erc payments timeline",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "ertc advance payment",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "ertc payment",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "ertc payment status",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how is the erc credit paid",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how is the erc paid out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "when will erc credits be paid",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "form erc",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "erc form download",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "erc forms",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "ertc application form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "ertc form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "form 941 x erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "form 941 x erc example",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "form 941 x for ertc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "form 941-x for erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "form 941x for erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "form 941x for ertc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "form 944 erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "erc qualifications",
+    "parent": 1
+  },
+  {
+    "id": 67,
+    "name": "erc grant qualifications",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "erc loan qualifications",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "erc qualification requirements",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "erc qualification rules",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "erc qualifications irs",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "ertc qualifications irs",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "irs erc qualifications",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "irs erc requirements",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "irs ertc qualifications",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "erc wages",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "erc eligible wages",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "erc qualified wages 2020",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "erc wages",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "how to calculate qualified wages for erc",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "qualified wages for erc 2020",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "qualified wages for erc 2021",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "what are qualified wages for erc 2021",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 85,
+    "name": "0",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 87,
+    "name": "44",
+    "parent": 86,
+    "size": 1
+  }
+]
