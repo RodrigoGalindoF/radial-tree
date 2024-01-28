@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "employed"
+  },
+  {
+    "id": 2,
+    "name": "self employed",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "401 for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "401 k for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "401 k plans for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "401 k self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "401k contribution self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "401k for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "401k for self employed llc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "401k plans for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "401k retirement plans for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "401k self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "best 401k for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "best 401k plans for self employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "retirement self",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "best retirement fund for self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "retirement plan for self employed individuals",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "retirement plans for self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "retirement plans for the self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "retirement plans self employed",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "self employed retirement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "self employed retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "self employed retirement contribution",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "self employed retirement fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "self employed retirement options",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "self employed retirement plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "self employed retirement plan options",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "80",
+    "parent": 30,
+    "size": 1
+  }
+]
