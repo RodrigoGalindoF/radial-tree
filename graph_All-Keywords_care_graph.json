@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "care"
+  },
+  {
+    "id": 2,
+    "name": "care dependent",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "dependant care deduction",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "dependant care eligible expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "dependant care expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "dependant care flexible spending account eligible expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "dependent care account eligible expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "dependent care deduction",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "dependent care eligible expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "dependent care expense",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "dependent care expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "dependent care expenses examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "dependent care expenses meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "dependent care flexible spending account eligible expenses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "14",
+    "parent": 17,
+    "size": 1
+  }
+]
