@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "island"
+  },
+  {
+    "id": 2,
+    "name": "ri payroll",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "average salary in ri",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "payroll companies in ri",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "payroll ri",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ri payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "ri payroll transparency",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ri salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ri salary transparency",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "ri state employee salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ri state payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "ri state salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "ri state salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "ri transparency payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "2",
+    "parent": 17,
+    "size": 1
+  }
+]
