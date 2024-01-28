@@ -1,0 +1,413 @@
+[
+  {
+    "id": 1,
+    "name": "get"
+  },
+  {
+    "id": 2,
+    "name": "get receive",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "do w-2s have to be mailed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "if you do not receive your w-2 by",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "if you do not receive your w-2 by what date",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "when are w-2 sent out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "when are w-2s mailed out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "when are w-2s sent out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "when are you supposed to receive your w-2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "when do i get my w-2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "when do i get w-2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "when do i receive my w-2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "when do w-2 get sent out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "when do w-2 have to be sent out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "find online",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "can i find my w-2 online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "cant find my w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "find my w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "find my w-2 online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "find my w-2 online 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "find w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "find w-2 online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "find your w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "find your w-2 online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how can i find my w-2 online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how do i find my w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how to find my w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "online get",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "can i get my w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "can you get your w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "get my w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "get w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "get your w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how do i get my w-2s online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how to access w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how to get w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how to get w-2s online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how to get your w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "online w-2",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "w-2 online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "come get",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "w-2 date",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "w-2 when",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "when are w-2 available",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "when are w-2s",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "when are w-2s available",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "when are w-2s released",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "when do the w-2s come out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "when do w-2 come out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "when do w-2 go out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "when do w-2s go out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "when do w-2s",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "when do w-2s come out",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "copy get",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "copies of w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "copy of w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "download w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how can i get a copy of my w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how can i get a copy of my w-2s",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how do i get a copy of my w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "how to access my w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "how to access w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "how to get a copy of my w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "how to get a copy of your w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "how to get copy of w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how to retrieve old w-2",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "0",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 70,
+    "name": "61",
+    "parent": 69,
+    "size": 1
+  }
+]
