@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "accountant"
+  },
+  {
+    "id": 2,
+    "name": "accountant salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "accountant hourly pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "accountant hourly wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "accounting annual salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "accounting average salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "accounting business salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "average pay for accountant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "average pay for accountants",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "average pay for an accountant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "average pay for staff accountant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how much accountant charge for payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how much do accountants charge for payroll services",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how much do accountants make an hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "near accountants",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "accountant hiring near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "accountants near",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "accountants near my location",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "best business tax accountants near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "payroll accountant near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "payroll accountants near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "tax accountant jobs near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "tax accounting jobs near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "tax preparers jobs near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "top rated tax accountants near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "average accountant",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "average accountant salary california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "average accountant salary in california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "average salary for accountant in california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "average salary for an accountant in california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "average salary of accountant in california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "average salary of an accountant in california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 34,
+    "name": "0",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "20",
+    "parent": 35,
+    "size": 1
+  }
+]
