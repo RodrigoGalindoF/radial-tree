@@ -1,0 +1,543 @@
+[
+  {
+    "id": 1,
+    "name": "florida"
+  },
+  {
+    "id": 2,
+    "name": "florida salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "nurse salary florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "nurse salary florida 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "nurse salary florida per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "nurse wages in florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "nursing salary florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "nursing salary in florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "rn salary in florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "rn salary in florida hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "rn salary in florida per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "average annual income florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "average annual salary in florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "average hourly pay in florida",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "florida employee",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "employee salaries florida",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "fl employee salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "fl state employee salary search",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "florida county employee salary search",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "florida employee pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "florida employee salaries",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "florida employee salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "florida employee salary search",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "florida salaried employee laws 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "florida salary employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "florida salary search",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "florida state employee pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "payroll florida",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "florida employee payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "florida payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "florida state payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "florida state payroll search",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "florida state university payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "floridahasarighttoknow payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how to do payroll in florida",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "my florida payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "north florida payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "north florida payroll services",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "open payroll florida",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "payroll llc florida",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "florida much",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "how much are income taxes in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how much are taxes in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how much do taxes take out in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how much do you pay in taxes in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how much income tax in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how much is federal tax in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how much is florida state income tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how much is florida tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how much is income tax in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how much is state tax in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how much is taken out for taxes in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how much is the federal income tax in florida",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "taxes florida",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "100k salary after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "120k after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "120k salary after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "150k after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "150k salary after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "50000 after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "50k after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "55000 after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "55k after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "60k after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "65000 after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "65k after taxes florida",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "florida withholding",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "fl withholding tax",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "florida payroll tax registration",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "florida state tax form for employees",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "florida state tax forms",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "florida state withholding",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "florida state withholding form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "florida state withholding tax",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "florida tax withholding form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "florida withholding",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "florida withholding tax",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "florida withholding tax form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "florida withholding tax registration",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "jacksonville fl",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "jacksonville airport employment",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "jacksonville state university employment",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "paycor jacksonville fl",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "payroll companies in jacksonville fl",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "payroll companies jacksonville fl",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "payroll services jacksonville fl",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "salaries in jacksonville fl",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "salary calculator jacksonville fl",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 90,
+    "name": "0",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "99",
+    "parent": 91,
+    "size": 1
+  }
+]
