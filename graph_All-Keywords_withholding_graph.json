@@ -1,0 +1,1183 @@
+[
+  {
+    "id": 1,
+    "name": "withholding"
+  },
+  {
+    "id": 2,
+    "name": "federal withholding",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate federal income tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "calculate federal income tax withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "calculate federal tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculate federal tax withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "calculate federal taxes withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculate federal withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculate federal withholding tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "calculate how much federal tax should be withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "calculate my federal withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "calculating federal tax withheld",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "calculating federal tax withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "calculating federal withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "withholding tables",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "2020 federal tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "2020 federal withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "2021 tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "2022 federal payroll tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "2022 federal tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "2022 federal withholding tax tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "2022 payroll withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "2022 tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "2022 withholding tax tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "2023 federal tax withholding table",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "2023 federal tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "2023 irs tax withholding tables",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "withholding estimator",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "2022 tax withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "federal tax withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "federal withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "irs tax withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "irs withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "irs withholding estimator 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "tax withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "tax withholding estimator 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "tax withholding estimator 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "tax withholding estimator irs",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "use the tax withholding estimator on irsgov",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "withholding estimator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "withholding calculate",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "actual withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "additional withholding amount",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "additional withholdings",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "am i subject to withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "am i withholding enough",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "calculate withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "calculate withholdings",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "calculating withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "change in withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "extra withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "figure out withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how do i calculate withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "withholding form",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "dc withholding form 2022",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "dc withholding form 2023",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "employee federal withholding form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "employee withholding form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "employee withholding forms",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "employer withholding tax form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "employment withholding form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "federal employee withholding form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "federal income tax withholding form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "federal tax withholding forms",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "federal withholding forms",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "federal withholding tax form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "withholding california",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "am i subject to california withholding",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "ca employee withholding form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "ca state withholding",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "ca state withholding 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "ca state withholding form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "ca state withholding tax form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "ca withholding",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "ca withholding 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "california employees withholding allowance certificate",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "california state withholding",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "california state withholding 2023",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "california state withholding form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "withholding georgia",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "are you exempt from georgia withholding",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "ga state tax withholding",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "ga state withholding tax",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "ga tax withholding form",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "ga withholding",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "ga withholding form",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "ga withholding registration",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "ga withholding tax",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "ga withholding tax form",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "georgia employer withholding",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "georgia nonresident withholding requirements",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "georgia state tax withholding",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "withholding exempt",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "are you claiming full exemption from federal tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "are you exempt from federal withholding yes or no",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "claiming full exemption from federal tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "do you claim exemption from federal income tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "exempt from federal tax withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "how do i know if i am exempt from withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "how to know if you are exempt from withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "how to know if youre exempt from withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "is there a threshold for federal withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "it-2104 withholding vs exempt",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "should i claim exemption from withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "what does it mean to be exempt from withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "withholding mean",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "higher withholding",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "reduce withholding meaning",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "what are withholdings",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "what does additional withholding mean",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "what does extra withholding mean",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "what does higher withholding mean",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "what does override withholding mean",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "what does withholding mean",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "what is a withholding",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "what is a withholding agent",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "what is additional withholding",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "what is extra withholding",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "withholding nc",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "am i exempt from nc withholding",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "nc state tax withholding",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "nc state tax withholding form",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "nc state tax withholding rate",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "nc state withholding",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "nc state withholding form",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "nc state withholding tax rate",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "nc state withholding tax table 2022",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "nc tax withholding",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "nc tax withholding calculator",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "nc tax withholding form",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "nc withholding",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "withholding new",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "new york city withholding",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "new york nonresident withholding",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "new york state tax withholding tables",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "new york state withholding",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "new york state withholding allowances",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "new york state withholding form",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "new york state withholding tables",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "new york state withholding tax tables",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "new york withholding",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "new york withholding allowance",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "new york withholding form",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "new york withholding registration",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "state withholding",
+    "parent": 1
+  },
+  {
+    "id": 146,
+    "name": "employee state tax withholding",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "employees working in multiple states withholding taxes",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "federal and state tax withholding",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "is state income tax the same as state withholding",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "mass state withholding form",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "ms state withholding form",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "state income tax withholding",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "state income tax withholding rules",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "state income withholding",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "state tax withholding",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "state tax withholding forms by state",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "state tax withholding percentage",
+    "parent": 145,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "withholding certificate",
+    "parent": 1
+  },
+  {
+    "id": 159,
+    "name": "d4 dc withholding allowance certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "edd employees withholding allowance certificate 2022",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "edd employees withholding allowance certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "employee withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "employees withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "how to fill employees withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "how to fill out employee withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "how to fill out employees withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "w-4 employee withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "w-4 employees withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "w-4 withholding certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "w4 employee withholding allowance certificate",
+    "parent": 158,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "withholding maryland",
+    "parent": 1
+  },
+  {
+    "id": 172,
+    "name": "maryland employee withholding form",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "maryland employee withholding form 2023",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "maryland employer withholding",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "maryland employer withholding guide 2022",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "maryland employer withholding guide 2023",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "maryland nonresident withholding",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "maryland state tax withholding",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "maryland state tax withholding form",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "maryland state withholding",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "maryland state withholding form",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "maryland state withholding tax",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "maryland tax withholding",
+    "parent": 171,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "withholding payroll",
+    "parent": 1
+  },
+  {
+    "id": 185,
+    "name": "can an employer change your withholdings without your permission",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "can an employer withhold your pay stubs",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "can employers withhold pay",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "earnings withholding order",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "earnings withholding order california",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "employee withholding",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 191,
+    "name": "employee withholdings",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "employer withholding",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 193,
+    "name": "employer withholding check",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 194,
+    "name": "employer withholding pay",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 195,
+    "name": "employer withholding payment",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 196,
+    "name": "employer withholding wages",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 197,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 198,
+    "name": "14",
+    "parent": 197,
+    "size": 1
+  },
+  {
+    "id": 199,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 200,
+    "name": "617",
+    "parent": 199,
+    "size": 1
+  }
+]
