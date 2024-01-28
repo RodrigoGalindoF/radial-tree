@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "app"
+  },
+  {
+    "id": 2,
+    "name": "cash app",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "cash app tax estimate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "cash app tax estimator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "cash app tax refund estimator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "cash app tax return estimate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "cash app taxes estimate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "cash app taxes minnesota",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "cash app taxes wisconsin",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "cash app get paid early",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "cash app identification code",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "cash app instant paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "cash app instant paycheck not working",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "cash app payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "12",
+    "parent": 17,
+    "size": 1
+  }
+]
