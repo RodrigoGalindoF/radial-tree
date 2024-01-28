@@ -1,0 +1,1076 @@
+[
+  {
+    "id": 1,
+    "name": "overtime"
+  },
+  {
+    "id": 2,
+    "name": "overtime pay",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "calculate overtime pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "calculate overtime pay in excel",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "calculate overtime salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculate pay with overtime",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "calculating overtime pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculating overtime pay worksheet",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculation for overtime pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "calculation of overtime wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "computation of overtime pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "determining overtime pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "formula for calculating overtime pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "formula for overtime calculation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "overtime work",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "check stubs with overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "employee overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how do overtime hours work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how overtime works",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to get overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to get overtime pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to get paid overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "is overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "is overtime one word",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "jobs with overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "managing overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "overtime app",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "overtime calculate",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "calculate overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "calculate overtime hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "calculate overtime pay rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "calculate overtime percentage",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "calculate overtime rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "calculating overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "coefficient overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how do i calculate overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how do i calculate overtime rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how do you calculate overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how do you calculate overtime hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how do you calculate overtime percentage",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "overtime exempt",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "department of labor overtime exemptions",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "exempt from overtime",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "exempt from overtime law",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "exempt overtime",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "exempt overtime law",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "exempt overtime rules",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "exempt vs non exempt overtime",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "exemption overtime",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "federal overtime exemptions",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "non exempt from overtime",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "non exempt overtime",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "non exempt overtime rules",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "overtime taxed",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "do you pay more tax on overtime",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "do you pay more taxes on overtime",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "does overtime affect tax return",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "does overtime count as income",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how is overtime pay taxed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how is overtime taxed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "how much is overtime pay taxed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "how much is overtime taxed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "how much is tax on overtime",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "how much is taxed on overtime pay",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "is overtime pay taxable",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "is overtime pay taxed at a different rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "flsa overtime",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "flsa act overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "flsa and overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "flsa blended overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "flsa calculation of overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "flsa exempt overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "flsa guidelines for overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "flsa overtime",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "flsa overtime calculation",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "flsa overtime calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "flsa overtime exempt",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "flsa overtime exemption",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "flsa overtime exemptions",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "overtime california",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "calculating overtime in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "california overtime calculation",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "california overtime calculator",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "california overtime tax rate",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "how do you calculate overtime in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "how do you calculate overtime pay in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "how is overtime calculated in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "how is overtime taxed in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "how many hours is overtime in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "how much is overtime pay in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "how much is overtime taxed in california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "overtime calculator california",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "overtime rate",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "how much do you get paid for overtime",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "how much overtime",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "overtime pay for 17 an hour",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "overtime pay for 18 an hour",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "overtime pay rate",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "overtime penalty rates",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "overtime rate",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "overtime rate of pay",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "overtime wage rate",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "rate for overtime pay",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "what is my overtime rate",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "what is the overtime pay rate",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "overtime new",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "new federal overtime rules 2023",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "new law on overtime",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "new overtime law",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "new overtime laws 2023",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "new overtime rule",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "new overtime rules",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "new overtime rules 2023",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "overtime law",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "overtime law new",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "overtime new rules",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "overtime rule",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "overtime rules in georgia",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "federal overtime",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "federal employee overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "federal law about overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "federal law about overtime pay",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "federal law on overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "federal law overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "federal law overtime salary",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "federal law regarding overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "federal law salary overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "federal overtime",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "federal overtime law",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "federal overtime law salary",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "federal overtime pay",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "overtime paycheck",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "calculate overtime paycheck",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "calculate paycheck after taxes with overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "calculate paycheck with overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "hourly paycheck calculator overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "hourly paycheck calculator with overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "paycheck calculator overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "paycheck calculator plus overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "paycheck calculator with overtime",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "paycheck calculator with overtime and double time",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "paycheck overtime calculator",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "paycheck with overtime calculator",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "overtime part",
+    "parent": 1
+  },
+  {
+    "id": 145,
+    "name": "can part time employees get overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "do part time employees get overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "do part time employees get overtime pay",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "do part time workers get overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "do part time workers get overtime pay",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "do part timers get overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "do part-time employees get overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "how many hours is overtime for a part time job",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "how many hours is overtime for part time",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "how many hours is overtime for part-time",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "part time job overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "part time overtime",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "overtime laws",
+    "parent": 1
+  },
+  {
+    "id": 158,
+    "name": "daily overtime states",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "mandatory overtime laws washington state",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "missouri overtime law",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "missouri overtime laws exemptions",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "missouri overtime rules",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "states with daily overtime",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "washington state overtime laws 2023",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "washington state overtime laws for salaried employees",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "washington state overtime laws salaried employees",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "what states have daily overtime laws",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "what states require overtime after 8 hours",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "what states require overtime pay after 8 hours",
+    "parent": 157,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "salary overtime",
+    "parent": 1
+  },
+  {
+    "id": 171,
+    "name": "minimum salary for overtime",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "minimum salary overtime",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "overtime exempt salary threshold",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "overtime exemption salary threshold",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "overtime minimum salary",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "overtime salary threshold",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "overtime threshold salary",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "salary overtime threshold",
+    "parent": 170,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 180,
+    "name": "0",
+    "parent": 179,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 182,
+    "name": "271",
+    "parent": 181,
+    "size": 1
+  }
+]
