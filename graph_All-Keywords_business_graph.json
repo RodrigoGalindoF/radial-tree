@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "business"
+  },
+  {
+    "id": 2,
+    "name": "payroll small",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "affordable payroll software for small businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "best free payroll software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "best hr and payroll software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "best payroll and accounting software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "best payroll and tax software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "best payroll software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "best payroll software for small businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "best payroll software small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "best small business payroll software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "best software for payroll small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "cheap payroll software for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "cheap payroll software small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "accounting payroll",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "accounting and payroll services for small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "accounting and payroll software for small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "accounting and payroll software for small businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "accounting software with payroll for small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "payroll accounting for small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "payroll accounting software for small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "small business accounting and payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "small business accounting and payroll services",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "small business accounting and payroll software",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "small business accounting payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "small business accounting payroll software",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "small business accounting software payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "41",
+    "parent": 30,
+    "size": 1
+  }
+]
