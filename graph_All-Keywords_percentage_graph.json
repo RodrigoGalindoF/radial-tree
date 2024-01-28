@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "percentage"
+  },
+  {
+    "id": 2,
+    "name": "percentage taxes",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "american tax percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "average tax percentage in us",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how much tax do i pay percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much tax percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "percent of income for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "percentage for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "percentage of taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "percentage tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "tax is how much percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "tax percent in us",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "tax percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "tax percentage for wages",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "37",
+    "parent": 17,
+    "size": 1
+  }
+]
