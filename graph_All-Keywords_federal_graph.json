@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "federal"
+  },
+  {
+    "id": 2,
+    "name": "federal taxes",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "are federal taxes automatically taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "did federal income tax go down",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "did i pay federal income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "federal taxes not being taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "no federal taxes taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "not enough federal taxes being taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "why am i not getting federal tax taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "why am i not having federal taxes taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "why am i not paying federal taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "why am i paying federal taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "why are federal taxes not being taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "why are taxes not being taken out",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "federal salary",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "federal law salary employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "federal pay laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "federal pay rates",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "federal salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "federal salary law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "federal salary laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "federal salary tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "federal tax on salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "federal tax wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "federal taxable wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "federal wage",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "federal wage definition",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "federal state",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "are state and federal taxes the same",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "difference between federal and state tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "difference between federal and state tax returns",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "difference between federal and state taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "do federal employees pay state taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "do state employees pay federal taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "do states pay federal taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "do states pay taxes to the federal government",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "do you pay federal and state income tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "does state income tax come before federal",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "does state tax come before federal",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "does the state taxes come before federal",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "paycheck federal",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "federal taxes not coming out of check",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "federal taxes not coming out of paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "why are federal taxes not coming out of my paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "why are federal taxes not taken out of paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "why are no federal taxes taken from paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "why are no taxes taken out of paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "why are so much taxes taken out of my paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "why are taxes taken out of my paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "why are there no federal taxes withheld from my paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "why arent any federal taxes withheld from paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "why arent federal taxes being taken from paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "why arent federal taxes being taken out of my check",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "0",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "116",
+    "parent": 56,
+    "size": 1
+  }
+]
