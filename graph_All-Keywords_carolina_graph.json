@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "carolina"
+  },
+  {
+    "id": 2,
+    "name": "sc state",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "salary in sc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "sc employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "sc job salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "sc salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "sc salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "sc state employee salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "sc state employee salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "sc state employees salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "sc state employees salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "sc state salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "sc state salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "state salaries sc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "south carolina",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "are social security benefits taxable in nc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "do you pay taxes on social security in south carolina",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "does nc tax ss",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how much are taxes in south carolina",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how much is south carolina state income tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how much is south carolina state tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how much is south carolina tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how much is tax in south carolina",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "income tax for south carolina",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "income tax south carolina",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "income taxes south carolina",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "is social security taxed in nc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "25",
+    "parent": 30,
+    "size": 1
+  }
+]
