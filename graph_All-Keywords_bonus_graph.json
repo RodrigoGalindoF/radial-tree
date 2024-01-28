@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "bonus"
+  },
+  {
+    "id": 2,
+    "name": "christmas bonus",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "are christmas bonus taxable",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "are christmas bonuses taxable",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "christmas bonus employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "christmas bonus for employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "christmas bonus tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "christmas bonus taxable",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "christmas bonus taxed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "christmas bonus while on workers compensation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "christmas bonuses for employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "do federal employees get christmas bonuses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "holiday bonuses for employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "bonus employees",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "attendance bonus for hourly employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "average bonus percentage of salary",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "bonus pay for exempt employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "bonus program for employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "bonuses for employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "bonuses to employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "cvs employee bonus",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "does salary include bonus",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to give employee bonus without taxes",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to pay bonus to employees without taxes",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to pay bonuses to employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how to pay employees bonuses",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "0",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 30,
+    "name": "7",
+    "parent": 29,
+    "size": 1
+  }
+]
