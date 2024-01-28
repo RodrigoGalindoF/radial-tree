@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "name": "sick"
+  },
+  {
+    "id": 2,
+    "name": "sick paid",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "arizona paid sick leave",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "arizona paid sick leave law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "arizona paid sick time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "arizona pto and sick time laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "az paid sick leave",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "az paid sick leave law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "az paid sick time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "az paid sick time law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "can an employer deny sick pay in arizona",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "paid sick leave az",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "paid sick time arizona",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "paid sick time in arizona",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "sick oregon",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "does sick time get paid out in oregon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "oregon paid sick leave",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "oregon paid sick leave law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "oregon paid sick time",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "oregon paid sick time law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "oregon sick leave laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "oregon sick time laws",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "paid sick days oregon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "paid sick time oregon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "sick time laws in oregon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "state of oregon paid sick leave law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "sick pay",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "3rd party sick pay taxable",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "how to report third party sick pay on form 941",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "is sick pay taxable",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "is third party sick pay taxable",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "is third party sick pay taxable in nj",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "is third party sick pay taxable in pa",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "non taxable sick pay on w2",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "non taxable third party sick pay on w2",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "reporting 3rd party sick pay on w-2",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "reporting third party sick pay on w2",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "sick pay taxable",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "third party sick pay taxable",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "sick leave",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "irs sick leave credit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "nys retirement sick leave credit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "self-employed sick leave credit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "self-employed sick leave credit 2022",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "self-employed sick leave credit 2023",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "self-employed sick leave credit calculator",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "sick leave credit for self employed",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "0",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 51,
+    "name": "38",
+    "parent": 50,
+    "size": 1
+  }
+]
