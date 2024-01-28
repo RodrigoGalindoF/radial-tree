@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "name": "income"
+  },
+  {
+    "id": 2,
+    "name": "income annual",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "annual net income example",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "annual income estimator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "annual income formula",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "annual income how to calculate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "annual net income calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "annual net income formula",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "calculate annual income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "calculate annual net income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "calculate my yearly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "calculate per annum",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "calculate total annual income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "calculate yearly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "annual net",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "annual income net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "annual net income definition",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "annual net income meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "annual net income means",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "average annual net income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "define annual net income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "is annual earned income gross or net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "is annual income gross or net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "is annual salary gross or net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "is total annual income gross or net",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "meaning of annual net income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "net annual income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "net taxes",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "how much is my net pay after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how to get net income after tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "is net after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "is net before or after tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "is net before or after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "is net before tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "is net before taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "is net income after tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is net income after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "is net income before or after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "is net income before tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "is net income before taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "calculate income",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "calculate anual income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "calculate earnings",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "calculate income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "calculate my income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "calculate personal income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "calculate real income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "calculate total income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how do you calculate earnings",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how do you calculate total income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how is income calculated",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how to calculate income",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how to calculate net earnings",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "monthly income",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "after tax monthly income",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "calculate monthly income after tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "calculate monthly income after taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "calculate monthly income before taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "calculate monthly salary after tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "calculate monthly taxes on income",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "does gross monthly income include taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "federal income tax monthly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "gross monthly income before taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "how much do i make monthly after taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "how much tax should i be paying a month",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how much tax should i pay a month",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "income gross",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "annual income on w2",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "does w-2 show gross income",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "does your w2 show annual income",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "federal adjusted gross income on w2",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "gross annual income on w2",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "gross income on w-2",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "gross income on w2 form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "gross income w2 form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "gross pay on w2 form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "how to find gross annual income on w2",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "income reported to you on form w-2 as statutory employee",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "job expenses for w 2 income",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "wage tax",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "form w 2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "form w-2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "form w2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "irs form w 2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "irs form w-2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "w 2 form wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "w 2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "w-2 form wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "w-2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "w2 wage and tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "w2 wage tax statement",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "calculator earnings",
+    "parent": 1
+  },
+  {
+    "id": 93,
+    "name": "totalannualincome",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "2022 w-2 and earnings summary",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "how to calculate w2 from paystub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "how to calculate w2 wages from paystub",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "how to read w-2 earnings summary",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "salary w2 calculator",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "w2 payroll calculator",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "w2 salary calculator",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "w2 wage calculator",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "w4 payroll calculator",
+    "parent": 92,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 104,
+    "name": "0",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 106,
+    "name": "205",
+    "parent": 105,
+    "size": 1
+  }
+]
