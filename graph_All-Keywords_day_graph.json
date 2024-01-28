@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "day"
+  },
+  {
+    "id": 2,
+    "name": "labor day",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "do i get paid for labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "do i get paid on labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "do we get paid for labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "do you get paid extra on labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "do you get paid for labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "do you get paid for labor day off",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "do you get paid more on labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "do you get paid on labor day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "is labor day paid",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "labor day paid",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "labor day pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "labor day pay law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "day holiday",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "do i get holiday pay for labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "do we get holiday pay for labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "do you get holiday pay for labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "do you get holiday pay on labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "does labor day count as holiday pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "does labor day get holiday pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "holiday pay for labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "holiday pay labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "holiday pay on labor day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "is labor day a federal holiday",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "is labor day a federal holiday in the united states",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "is labor day a federal holiday pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "49",
+    "parent": 30,
+    "size": 1
+  }
+]
