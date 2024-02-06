@@ -1,0 +1,1165 @@
+[
+  {
+    "id": 1,
+    "name": "tax 1099"
+  },
+  {
+    "id": 2,
+    "name": "vs employee",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "1099 k form what is it",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "whats 1099 k form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "1099-k forms",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is a 1099-k form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "1099 k tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what is a 1099 k form used for",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what is form 1099 k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "irs form 1099k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "form 1099 k irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "form 1099-k what is it",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is form 1099 k for",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what is a 1099k tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "much pay",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "1099 b tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "1099 employee tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "taxes on 1099 income calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "tax calculator for 1099",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "1099 taxable income calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "1099 paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "1099 self employment tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "taxes on 1099 calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "1099 calculator for taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "1099 contractor taxes calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "1099 calculator taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "tax calculator for 1099 income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "misc independent",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "what is 1099k for",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "1099misc vs 1099nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "whats a 1099k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "whats 1099k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "what is a 1099k for",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "what is 1099nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "what is 1099k used for",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "whats the 1099k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "what is 1099misc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "what is a 1099misc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "irs submit",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "tax on 1099 income",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "1099 for taxes",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "taxes with a 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "tax from 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "tax on 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "paying taxes on a 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "can i get a tax refund with a 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "taxes on 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "1099 and filing taxes",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "taxes for 1099",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "1099 reported to irs",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "does a 1099 take out taxes",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "electronically file",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "efile for 1099",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "how to efile 1095 c",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "irs e-file 1099",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "e file 1099 with irs",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "electronic file 1099",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "efile 1099 irs",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "efile 1099 with irs",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how to e-file 1099 with irs",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "efile 1099",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "best 1099 e-file service",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "1099 e filing",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "electronic 1099 filing",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "without social",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "what entities get a 1099",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "who sends 1099",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "who gives you a 1099 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "who issues 1099-k",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "who gets a 1099 tax form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "who files a 1099",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "who sends a 1099",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "who gets a form 1099",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "who sends a 1099 s",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "who is to receive a 1099",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "who gets 1099s",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "issue issues",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "1099 form self employed",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "self employment tax form 1099",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "can i file self employment without a 1099",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "how to report self-employment income without a 1099",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "form 1099 self employed",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "1099 self-employed form",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "self employment form 1099",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "self-employed tax form 1099",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "are you self employed if you get a 1099",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "do 1099 pay self-employment tax",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "1099 self employment form",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "are 1099 employees self employed",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "c line",
+    "parent": 1
+  },
+  {
+    "id": 91,
+    "name": "1095 software",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "premium percentage 1095 a",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "1095 decoder",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "1096 a",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "1095-c box 15",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "1095s",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "1094c",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "4biz 1099",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "ab 1096",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "1095 hc",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "1095-hc",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "how to split 1095-a",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "need information",
+    "parent": 1
+  },
+  {
+    "id": 104,
+    "name": "how to 1099 myself",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "preparing 1099",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "how to 1099 form",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "how to 1099 yourself",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "create and file 1099",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "how to write a 1099",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "how to create a 1099 form",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "how to prepare 1099 for contract worker",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "how to prepare 1099",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "how to make 1099",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "how to set up a 1099",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "create 1099 form",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "form vs",
+    "parent": 1
+  },
+  {
+    "id": 117,
+    "name": "1099 misc form 2023 pdf",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "1099 misc forms 2016",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "1099 misc form 2016",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "1099 misc template",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "1099 misc form 2022",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "2022 instructions for forms 1099-misc and 1099-nec",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "2023 instructions for forms 1099-misc and 1099-nec",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "sample 1099 misc",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "2022 irs 1099 misc form",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "sample 1099 misc form filled out",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "1099 misc instructions 2023",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "instructions for 1099-misc",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "self nec",
+    "parent": 1
+  },
+  {
+    "id": 130,
+    "name": "1099 contract work",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "contract labor 1099",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "what is 1099 contract work",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "1099 employment contract",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "contract 1099 form",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "contract 1099",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "1099 employee contract",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "whats a 1099 contract",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "1099 contract",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "1099 agreement",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "1099 contract form",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "1099 employee agreement",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "recipient envelopes",
+    "parent": 1
+  },
+  {
+    "id": 143,
+    "name": "1099 tax form download",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "can i download a 1096 form",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "can i download 1099 forms",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "download 1099",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "where can i download a 1099 form",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "download 1099 form",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "1099 download",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "downloadable 1099 forms",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "can i download a 1099 form online",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "free 1099 form download",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "download 1099 form 2022",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "download 1099 forms",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "form \u3068\u306f",
+    "parent": 1
+  },
+  {
+    "id": 156,
+    "name": "1099 form blank",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "1099 forms blank",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "blank 1099s",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "1099-r 2a blank",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "1099 nec blank forms",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "1099-r box 16 blank",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "where can i get blank 1099 forms",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "where to get blank 1099 forms",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "1099 misc blank form",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "blank 1099",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "irs blank 1099 form",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "blank 1099 form 2016",
+    "parent": 155,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "quickbooks create",
+    "parent": 1
+  },
+  {
+    "id": 169,
+    "name": "1096 pdf form",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "1099 a pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "pdf 1099",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "1099 form pdf 2023",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "irs form 1096 for 2021 pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "form 1099 pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "1096 form 2021 pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "1099 fillable pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "irs form 1096 for 2020 pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "1096 pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "irs 1099 form pdf",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "pdf form 1096",
+    "parent": 168,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "income taxable",
+    "parent": 1
+  },
+  {
+    "id": 182,
+    "name": "can you file taxes without a 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "how to file 1099 taxes",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "how do i file a 1099 on my taxes",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 185,
+    "name": "how to file uber taxes without 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "how do you file 1099 taxes",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "how to file taxes without 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "how to file 1099 to irs",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "how do i file my taxes with a 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "how to file doordash taxes without 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 191,
+    "name": "how to file taxes as a 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "how to file 1099s with irs",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 193,
+    "name": "can i file taxes without a 1099",
+    "parent": 181,
+    "size": 1
+  },
+  {
+    "id": 194,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 195,
+    "name": "52",
+    "parent": 194,
+    "size": 1
+  },
+  {
+    "id": 196,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 197,
+    "name": "1501",
+    "parent": 196,
+    "size": 1
+  }
+]
