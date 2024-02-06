@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "name": "utah taxes"
+  },
+  {
+    "id": 2,
+    "name": "utah unemployment",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is the tax in utah",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "utah unemployment tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "state income tax in utah",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much is utah state income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "does utah have a state tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "utah taxation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "state income taxes in utah",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is utah state tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "what services are taxable in utah",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "utah state tax income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "tax for utah",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "utah individual income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "utah right",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "time in usa utah",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "whats the time in utah",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "time at utah",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "time in utah usa right now",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "hour utah",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "taptaxutahgov login",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "name": "utah tax filing extension",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "utah tax extension",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "utah sales tax exemptions",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how long does utah tax return take",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "when are utah state taxes due",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "utah fiduciary income tax return",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "free state tax filing utah",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "utah tax refund status",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "state of utah tax forms",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "wheres my utah state tax return",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "utah state tax return",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "file utah taxes online",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "0",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "77",
+    "parent": 36,
+    "size": 1
+  }
+]
