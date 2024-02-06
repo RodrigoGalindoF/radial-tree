@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "equal opportunities in the workplace"
+  },
+  {
+    "id": 2,
+    "name": "inequality gender",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "gender inequality in workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "gender inequality in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "gender equality in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "gender balance in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "gender inequalities in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "women inequality in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "gender inequality at work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "gender equality in workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "gender inequality workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "inequality of gender in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "bias acknowledging",
+    "parent": 1
+  },
+  {
+    "id": 14,
+    "name": "which of the following is a step to resolving bias",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "acknowledging your bias means to realize that you value",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "bias is best defined as the",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "acknowledging your bias means to realize that you",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 19,
+    "name": "0",
+    "parent": 18,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
