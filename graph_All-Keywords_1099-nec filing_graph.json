@@ -1,0 +1,868 @@
+[
+  {
+    "id": 1,
+    "name": "1099-nec filing"
+  },
+  {
+    "id": 2,
+    "name": "requirements filing",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "forms 1099-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1099 nec form a",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "nec form 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "1096-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "1099 or 1099 nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "example of 1099-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "1099-nec box 1",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "about form 1099-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "form 1099-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "for 1099-nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "1096 nec",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "order 1099 nec form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "file nec",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "form 1099-nec pdf",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "1099 nec limit 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "2022 nec 1099 form",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "1099 nec 2022 form",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "1099 nec forms 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what is a 1099-nec form 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "1099 form nec 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "2021 1099 nec forms",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "form 1099-nec 2022 pdf",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "1099 nec 2021",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "1099-nec form 2021 pdf",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "2021 1099 nec",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "irs requirements",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "legal 1099 misc or nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "misc vs nec 1099",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "is there a difference between 1099-nec and 1099-misc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "1099 misc with nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "1099-nec vs 1099-misc 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "difference in 1099 misc and 1099 nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "form 1099 misc nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "difference between 1099 misc and 1099 nec 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "what is the difference between a 1099-misc and a 1099-nec",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "1099 nec and 1099 misc difference",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "1099 nec versus 1099 misc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "whats the difference between a 1099 nec and 1099 misc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "electronically send",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "1099 misc box 3 schedule c",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "1099 misc template for word",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how to prepare a 1099",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "1099 mailing instructions",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "1099 miscnec",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "instructions for 1099-k",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "instructions 1095 a",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "1099 instructions",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "1099 preparation software",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how do i prepare a 1099",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "instructions form 1099",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "manual 1099 forms",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "nec k",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "irsgov 1099 nec instructions",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "instructions for 1099-nec",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "instructions for form 1099-nec",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "1099 nec irs instructions",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "1099 nec filing instructions",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "1099 nec form instructions",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "1099 nec instruction",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "instructions for 1099 nec",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "1099-nec instructions pdf",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "instructions for 1099-nec 2022",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "instructions 1099-nec",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "irs 1099-nec instructions 2021",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "nec recipient",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "how to fill 1099 nec",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "how to fill out 1099-nec form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "how to fill out 1099 nec 2022",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "how to fill out a 1099 nec form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "how to fill out 1099 nec",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "1099 nec how to fill out",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "how to fill out 1099-nec",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "1099 nec form how to fill out",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "1099 nec fill in form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "how to fill out a 1099-nec form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "how to fill a 1099 nec form",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "how do i fill out a 1099 nec",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "state nec",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "how to correct 1099 nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "amended 1099 nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "amend 1099 nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "correcting 1099-nec errors",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "amend 1099-nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "how to correct a 1099 nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "correcting 1099 nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "how to correct a 1099-nec form 2022",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "where to mail corrected 1099 nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "corrected 1099-nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "incorrect 1099-nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "filing corrected 1099-nec",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "nec get",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "how to get 1099-nec forms",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "how to get 1099-nec",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "where to get 1099 nec forms",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "how to get a 1099 nec form",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "where to get form 1099 nec",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "download 1096 form",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "1099 nec software",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "where to get 1099 nec form",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "where to buy 1099 nec forms",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "how do i get a 1099 nec form",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "where can i buy 1099 nec forms",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "office depot 1099 nec software download",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "nec taxes",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "where to send 1099 forms",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "do i have to file 1099 electronically",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "irs address for 1099",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "irs 1095 electronic filing",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "how to send 1099 electronically",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "where to send 1099",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "do 1099 have to be filed electronically",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "can you mail multiple 1096 same envelope",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "recipients tin on 1099 nec",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "1099 mailing address",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "what is recipients tin on 1099",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "where do i mail 1099 to irs",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "efile nec",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "file 1099 nec by mail",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "who do i need to send a 1099 nec to",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "where to mail form 1099-nec",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "who do you send 1099 nec to",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "can you email 1099-nec to recipient",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "how to file 1099 nec by mail",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "where do i send 1099 nec forms",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "who do i send 1099 nec forms to",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "irs 1099 nec mailing address",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "where to mail form 1099 nec",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "irs address for 1099 nec",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "irs address to send 1099 nec forms",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "freetaxusa enter",
+    "parent": 1
+  },
+  {
+    "id": 133,
+    "name": "1099-nec printable",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "form 1099 nec printable",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "printable form 1099-nec",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "1099-nec form 2021 printable",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "printable 1099 nec 2022",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "1099 nec printing template",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "1099 nec form printable",
+    "parent": 132,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "form nec",
+    "parent": 1
+  },
+  {
+    "id": 141,
+    "name": "freetaxusa 1095-c",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "1095-c freetaxusa",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "where to enter 1095-c on freetaxusa",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 145,
+    "name": "0",
+    "parent": 144,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 147,
+    "name": "268",
+    "parent": 146,
+    "size": 1
+  }
+]
