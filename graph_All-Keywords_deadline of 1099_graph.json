@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "name": "deadline of 1099"
+  },
+  {
+    "id": 2,
+    "name": "misc deadline",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "deadline for submitting 1099 to irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1099 tax deadline",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "deadline to provide 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "deadline for companies to send 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "1099 january 31 deadline",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "deadline for form 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "when is the deadline to issue 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "deadline for 1099 filing",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "1099 form deadline",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "deadline to send out 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "deadline to receive 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "1099 deadline",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "need file",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "1095-c due date 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "1096 form 2022 due date",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "when is form 1096 due for 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "when are 1095 c due to employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "1099 forms due date 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "when are 1096 forms due",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "when is 1096 due 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "1099 due date 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "when is 1096 due 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "1099s 2022 due date",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "due date 1096",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "form 1096 due date 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "mailed need",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "when are 1099 taxes due 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "1099 form changes for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "when are 1099s due for 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "when are 1099s due 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "when are the 1099 forms due for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "when are 2022 1099s due",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "when are 1099s due for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "changes to 1099 for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is there a new 1099 form for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "deadline nec",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "nec define",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "nec 316 table",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "2022 nec forms",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "2022 nec",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "0",
+    "parent": 43,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 46,
+    "name": "105",
+    "parent": 45,
+    "size": 1
+  }
+]
