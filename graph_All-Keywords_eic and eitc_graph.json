@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "name": "eic and eitc"
+  },
+  {
+    "id": 2,
+    "name": "eic much",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "eitc calculator 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "irs eic calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "tax calculator with eitc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how to calculate eic on taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "eitc 2022 calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "do i qualify for eitc calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "eitc tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "2021 eitc calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "eitc calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "2022 eitc calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "eitc 2023 calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "eitc qualify",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "can i claim eic with no income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "is eic based on adjusted gross income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "earned income credit eic",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "eic earned income credit",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what is investment income for eic",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "eic investment income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "income for eic",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what is eic earned income credit",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "earned income for eic",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "investment income for eic",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "credit eitc",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "define electronic funds transfer",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "electronic funds transfer eft",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "eft electronic funds transfer",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "what is electronic funds transfer",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "eft money transfer",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "eftps meaning",
+    "parent": 1
+  },
+  {
+    "id": 32,
+    "name": "eitc age limit 2021",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "2021 eic age limits",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "eitc age limit 2023",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "age for eic",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "eitc age limit",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "age for eitc",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "0",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
