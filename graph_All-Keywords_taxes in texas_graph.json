@@ -1,0 +1,667 @@
+[
+  {
+    "id": 1,
+    "name": "taxes in texas"
+  },
+  {
+    "id": 2,
+    "name": "texas payroll",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "income tax in austin",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ut austin tax forms",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "income tax in austin tx",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "austin income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "irs ut austin",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "austin texas income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ut austin address for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how much does texas take out of your paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how much is taken out of my paycheck in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "paycheck calculator texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "calculate my texas paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what will my paycheck be in texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "texas services",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "tax rates in texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "texas marginal tax rate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "what is texas income tax rate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "state income tax rate texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "income tax rate texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "tax rate texas income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "state of texas tax rate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "texas income tax rates",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "tax rate for texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "texas income tax rate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "texas tax rate income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "tax rate in texas payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "texas percentage",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "how much federal tax in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how much is federal tax in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much taxes do you pay in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how much tax do i pay in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how much are taxes in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how much is texas income tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how much is state tax in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how much income tax in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how much is the federal tax in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how much is tax in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how much is the taxes in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how much is taken out for taxes in texas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "labor texas",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "taxes out of check texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "taxes taken out of paycheck texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "percentage of taxes taken out of paycheck texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how much will my check be after taxes texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "percentage of taxes taken out of paycheck in texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "taxes taken out of paycheck in tx",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how much taxes are deducted from paycheck in texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "texas how much taxes taken out of paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how much tax is taken out of my paycheck texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "texas tax rate paycheck",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "check after taxes texas",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "texas tax rate for paychecks",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "tax el",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "franchise tax board business",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "franchise excise tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "pay franchise tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "total revenue franchise tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "franchise tax board 100 es",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "delware franchise tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "franchise taxes",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "de franchise tax report",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "tax return franchise",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "what is franchise tax",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "franchise tax board tax rates",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "de franchise tax payment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "texas bonuses",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "non taxable services list texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "what are taxable services in texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "are services taxed in texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "are services taxable in texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "is freight taxable in texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "texas taxable services",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "does texas charge sales tax on services",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "service tax in texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "are it services taxable in texas",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "texas income",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "texas minimum wage increase 2023",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "what is the current minimum wage in texas",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "texas minimum wage increase",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "texas minimum standards 2023",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "state of texas pay dates 2023",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "state texas pay raise 2023",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "texas raising minimum wage",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "how much is the minimum wage in texas 2023",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "whats the minimum wage in dubai",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "mcdonalds minimum wage texas",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "pay raise for texas state employees 2023",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "austin average",
+    "parent": 1
+  },
+  {
+    "id": 90,
+    "name": "houston texas income tax calculator",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "tax calculator houston",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "taxes calculator houston",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "tax in houston texas",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "houston tax calculator",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "income tax houston tx",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "income tax calculator houston texas",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "houston texas sales tax calculator",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "houston texas tax calculator",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "calculator texas",
+    "parent": 1
+  },
+  {
+    "id": 100,
+    "name": "california franchise tax board garnishment",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "california franchise tax fee",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "california franchise tax board llc",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "california franchise tax board estimated payments",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "ca minimum franchise tax",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "los angeles franchise tax board",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "california franchise tax board business entity taxes",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "california franchise tax board form 540",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "california franchise tax board estimated tax payments",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "franchise tax state of california",
+    "parent": 99,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 111,
+    "name": "0",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 113,
+    "name": "111",
+    "parent": 112,
+    "size": 1
+  }
+]
