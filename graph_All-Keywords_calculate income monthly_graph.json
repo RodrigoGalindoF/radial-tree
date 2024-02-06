@@ -1,0 +1,519 @@
+[
+  {
+    "id": 1,
+    "name": "calculate income monthly"
+  },
+  {
+    "id": 2,
+    "name": "salary monthly",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "semi monthly paycheck calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "salary semi monthly calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "semi monthly calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "semi monthly cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "semi monthly pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how to calculate semi monthly income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "semi monthly to annual salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "semi monthly salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "is base salary monthly or yearly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "monthly salary means",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is my monthly salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "monthly pay to salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "annual yearly",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "calculate net monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how to calculate monthly net income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how to compute monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "calculate monthly net income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how do you calculate your monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to find monthly net income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how can i calculate my monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to figure out net monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to calculate average monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how do i calculate my monthly income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "calculate net monthly income after taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how to calculate monthly income per month",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "calculator monthly",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "monthly salary calculation formula",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how to work out monthly pay from yearly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how to calculate yearly salary from monthly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how do i calculate monthly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "calculate monthly salary from annual",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how to compute monthly salary based on annual salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how to figure out monthly income from annual salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "estimate monthly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how do you calculate a monthly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how to calculate monthly salary from annual salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how to calculate monthly earnings",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how to calculate monthly salary from yearly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "monthly calculator",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "cable bill per month average",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "2 months salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "salary a month",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "average us salary per month",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "average pay a month",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "months salary",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "net monthly",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "how do i calculate monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "calculate weekly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how to calculate my gross monthly income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how to determine monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how do i find my monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "calculate monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "how do you calculate monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how do i calculate my monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how do you calculate your monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how do you figure out your gross monthly income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how to calculate your monthly gross income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how do i figure out my gross monthly income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "gross monthly",
+    "parent": 1
+  },
+  {
+    "id": 62,
+    "name": "monthly salary calculator after taxes",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "monthly pay tax calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "monthly income tax calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "after tax monthly income calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "monthly income after tax calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "monthly income calculator after tax",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "monthly taxes calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "monthly income calculator after taxes",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "monthly pay after tax calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "monthly tax calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "monthly salary after tax calculator",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "calculate monthly salary after tax",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "monthly pay",
+    "parent": 1
+  },
+  {
+    "id": 75,
+    "name": "how to find out how much you make monthly",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "how much do i make monthly",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "how much do i make in a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "how to calculate how much you make in a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "how to find out how much you make a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "how do you calculate how much you make a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "calculate how much i make a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "how much do i make a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "how much i make a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "how to figure out how much you make a month",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 86,
+    "name": "0",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 88,
+    "name": "102",
+    "parent": 87,
+    "size": 1
+  }
+]
