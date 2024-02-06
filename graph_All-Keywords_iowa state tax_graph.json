@@ -1,0 +1,423 @@
+[
+  {
+    "id": 1,
+    "name": "iowa state tax"
+  },
+  {
+    "id": 2,
+    "name": "iowa sales",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "iowa tax rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "iowa individual income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "state of iowa income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "income tax rate in iowa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "iowa state tax percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "iowa state tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what is iowas tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is iowas income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "state income tax rate in iowa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "income tax rate iowa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is iowa tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "tax rate iowa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "iowa online",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "iowa department of revenue address",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "ia dept revenue",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "department of revenue iowa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "iowa internal revenue department",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "state of iowa revenue",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "iowa department of revenue and finance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "iowa revenue department",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "department of iowa revenue",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "iowa state revenue",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "iowa dept revenue",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "iowa tax revenue",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "iowa state revenue department",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "revenue iowa",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "ia income tax rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ia dept of revenue sales tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "ia state income tax rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "ia state tax return",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "ia sales tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "ia state income tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "ia state sales tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "iowa tables",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "iowa 2023 tax brackets",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "2023 iowa income tax brackets",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "iowa income tax brackets 2023",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "iowa state tax brackets 2023",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "tax brackets iowa",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "iowa tax brackets married filing jointly",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "iowa tax bracket",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "state of iowa tax brackets",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "iowa income tax brackets",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "iowa state income tax brackets",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "iowa tax bracket 2023",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "attendance iowa",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "illinois state payroll",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "illinois department of revenue careers",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "illinois high impact business list 2022",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "illinois employee salaries",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "illinois state estimated tax payments",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "illinois corporate income tax",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "illinois high impact business list",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "indiana unemployment",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "name": "attendance at iowa state fair 2023",
+    "parent": 56,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "iowa state fair 2023 attendance numbers",
+    "parent": 56,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "iowa state fair attendance 2022",
+    "parent": 56,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "alabama salary",
+    "parent": 1
+  },
+  {
+    "id": 61,
+    "name": "wheres my tax refund iowa",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "iowa federal tax refund",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "check on iowa tax refund",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "iowa state taxes refund",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "iowa tax refund timeline",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "iowa tax refunds",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "iowa tax refund estimator",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "check iowa state refund status",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 70,
+    "name": "0",
+    "parent": 69,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 72,
+    "name": "21",
+    "parent": 71,
+    "size": 1
+  }
+]
