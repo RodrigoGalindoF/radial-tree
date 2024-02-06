@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "colorado income state tax"
+  },
+  {
+    "id": 2,
+    "name": "tax colorado",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "colorado state income tax percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "colorado income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "state tax rate for colorado",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is the tax rate in colorado",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "what is colorado tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "colorado tax rate income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "colorado state tax rate income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "tax rate in colorado",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "tax rates colorado",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "colorado state income tax rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is colorados state income tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "colorado income tax rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "53",
+    "parent": 17,
+    "size": 1
+  }
+]
