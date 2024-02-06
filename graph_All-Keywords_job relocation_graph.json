@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "job relocation"
+  },
+  {
+    "id": 2,
+    "name": "relocate job",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how do i relocate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how hard is it to relocate to another state",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "another word for relocated",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "relocating jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "relocating for work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much does it cost to relocate to another state",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how to move with no job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "relocate for a job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "relocate app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "move for job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how long does it take to relocate for a job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how to move somewhere without a job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "9",
+    "parent": 17,
+    "size": 1
+  }
+]
