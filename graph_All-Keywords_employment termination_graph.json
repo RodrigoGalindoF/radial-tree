@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "name": "employment termination"
+  },
+  {
+    "id": 2,
+    "name": "vacation pay",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "nj paid sick leave",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "cook county paid sick leave",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "irs sick leave credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "paid sick leave in new jersey",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "cook county sick leave ordinance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "nj sick leave law poster",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "nebraska sick leave law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "state of kansas vacation leave accrual",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "cook county earned sick leave ordinance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "sick leave policies",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "self-employed sick leave credit 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "paid vacation and sick leave are required by law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "lay define",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "can you get fired for gossip",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "is it illegal to discuss wages in texas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "can you be fired for discussing wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "is it illegal to fire someone for discussing wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "can an employer prevent you from discussing pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "can you be fired for discussing salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "can you get fired for gossiping at work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "can you get fired for gossiping",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "is it illegal to talk about pay with coworkers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "can i be fired for discussing pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "can you get fired for discussing wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "can a company fire you for discussing pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "laid reasons",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "fired after giving notice",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "what is your notice period mean",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "termination without notice germany",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "notice termination",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "what does notice period mean on a job application",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "what does notice period mean on job application",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "given notice",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "termination of notice",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "giving notice",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "terminated after giving notice",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "extension contract",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "dealing with anxiety at work",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "how to deal with workplace anxiety",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "how to combat anxiety at work",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how to get over work anxiety",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how to stop work anxiety",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how to work with anxiety",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "voluntary voluntarily",
+    "parent": 1
+  },
+  {
+    "id": 47,
+    "name": "how to deal with change at work",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how to motivate disengaged employees",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "employees resist change because",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "why do people resist change",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "changelives",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how to handle employees who resist change",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "article of change",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "contract terminate",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "signs of a toxic employee",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "effects of toxic work environment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "toxic workplace behaviors",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "what causes a toxic work environment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "signs of toxic person at work",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "effects of a toxic work environment to an employee",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "how to fix a toxic work environment",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "most toxic companies to work for",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "fired employee",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "federal reserve delayed direct deposits",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "nc late payment penalty",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "new york state late filing penalty abatement",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "late filer penalty relief program",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "federal reserve payroll delay",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "can a contractor keep my deposit if i cancel",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "new york penalty abatement",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "contractor not responding after deposit",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "vacation quit",
+    "parent": 1
+  },
+  {
+    "id": 73,
+    "name": "what to do with w2 for deceased employee",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "my boss died suddenly",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "what happens to employees when a business owner dies",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "what to do when employee dies",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "what to do when an employee loses a family member",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "death of an employee",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "what happens if a worker dies on the job",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "death of a business",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "death of an employee checklist",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "what to do if an employee dies",
+    "parent": 72,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 84,
+    "name": "0",
+    "parent": 83,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 86,
+    "name": "7",
+    "parent": 85,
+    "size": 1
+  }
+]
