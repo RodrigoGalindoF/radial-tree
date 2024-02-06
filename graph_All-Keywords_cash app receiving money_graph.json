@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "cash app receiving money"
+  },
+  {
+    "id": 2,
+    "name": "cash payment",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "when do cash app direct deposit hit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what time does cash app direct deposit hit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what time does cash app direct deposit hit on thursday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "cash app delayed deposit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "what time of day does cash app direct deposit hit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "cash app did not receive direct deposit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what time does cash app direct deposit hit on saturday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "are direct deposits delayed today cash app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "what time does cash app direct deposit hit on monday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how long does it take for cash app direct deposit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "cash app direct deposit early",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what time does direct deposit hit cash app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "deposit cash",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how to set cash app to auto deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "cash app bank identification code for direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "can you do direct deposit with cash app",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how to set up direct deposit with cash app",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "cash app direct deposit bank name",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "can you get direct deposit on cash app",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "can you use cashapp for direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "does cash app have direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "where is my cash app direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "can you direct deposit to cash app",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "does cash app do direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "cash app bank for direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "50",
+    "parent": 30,
+    "size": 1
+  }
+]
