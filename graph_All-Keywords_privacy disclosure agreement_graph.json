@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "privacy disclosure agreement"
+  },
+  {
+    "id": 2,
+    "name": "privacy uk",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how to write a non disclosure statement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "business non disclosure agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "non disclosure clause",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "do not disclose contract",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "non disclosure agreements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "non disclosure contract",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "privacy disclosure agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "sign non disclosure agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how to write a nda non-disclosure agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how do non disclosure agreements work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how to write a nda non disclosure agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "standard non-disclosure agreement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "hr confidentiality",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "apec privacy framework",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "encryption is a technology-based internal control measure that",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "privacy monitor assistant",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "engagement data security plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "is privacy assist legitimate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "privacy by design",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "privacy manager",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "future of privacy forum",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "privacy-by-design",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "asia pacific economic cooperation privacy framework",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "cybersecurity and data privacy highland park",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "privacy framework",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "25",
+    "parent": 30,
+    "size": 1
+  }
+]
