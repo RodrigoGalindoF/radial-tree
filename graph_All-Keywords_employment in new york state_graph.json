@@ -1,0 +1,743 @@
+[
+  {
+    "id": 1,
+    "name": "employment in new york state"
+  },
+  {
+    "id": 2,
+    "name": "payroll nyc",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "payroll new york",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "new york state employee payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ny payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ny see through salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "new york payroll online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "payroll nyc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "new york state payroll lookup",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "new york state payroll online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "open payroll new york",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "see thru new york salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "salary lookup nyc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "state payroll online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "brooklyn ps",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "new york employee pfl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "ny-pfl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "nys pfl eligibility",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "ny pfl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "what is nyspfl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what category is ny pfl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "ny pfl eligibility",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "what is pfl leave",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "nys pfl",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "pfl eligibility",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "nys file",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "new york law 213",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "law 213 new york",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "213 law ny",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ny law 213",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "ny 213 law",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is rule 213 in ny",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "article 213 new york",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "ny 213 what does it mean",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "nys bill 213",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "new york article 213",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "213 new york",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "regulation 213 new york",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "ny fli",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "nys registration fees",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "state of new york business registration",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "new york state register",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "ny state registration number",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "nyc business registration",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "new york register",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "ny registration number",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "pay ny registration online",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "ny registration",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "new york state registration",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "income new",
+    "parent": 1
+  },
+  {
+    "id": 51,
+    "name": "nys 4 hour minimum pay",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "salary ranges new york",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "new york state salary law",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "average nys salary",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "new york salary",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "nyc rn salary",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "ny salaries",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "new york state salary laws",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "ny waitress minimum wage",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "ny state salaries",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "new york labor law for salary employees",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "nys salary laws",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "nycb hwb",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "nys online tax center",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "tax id number lookup ny",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "tax state ny",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "nys tax online business",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "irc 125 subject to ny tax",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "ny state sales tax gov",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "ny state state tax",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "taxstateny",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "ny amended tax return",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "state of new york tax",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "where to mail nys income tax return",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "states that dont tax nys pensions",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "nypl login",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "ny sdi on w2",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "ny sdi",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "sdi ny",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "ny state sdi",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "new york sdi ee",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "nyc officemax",
+    "parent": 1
+  },
+  {
+    "id": 83,
+    "name": "webclock nyc",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "officemax solutions",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "https:webclocknycgov",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "stretchlab hours",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "free intranet",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "corporate coverage",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "tps intranet",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "officemax online",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "commercial coverages",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "stretchlab nyc",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "bronx job",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "millercoors careers",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "miller staffing nj",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "millercoors job openings",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "miller lite jobs",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "miller coors jobs",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "miller lite hiring",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "sick nys",
+    "parent": 1
+  },
+  {
+    "id": 101,
+    "name": "nys spread of hours law",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "how many hours is part time in ny",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "new york state paid time off laws",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "new york hourly",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "new york state travel time compensation",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "when does the hour change in new york",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "spread of hours pay new york 2023",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "what is considered full time in new york state",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "winter time change in new york",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "new york paid time off",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "nypd retro",
+    "parent": 1
+  },
+  {
+    "id": 112,
+    "name": "pay transparency by state",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "new york city pay transparency",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "which states have salary transparency laws",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "new york pay transparency law 2023",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "nys transparency law",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "ny pay transparency laws",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "states that require pay transparency",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "new york state pay transparency law effective date",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "pay transparency law ny",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "how many states have pay transparency laws",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "nys pay transparency",
+    "parent": 111,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 124,
+    "name": "0",
+    "parent": 123,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 126,
+    "name": "37",
+    "parent": 125,
+    "size": 1
+  }
+]
