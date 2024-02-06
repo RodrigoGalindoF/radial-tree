@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "improve communication"
+  },
+  {
+    "id": 2,
+    "name": "communication digital",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ways to increase communication in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "methods to improve communication in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "strategies to improve communication in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "effective communication in the workplace examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "effective communication strategies in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how do you improve communication in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ways to improve communication in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "effective communication in workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "why communication skills are important in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "improve professional communication skills",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how can we improve communication in the workplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "effective employee communication",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "26",
+    "parent": 17,
+    "size": 1
+  }
+]
