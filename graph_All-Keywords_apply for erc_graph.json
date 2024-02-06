@@ -1,0 +1,666 @@
+[
+  {
+    "id": 1,
+    "name": "apply for erc"
+  },
+  {
+    "id": 2,
+    "name": "deadline credit",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "irs erc tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "do you pay taxes on erc credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what is the erc tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "erc tax credit news",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "erc tax credit loan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "erc business tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how does erc tax credit work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "erc credit taxable income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "erc tax credit reviews",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "irs erc credit status",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is an erc tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "erc credit tax treatment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "eitc efiling",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "what is erc program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "erc government program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "erc application",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "erc application online",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "federal erc program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what is erc assistance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "government erc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "erc benefits",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "erc incentive program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "erc program covid",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "application for erc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "erc application process",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "credit erc",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "2022 erc credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "2023 erc credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "what is erc credit 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is erc credit 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "erc credit for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "what is the erc credit for 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "erc credit 2023",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "erc credit 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "erc credits 2022",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "deadline for erc credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "deadline for filing erc credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "deadline for erc credit 2020",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "ertc taxable",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "erc tax credit 2022 qualifications",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "qualifications for erc tax credit",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "do i qualify for erc tax credit",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how to qualify for erc credit",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "erc tax credit eligibility 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "who qualifies for the erc tax credit",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "who is eligible for erc credit",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "erc credit 2021 eligibility",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "who qualifies for erc credit",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "erc tax credits 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "erc credit qualification",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "erc tax credit eligibility 2023",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "erc self",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "erc for self employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "can self-employed get erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "erc tax credit for self employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "erc for self-employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "erc program for self employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "can you get erc if you are self-employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "ertc for self employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "can self employed get erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "can self-employed get child tax credit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "are self employed eligible for erc",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "erc tax credit self employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "ertc self employed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "erisa fiduciary",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "business erc",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "erc start up business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "erc for new business started in 2020",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "erc small business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "erc funding for small businesses",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "erc for new business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "erc program for small business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "erc startup business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "erc new business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "ertc start up business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "erc small business grant",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "erc business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "erc time",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "ertc processing time",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "erc how long does it take",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "echeck payment processing time",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "why is my erc taking so long",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "irs erc processing time",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "how long for echeck to process",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "erc processing time",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "irs ertc processing times",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "how long does it take to get erc",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "erc processing time irs",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "erc whats",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "india efiling",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "2020 eic table",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "eitc table 2022 pdf",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "eitc 2021 qualifications",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "when is efiling open for 2023",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "eidl loan repayment start date",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "eidl loan forgiveness update 2022",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "eitc 2020",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "processing erc",
+    "parent": 1
+  },
+  {
+    "id": 101,
+    "name": "ertc moratorium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "irs moratorium on erc",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "erc moratorium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "erc moratorium 2023",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "irs ertc moratorium",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "erg define",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "dollar general erc phone number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "erc number for dollar general",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "erc dollar general number",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 111,
+    "name": "0",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 113,
+    "name": "89",
+    "parent": 112,
+    "size": 1
+  }
+]
