@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "pinehurst surgical clinic pinehurst"
+  },
+  {
+    "id": 2,
+    "name": "pinehurst dermatology",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "pinehurst surgical orthopedics",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "elmhurst hospital ny jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "pinehurst urology",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "spectrum pinehurst",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "pinehurst urology pinehurst nc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "pinehurst surgical clinic - orthopaedics",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "pinehurst surgical clinic ent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "pinehurst womens clinic",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ent pinehurst nc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "pinehurst surgical clinic pinehurst",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "bay terrace ent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "pinehurst ent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "10",
+    "parent": 17,
+    "size": 1
+  }
+]
