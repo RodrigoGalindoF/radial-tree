@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "name": "most growing business"
+  },
+  {
+    "id": 2,
+    "name": "many large",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "principle architect",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is the modern way of designing jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "design manger",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much does an architect make",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "architecture principal salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "growth by design talent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "us businesses",
+    "parent": 1
+  },
+  {
+    "id": 10,
+    "name": "ease of doing business rankings",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "business trends in the next 10 years",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "trend benefits",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "increase business performance",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "bad for business",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "most in demand business",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "weaver accounting firm ranking",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "businesses on the rise",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "businesses in high demand",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "improve business efficiency",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "trending businesses",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "architect design",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "name": "number of firms in the us",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "corporate demographics",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "business census 2022",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "small scale industries near me",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how many businesses in us",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "list of small companies in usa",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "best business to start in north carolina",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "businesses to start while in the military",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "number of businesses in us",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 32,
+    "name": "0",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
