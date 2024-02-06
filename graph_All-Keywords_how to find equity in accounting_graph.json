@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "name": "how to find equity in accounting"
+  },
+  {
+    "id": 2,
+    "name": "balance wisely",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what does work life balance mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "defining work life balance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "components of work-life balance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "balance between work and life",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "balance work life",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "work and life balance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "work life balance workshop",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "worklife balance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "financial formulas",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "how to do current ratio",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "numero data",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "12 hundredths",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "hundredths conversion chart",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "percentage reverse formula",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "it ratio calculation",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "hundredths chart",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "004 as a percentage",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "low current ratio",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "pie chart calculator percentage",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "profit increase",
+    "parent": 1
+  },
+  {
+    "id": 23,
+    "name": "common shares on balance sheet",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "is common stock a long term asset",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "is common stock an asset on a balance sheet",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "common stock asset or liability",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "what is common stock on a balance sheet",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "common stock income statement",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "are common stock debit or credit",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "is common stock a current liability",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "is common stock a debit",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "common stock accounting entry",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "is common stock a current asset",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "common stock classification on balance sheet",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "year percentage",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "annual income generator",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "income tax sample",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "income statement sheet example",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "income summary of earnings statement md 34",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "ms annual information return",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "basic income statement template",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "sample of expenditure sheet",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how to find total assets on income statement",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "basic income statement example",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "income and expense statement example",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "list the four sections of an income statement",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "business income sheet",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "worksheet ertc",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "how to calculate days sales outstanding",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how do you calculate sales growth percentage",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how to find sales growth percentage",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how to calculate percentage sales increase",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "sales percentage increase formula",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "how to calculate sales growth rate",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "formula for sales growth",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how to calculate growth rate in sales",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "number of days sales in accounts receivable",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "markup calculator",
+    "parent": 1
+  },
+  {
+    "id": 59,
+    "name": "provisional period meaning",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "look back measurement period",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "first period test calculator",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "period estimator",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "proration period",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "941 lookback period",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "introductory period",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 67,
+    "name": "0",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 69,
+    "name": "10",
+    "parent": 68,
+    "size": 1
+  }
+]
