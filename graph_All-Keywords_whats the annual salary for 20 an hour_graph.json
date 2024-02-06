@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "whats the annual salary for 20 an hour"
+  },
+  {
+    "id": 2,
+    "name": "salary year",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is $20 an hour yearly salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "$20 hour annual salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "salary for 20 an hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "$20 hr annual salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "20 hr salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "20hr to salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "20 an hour part time salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is $20 an hour salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "what is 20 hr salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "$20 hourly to salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 14,
+    "name": "0",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "45",
+    "parent": 15,
+    "size": 1
+  }
+]
