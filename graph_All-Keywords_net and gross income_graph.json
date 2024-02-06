@@ -1,0 +1,448 @@
+[
+  {
+    "id": 1,
+    "name": "net and gross income"
+  },
+  {
+    "id": 2,
+    "name": "net salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is a net annual income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "define annual net income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "total annual net income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is annual net income mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "what is annual net pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "net annual income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "whats annual net income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "net annual income means",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "annual net income definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "net annual salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "net annual income meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "net annual",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "what is a net earning",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "is net income the same as net earnings",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "total net definition",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "is earnings the same as net income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "is net income and net earnings the same",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "earnings vs net income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "are net earnings and net income the same",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "net earnings vs net income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "is net earnings and net income the same",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "calculating net earnings",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "net earnings formula",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "net earnings",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "pay gross",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "gross to net pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "net to gross pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "convert net to gross pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "net pay of 60000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "net pay to gross pay converter",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "if my net pay is what is my gross",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "is basic salary net or gross",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "net amount",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "100 000 gross to net",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "gross net pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "net pay to gross",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "percentage of net pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "income whats",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "how to calculate net income from gross income",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "gross income net income calculator",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "income calculator net to gross",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "gross income from net income calculator",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "work out gross income from net",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how to calculate net from gross income",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "calculate gross income from net",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how to figure out gross income from net",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "estimate gross income from net",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "calculate gross income from net pay",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how to calculate gross income from net",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "gross income vs net income calculator",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "net earnings",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "net monthly income meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "net monthly income example",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "what is monthly net pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "what does monthly net income mean",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "net monthly income definition",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "what does net monthly income mean",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "define net monthly income",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "what is net monthly income",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "net monthly",
+    "parent": 1
+  },
+  {
+    "id": 63,
+    "name": "it income",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "define profit and loss statement",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "earnings statements",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "profit tax meaning",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "what is anual income",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "what is real income",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "whats anual income",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "whats an income",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "what dose income mean",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "earnings vs income",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 74,
+    "name": "0",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 76,
+    "name": "56",
+    "parent": 75,
+    "size": 1
+  }
+]
