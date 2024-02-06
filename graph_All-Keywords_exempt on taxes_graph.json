@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "exempt on taxes"
+  },
+  {
+    "id": 2,
+    "name": "exemptions tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is a federal exemption",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "federal income tax exemptions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "federal income tax exemption",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "federal tax exemption",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "fed exempts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "federal exemptions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "federal witholding exemptions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what are federal exemptions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "what are federal tax exemptions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "exempt from federal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is federal exemptions for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what is federal tax exemption",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "exemptions number",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how to become tax exempt",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how do i file tax exempt",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how to exempt taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how to get a tax exempt form",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to go exempt on taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how do you become tax exempt",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to qualify for tax exempt",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to get a tax exempt",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to file exempt from taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to file exempt on taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how to be exempt from taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how to file exempt on your taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "24",
+    "parent": 30,
+    "size": 1
+  }
+]
