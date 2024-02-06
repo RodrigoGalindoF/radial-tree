@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "name": "401k withdrawal"
+  },
+  {
+    "id": 2,
+    "name": "withdraw withdrawn",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "my life choices 401k terms of withdrawal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "qualified withdrawals from 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "partial 401k withdrawal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "withdrawing money from a 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "withdraw money from 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "401k withdrawl",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "401k money withdrawal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "401k withdrawal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "does illinois tax 401k withdrawals",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "emergency withdrawal from 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "partial withdrawal from 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "withdrawal of 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "cancel cash",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how do you take out your 401k",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how can i take my 401k out",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how do i take out money from my 401k",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how to take out of 401k",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to take 401k out",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to get 401k out",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to take your 401k out",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how can i get my 401k out",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how can i take out my 401k",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how do you take money out of your 401k",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how do i get out of my 401k",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how do i get 401k money out",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "cash cashing",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "how can i access my 401k money",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "can i access my 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "taking money from your 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how can i get my 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "can i borrow against my 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "when can i access 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "getting money from 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "can you borrow from 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "can you take money from your 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "can i access my 401k early",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "can i take money from my 401k",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how does borrowing from 401 k work",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "early take",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "penalty to cash out 401k",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "penalty for cashing out 401k after termination",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "what is the penalty if i cash out my 401k",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "what reasons can you withdraw from 401k without penalty covid",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "401k withdrawal exemptions from penalty",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "penalty on early withdrawal of pension",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "does my employer have to approve my 401k withdrawal",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "can you withdraw after-tax contributions from a 401k without penalty",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "what is the penalty to take money out of 401k",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "early withdrawal penalty 401k exceptions",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "does my employer have to approve 401k withdrawal",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "withdraw 401k without penalty",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "roth k",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "faster money card withdrawal limit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "my banking direct withdrawal limit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "golden 1 withdrawal limit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "golden 1 atm withdrawal limit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "golden 1 atm cash deposit limit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "administrative debit wisely withdrawal limit",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 62,
+    "name": "0",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "116",
+    "parent": 63,
+    "size": 1
+  }
+]
