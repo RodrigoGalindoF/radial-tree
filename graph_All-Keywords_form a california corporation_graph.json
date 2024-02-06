@@ -1,0 +1,430 @@
+[
+  {
+    "id": 1,
+    "name": "form a california corporation"
+  },
+  {
+    "id": 2,
+    "name": "california laws",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ab5 california law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ab5 law california update",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ab5 california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ab5 law california update 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "california law ab 5",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ab 5 ca",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "california ab-5",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "california ab 5",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ab 5 california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "ab 5 law california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "ab 5 law in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "ab-5 california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "form ca",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "california over time",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "california data privacy",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "california scretary of state",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "privacy law california",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "california data security law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "california i-9 authorized representative",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "california state di",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "california i 9",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "california over time law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "w9 california",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "california w9",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "time change california law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "california break",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "california secretary of state certificate of good standing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ca certificate of good standing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "certificate of good standing secretary of state california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "good standing certificate california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "certificate of good standing california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "state of ca certificate of good standing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "sos business",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "california incorporation",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how to incorporate business in california",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "certificate of business incorporation",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how do i incorporate in california",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "ca incorporate",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "incorporating a business in california",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "incorporation california",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "ca incorporation",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "certificate of corporation california",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "articles of incorporation def",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "articles of incorporation ca",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "form a corporation in california",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "assembly bill",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "how do you get a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how to obtain a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how to set up a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "register a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how to register a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "how to create a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "setting up a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how to start a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "registering a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how do i register a dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "what is a dba account",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how to register dba in california",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "dfehcagovshpt",
+    "parent": 1
+  },
+  {
+    "id": 62,
+    "name": "fein search illinois",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "fein number lookup texas",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "ides fein",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "fein number california",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "california fein number",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "fein lookup california",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "fein address change",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "fein lookup texas",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 71,
+    "name": "0",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 73,
+    "name": "22",
+    "parent": 72,
+    "size": 1
+  }
+]
