@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "ihop uk"
+  },
+  {
+    "id": 2,
+    "name": "ihop ocean",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ihop york pa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ihop on seminary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ihop restaurant fresno ca",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ihop in lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "ihop bryan tx",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ihop in covington georgia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ihop costa mesa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "ihop san diego locations",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ihop portland me",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "ihop locations in usa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "ihop locations in ohio",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "ihop locations in utah",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "62",
+    "parent": 17,
+    "size": 1
+  }
+]
