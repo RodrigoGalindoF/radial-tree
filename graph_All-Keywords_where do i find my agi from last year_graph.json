@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "where do i find my agi from last year"
+  },
+  {
+    "id": 2,
+    "name": "agi lower",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "where is your agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how to get an agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how to find the agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "where to find agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "finding your agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "where do i get my agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "agi how to find",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how do i get my agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "where to find my agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "where can i find agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "where do you find your agi",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "agi where to find",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "agi income",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how do i find my agi on my tax return",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "where is my agi on my 1040",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "where to find your agi on 1040",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "find agi on 1040",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "agi location on 1040",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how do i get my agi for my taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "where do i find my agi on my 1040",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "where do i find my agi on my taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how to find my agi on my tax return",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "where do i find my agi on my tax return",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "where is my agi located on my 1040",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "where do i find the agi on my tax return",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "35",
+    "parent": 30,
+    "size": 1
+  }
+]
