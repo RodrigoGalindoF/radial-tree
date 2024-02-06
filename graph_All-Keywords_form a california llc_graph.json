@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "form a california llc"
+  },
+  {
+    "id": 2,
+    "name": "california llc",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how much is an llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how much to set up llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "california llc costs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "llc in california cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "cost for llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much does llc cost in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "llc cost in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how much is llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "cost to start an llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "cost to form an llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "cheapest way to form an llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "cost to open llc in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "llc free",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "llc in california free",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how to start an llc in california for free",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "free llc states",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "free llc california",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "free california llc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "is llc free in california",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how to get a free llc in california",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "free llc california 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "is creating an llc free",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "llc free in california",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "0",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "56",
+    "parent": 28,
+    "size": 1
+  }
+]
