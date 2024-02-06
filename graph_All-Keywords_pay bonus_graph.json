@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "name": "pay bonus"
+  },
+  {
+    "id": 2,
+    "name": "bonus employees",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "california bonus tax rate calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ca tax on bonuses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "discretionary bonus california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much are bonuses taxed in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "bonus tax rate california 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ca bonus calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how much is bonus taxed in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how are bonuses taxed in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "california bonus tax rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "california bonus tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is the tax rate in los angeles california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "bonus after tax calculator california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "calculator bonus",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "bonus payable",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "10 bonus",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "bonus payments",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "bonus pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "bonus salary game of life 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "pay bonus",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "bitcoin bonus payout",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "bonus pay definition",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "laws on bonus pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "bonus pay vs comission",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "10 bonus on salary calculation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "bonus wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "performance bonus",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "what is total rewards in human resources",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "total rewards compensation",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "rewards program for employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "total rewards strategy",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "employee total rewards program",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "total rewards programs",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "what is total rewards compensation",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "total rewards human resources",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "your total rewards",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "total rewards for employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "total reward statement",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "total rewards package",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "holiday bonus",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "80 bonus depreciation",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "bonus depreciation example",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "car bonus depreciation 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "do vehicles qualify for bonus depreciation in 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "bonus depreciation for vehicles 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "electing out of bonus depreciation",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "can you take bonus depreciation on used assets",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "2022 bonus depreciation vehicle",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "what is bonus depreciation on a vehicle",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "bonus depreciation phase out schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "can you take bonus depreciation on residential rental property",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "what is 100 bonus depreciation",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "bonus deduction",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "asking for a sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how to negotiate sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how to negotiate a sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how to ask for a sign-on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how to ask for signing bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "negotiating sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "asking for sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "how to ask for a signing bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "how to ask for a sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "how to ask for sign-on bonus sample",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "can you ask for a sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how to ask sign on bonus",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "bonus worker",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "how does amazon sign-on bonus work",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "how does amazon sign on bonus work",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "when do you get amazon sign on bonus",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "how does the amazon sign on bonus work",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "amazon sign on bonus when do you receive",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "when do i get my amazon sign-on bonus 2022",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 75,
+    "name": "0",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "41",
+    "parent": 76,
+    "size": 1
+  }
+]
