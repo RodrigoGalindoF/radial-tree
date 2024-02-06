@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "employment louisiana"
+  },
+  {
+    "id": 2,
+    "name": "louisiana payroll",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "electrician lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "electricians lafayette louisiana",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "stafford healthcare lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "electricians lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "darnel monroe nc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "mcallister lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "tax preparation lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "antique candle co lafayette in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "tax services lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "1st heritage credit lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "united medical staffing lafayette la",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "lafayette process servers llc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "louisiana benefits",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "louisiana remote jobs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "teaching positions in louisiana",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "offshore jobs louisiana no experience",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "louisiana teaching jobs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "offshore jobs in louisiana no experience",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "teaching jobs in louisiana",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "remote jobs in louisiana",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "teach louisiana jobs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "0",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "19",
+    "parent": 26,
+    "size": 1
+  }
+]
