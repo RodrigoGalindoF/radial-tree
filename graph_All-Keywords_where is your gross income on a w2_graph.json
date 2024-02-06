@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "where is your gross income on a w2"
+  },
+  {
+    "id": 2,
+    "name": "paychex pay",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "which w2 box is my gross income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "on a w2 where is the gross income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "w-2 gross income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "where is your gross income on a w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "w2 annual gross income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what is your gross income on w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "gross annual income on w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is gross income on w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "where on my w2 is my gross income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "where is my gross income on w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is my gross income on my w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "where on your w2 is your gross income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "gross wages",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "w2 wage statement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "w2 incorrect wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "w-2 wage statement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "w2 box 16 state wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "what are local wages on w2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to calculate w-2 wages",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "special wage type w2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "household employee wages not reported on a w2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "w2 and earnings summary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "why is my w2 different from my salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "what is social security wages on w2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "other wage adjustments - w-2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "income total",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "annual salary on w2",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "gross income w2 form",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "w2 where is total income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "where is total income on w2",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "dependent w2 income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "on your w2 what is your total income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "what line on w2 is total income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "w2 yearly income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "total annual income on w2",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "does your w2 show annual income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "w2 net income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how to offset w2 income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "48",
+    "parent": 43,
+    "size": 1
+  }
+]
