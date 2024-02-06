@@ -1,0 +1,955 @@
+[
+  {
+    "id": 1,
+    "name": "acuity billing"
+  },
+  {
+    "id": 2,
+    "name": "fiduciary fdic",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is provident fund",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "can you use gofundme to start a business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ask for fundingcom",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what are insufficient funds",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "pay less business funding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "red backpack fund",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "funding request for business plan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is fundbox",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "fundera business loans",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "emp provident fund",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "empty pantry fund",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "get my fundscom",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "venture x",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "www autozone com w2",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "autozone sign in",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "autozone paycheck stub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "autozone paycheck",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "tel\u00e9fono autozone",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "autozone employee app",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "autozone direct deposit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "payroll autozone",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "autozone employee login",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "autozone employee site",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "autozone payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "autozone employee login payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "ui filing",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "processing medical claims",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "file weekly claim iowa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "medical claims processing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "p a unemployment biweekly claim",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "ct dol weekly claim",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "wi ui weekly claim",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "claim dependent and other credits",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "claim weekly benefits new york",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "workforcewv org weekly claim",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "employer filed claim profile",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "at&t hra claim form",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "ziprecruiter careers",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "how is a 529 plan taxed",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "ltd contribution meaning 529",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "comparison of 529 plans by state",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "advantage of 529 savings plan",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "529 plan can be used for",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "contributions to 529 tax deductible",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "529 plan comparison by state",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "529 accounts by state",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how to contribute to 529 plan",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how is 529 taxed",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "are 529 plans pre tax",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "are 529 contributions tax deductible federal",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "pay meaning",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "what is a back payment",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "back pay meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "what is a back pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "back payments meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "back wages meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "payment back",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "what is back payment",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "backdated pay meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "wex support",
+    "parent": 1
+  },
+  {
+    "id": 63,
+    "name": "irs health savings account",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "recover intuit account",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "boss money phone number",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "plains commerce bank reviews",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "how to see card number on wells fargo app",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "john hancock dtc number",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "how to check spending on wells fargo app",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "gm financial collections phone number",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "treasurydirect account number",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "what is an archer medical savings account",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "department of revenue rt account no",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "notion edu account",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "accidental death",
+    "parent": 1
+  },
+  {
+    "id": 76,
+    "name": "gm life insurance metlife",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "metlife lawyer services",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "metlife total control account login",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "metlife employer login",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "metlife accident",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "met life accident insurance",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "ebitda negative",
+    "parent": 1
+  },
+  {
+    "id": 83,
+    "name": "sow billing",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "stripe liquidity event",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "stripe layoff letter",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "southcoast org bill pay",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "stripe 409a",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "stripe vesting",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "stripe rsu",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "consumption billing receivable",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "construction bill sample",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "credit memo template",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "bills due template",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "billing email sample",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "famli vs",
+    "parent": 1
+  },
+  {
+    "id": 96,
+    "name": "due to due from accounts",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "due from account",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "due to due from accounting",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "due to accounting",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "due from accounting",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "due from in accounting",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "due tofrom account",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "due to and due from accounts",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "due to account",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "due to in accounting",
+    "parent": 95,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "edge financial",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "famli registration",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "2023 famli program notice",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "fien or fein",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "fed mwt ee vs fica",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "col vs cin",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "famli leave",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "scorp tax",
+    "parent": 1
+  },
+  {
+    "id": 114,
+    "name": "$600 threshold",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "600 threshold",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "wc exemption",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "tax on 500 dollars",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "tax on 5000 dollars",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "wc rate",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "qualified plans",
+    "parent": 1
+  },
+  {
+    "id": 121,
+    "name": "qualified versus non qualified plans",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "qualified plans",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "an example of a tax-qualified retirement plan would be a",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "an example of a tax qualified retirement plan",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "qualified plans within retirement plans function in what way",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "qualified retirement plan matters",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "types of qualified plans",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "what is a qualified plan",
+    "parent": 120,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "equipment account",
+    "parent": 1
+  },
+  {
+    "id": 130,
+    "name": "receipt keeper",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "business receipt organizer",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "best way to organize receipts for business",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "sample receipt for services rendered",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "receipt folder",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "how to organize receipts electronically",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "amex receipt capture",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "interest accrued",
+    "parent": 1
+  },
+  {
+    "id": 138,
+    "name": "all of the following are types of adjusting entries except",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "what does an adjusting entry affect",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "prior to recording adjusting entries",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "this value is less than the previous entry",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "what is the difference between adjusting entries and correcting entries",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "adjusting entries are needed to correctly measure the",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "each adjusting entry will always affect",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "an example of an adjusting entry would not include:",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "an adjusting entry should never include",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "adjusting entries for interest",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "which of the following is true about adjusting entries",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "which of the following is not an adjusting entry",
+    "parent": 137,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "earnings wday",
+    "parent": 1
+  },
+  {
+    "id": 151,
+    "name": "my west virginia chart",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "wday earnings call",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "wday earnings date",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "low earnings west virginia",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "listen to earnings calls",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "wv low earnings chart",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "gap earnings call",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "wday earnings",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 160,
+    "name": "16",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 162,
+    "name": "116",
+    "parent": 161,
+    "size": 1
+  }
+]
