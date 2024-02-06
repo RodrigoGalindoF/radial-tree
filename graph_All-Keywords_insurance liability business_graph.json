@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "insurance liability business"
+  },
+  {
+    "id": 2,
+    "name": "business liability",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "cost for liability insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "cost for liability insurance for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how much is liable insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "liability insurance for business cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how much is liability insurance for business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much for liability insurance for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "liability business insurance cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "liability insurance cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "liability insurance coverage cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "liability insurance for small business cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "business liability insurance cost",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "0",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
