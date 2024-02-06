@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "salary for a paralegal"
+  },
+  {
+    "id": 2,
+    "name": "lawyer employment",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "company dental plans",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how can you get dental insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "dental insurance organizations",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "get dental insurance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "dentist career description",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "dentist software",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "lil teeth",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "name": "0",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
