@@ -1,0 +1,1153 @@
+[
+  {
+    "id": 1,
+    "name": "calculator for pay"
+  },
+  {
+    "id": 2,
+    "name": "calculator wage",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "part time job pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "salary compression calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "salary benchmarking calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "wage calculatro",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "reverse salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "rate pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "wages calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "part time salary tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "salary projection calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "burden calculator",
+    "parent": 1
+  },
+  {
+    "id": 14,
+    "name": "year salary calculator",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "yearly income calc",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "calculating year over year growth in excel",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "wage growth calculator",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "calculate yearly",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "calculator yearly income",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "salary calculator year",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "salary growth calculator",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "annual salary calculator",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "money comparison by year",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "income growth calculator",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "annual income cal",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "leave calculator",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "federal leave spreadsheet 2023",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "erc worksheet excel",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "2024 federal leave chart excel",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "sick leave conversion table",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "federal employee leave record excel",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "erc worksheet 2021 excel",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "nursing conversion sheet",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "total income calculator",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "real income calculator",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "household income calculator",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "income calculator",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "takehome income calculator",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "walmart calculator",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "anding calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "take me to calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "accurate calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "check calculatir",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "calculator new",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "calculator me",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "pre calc calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "running equivalency calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "my calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "calculator calculators",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "indeed calculator",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "calculator 18",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "calculator pay",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "eidl loan calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "child care tax credit 2023 calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "commercial business loan calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "loan forgiveness tax calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "loan calculator spreadsheet",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how to split bills with spouse calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "loan payment calculator excel",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "eidl loan payment calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "forgiveness calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "total liabilities calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "split bills based on income calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "assets liabilities equity calculator",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "calculator adp",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "tx 30 calculator online",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "paycheck tax calculator texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "calculate paycheck texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "business tax calculator texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "calculator texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "texas state income calculator",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "texas paycheck tax calculator",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "salary paycheck calculator texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "tax calculator for paycheck texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "paycheckcalculator texas",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "texas online calculator",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "texas calculator",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "calculator year",
+    "parent": 1
+  },
+  {
+    "id": 79,
+    "name": "smartasset tax calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "smart asset tax",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "smart asset calculator california",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "smart asset take home pay",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "smartasset salary calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "smart assets calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "salary calculator smartasset",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "smart asset tax calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "smartasset budget calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "smart asset salary calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "smartasset income calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "smartasset california tax calculator",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "smartasset paycheck",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "boston sales tax calculator",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "ma sales tax calculator 2023",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "las vegas property tax calculator",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "reverse tax calculator usa",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "calculating sales tax in excel",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "nyc restaurant tax calculator",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "sales tax calculator memphis",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "property tax calculator greece",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "tax calculator take home pay",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "sales tax calculator st louis",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "take home tax calculator",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "reverse income tax calculator",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "calculator calculate",
+    "parent": 1
+  },
+  {
+    "id": 105,
+    "name": "calc ap",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "comp calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "check calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "difference calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "2 calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "how to calc work",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "first calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "x calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "calc check",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "work calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "bonus calc",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "www calculatornet",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "calculator money",
+    "parent": 1
+  },
+  {
+    "id": 118,
+    "name": "paystubs calculator",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "youtube payout calculator",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "calculate paystub",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "paystub calculator hourly",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "paystub calculator free",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "free paystub calculator",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "paystub calculator california",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "youtube paycheck calculator",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "youtube earnings calculator by channel name",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "paystub calculator",
+    "parent": 117,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "calculator retirment",
+    "parent": 1
+  },
+  {
+    "id": 129,
+    "name": "who invented the calculator first",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "when did calculators come out",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "first invented calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "when was the first calculator invented",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "who invented the first mechanical calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "who invented the first calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "the inventor of the calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "when were calculators invented",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "who invented first calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "invention of calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "who is the inventor of the calculator",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "mechanical calculator inventor",
+    "parent": 128,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "calculator paystub",
+    "parent": 1
+  },
+  {
+    "id": 142,
+    "name": "take homepay calculator",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "take home calculator florida",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "homepay calculator",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "take home calculator north carolina",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "take home calculator new york",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "take home calculator illinois",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "calculate take home",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "home depot calculator",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "take home calculator",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "home calculator texas",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "take home calculator washington",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "home run calculator",
+    "parent": 141,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "salary calc",
+    "parent": 1
+  },
+  {
+    "id": 155,
+    "name": "snap alabama calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "hsa tax break calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "high 36 calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "ohio calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "pera calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "sat approved calculators 2023",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "per 36 calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "veterinary production calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "mi calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "40k calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "kentucky calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "mississippi pers calculator",
+    "parent": 154,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "calculator payroll",
+    "parent": 1
+  },
+  {
+    "id": 168,
+    "name": "total costs calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "start up cost calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "budget percentages calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "calculator expenses",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "cost function calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "local construction cost calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "revenue formula calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "expense calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "total cost calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "cookie cost calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "annualized cost calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "startup cost calculator",
+    "parent": 167,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "calculator break",
+    "parent": 1
+  },
+  {
+    "id": 181,
+    "name": "diff calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "cost difference calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "calculate equivalent",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "pay difference calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 185,
+    "name": "money difference calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "how do you calculate equivalents",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 187,
+    "name": "diff calc",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 188,
+    "name": "size difference calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 189,
+    "name": "difference meaning",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 190,
+    "name": "differetial calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 191,
+    "name": "price difference calculator",
+    "parent": 180,
+    "size": 1
+  },
+  {
+    "id": 192,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 193,
+    "name": "16",
+    "parent": 192,
+    "size": 1
+  },
+  {
+    "id": 194,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 195,
+    "name": "503",
+    "parent": 194,
+    "size": 1
+  }
+]
