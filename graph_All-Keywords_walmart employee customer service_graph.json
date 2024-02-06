@@ -1,0 +1,732 @@
+[
+  {
+    "id": 1,
+    "name": "walmart employee customer service"
+  },
+  {
+    "id": 2,
+    "name": "password walmart",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "walmart plus employee login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "workforce walmart login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "walmart associate login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "walmart employer login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "wallmart sign in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "former walmart employee login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "walmart associate sign in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "walmart login for associates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "walmart employee benefits login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "walmart login employment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "walmart benefits login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "walmart employee log in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "pleasanton walmart",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "walmart online paystub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "my walmart pay stub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "walmart paystubs portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "walmart pay stub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "pay stub portal walmart",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "www walmart paystub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "walmart employer code for pay stub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "walmartone pay stub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "walmart pay portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "one walmart paystub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "walmartone paystub portal",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "walmart portal pay stub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "portal walmart",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "walmart raleigh locations",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "walmart seattle wa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "walmart in seattle wa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "northshore walmart",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "walmart near seattle wa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "walmart on peachtree pkwy",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "walmart seattle washington area",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "walmart on collins hill road",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "walmart on 23rd and douglas",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "claries walmart",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "walmart 83rd union hills az",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "walmart church st",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "walmart canada",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "what time do walmart customer service close today",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "what time does walmart customer service center close",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "walmart customer service hours today",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "pleasanton walmart hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "24 hour walmart near me open now",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "walmart pleasanton ca hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "why is walmart not open 24 hours anymore",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "walmart customer service number hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "walmart customer service hours phone number",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "walmart hours berlin nj",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "walmart lisbon hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "lisbon walmart hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "walmart check",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "walmart pay stubs",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "walmart employee paycheck stubs",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "pay stub walmart employees",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "ex walmart employee pay stubs",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "walmart pay stubs online",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "walmart paycheck stub",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "me walmart pay stub",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "pay stub walmart",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "my pay stub at walmart",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "walmart online pay stubs",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "walmart associate pay stub",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how to get pay stubs from walmart",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "walmart hour",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "walmart careerscom online application",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "walmart job portal",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "walmart hire login",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "walmart careerscom application",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "walmart application under review",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "walmart payroll services department phone number",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "walmart cashier application",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "walmart payroll number usa phone number",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "walmart application questions",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "walmart payroll services phone number",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "walmart dept manager job description",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "payroll department for walmart",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "mall cottonwood",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "walmart puerto rico empleo",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "empleos walmart",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "walmart empleo",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "walmart empleos espanol",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "walmart empleos usa",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "walmart puerto rico empleos",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "empleo walmart",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "walmart pr empleos",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "walmart boulder",
+    "parent": 1
+  },
+  {
+    "id": 90,
+    "name": "walmart in watson la",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "walmart watson louisiana",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "walmart ohio phone number",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "walmart state street boise id",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "walmart columbus wi",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "walmart jackson ohio directory",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "walmart state st boise",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "walmart new boston ohio phone number",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "walmart state line idaho",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "walmart near cincinnati airport",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "walmart dc columbus ohio",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "walmart state street boise idaho",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "walmart hotline",
+    "parent": 1
+  },
+  {
+    "id": 103,
+    "name": "india walmart jobs",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "walmart careers in india",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "walmart recruitment india",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "walmart jobs india",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "walmart india openings",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "walmart india recruitment",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "jobs at walmart india",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "vacancy in walmart india",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "walmart india jobs",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "walmart india careers",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "walmart data",
+    "parent": 1
+  },
+  {
+    "id": 114,
+    "name": "bangalore walmart",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "walmart bangalore office",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "walmart india office bangalore",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "walmart office in bangalore",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "walmart company in bangalore",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "walmart india bangalore office",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "walmart bangalore",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 122,
+    "name": "0",
+    "parent": 121,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 124,
+    "name": "79",
+    "parent": 123,
+    "size": 1
+  }
+]
