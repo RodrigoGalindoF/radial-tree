@@ -1,0 +1,754 @@
+[
+  {
+    "id": 1,
+    "name": "work in argentina"
+  },
+  {
+    "id": 2,
+    "name": "colombia visa",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what time in colombia right now",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what time in colombia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "colombia time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is the time in colombia right now",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "whats time in colombia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what time is it in colombia right now",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "colombia country time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what time is in colombia right now",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "time in colombia right now",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "time in colombia country",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "time colombia",
+    "parent": 1
+  },
+  {
+    "id": 14,
+    "name": "argentine or argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "time and date in argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "argentina per",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what time is it now in argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "redcloud argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "the argentina independent",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "in argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "argentina we will stay meaning",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "from argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how long is argentina",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "argentina independent",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "argentina with",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "holidays argentina",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "visa requirements peru",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "relocating to peru",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "visa requirements for peru",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "technology made easy peru il",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "peru il goodwill",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is perus currency called",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "peru social security",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "jobs in peru for us citizens",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "what is the time now in peru",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "do us citizens need a visa for peru",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "peruvian time",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "sodexo club peru",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "ministry labor",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "minimum wage in jamaica",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "what is minimum wage in jamaica",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "what is the minimum wage in jamaica",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "jamaica minimum wage",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "jamaicas minimum wage",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "minimum wage jamaica",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "minimum wage for jamaica",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "what is jamaicas minimum wage",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "jobs colombia",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "salary in colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "average colombian income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "average income of colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "average pay in colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "average wage in colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "average salary in cartagena colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "average income in colombia south america",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "what is the average wage in colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "average monthly salary in colombia",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "average colombian salary",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "colombia average income",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "jamaica benefits",
+    "parent": 1
+  },
+  {
+    "id": 61,
+    "name": "company office of jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "flow fast pay jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "jamaica employment rate",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "workforce in jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "pay flow jamaica bill online",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "jamaican work permit",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "jamaica benefits",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "benefits of jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "bank of nova scotia jamaica toll free number",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "nis payments jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "nis benefits in jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "work permit in jamaica",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "lima one",
+    "parent": 1
+  },
+  {
+    "id": 74,
+    "name": "do you need a passport to go to portugal",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "does portugal require a visa",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "citizens of portugal",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "portugal is schengen country",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "portugal tax calculator for foreigners",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "how long is portugal",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "portugal tax calculator",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "portugal visas for us citizens",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "tourist visa portugal",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "does portugal tax us social security benefits",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "is portugal in schengen",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "jamaica tax",
+    "parent": 1
+  },
+  {
+    "id": 86,
+    "name": "national id number colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "what is a colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "taxes in colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "what do colombians look like",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "min colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "taxation in colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "colombia taxes",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "cost of private security in colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "deet colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "how much does it cost to go to colombia",
+    "parent": 85,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "st lucia",
+    "parent": 1
+  },
+  {
+    "id": 97,
+    "name": "employment in st lucia",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "st lucia employment",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "careers in st lucia",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "job opportunities in st lucia",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "jobs in st lucia caribbean",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "jobs in st lucia west indies",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "jobs in st lucia",
+    "parent": 96,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "chile average",
+    "parent": 1
+  },
+  {
+    "id": 105,
+    "name": "jobs for venezuelans",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "venezuela treats",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "venezuela jobs",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "average income in venezuela",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "average venezuelan income",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "average pay in venezuela",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "job opportunities in venezuela",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "bolivia latin",
+    "parent": 1
+  },
+  {
+    "id": 113,
+    "name": "montevideo mn jobs",
+    "parent": 112,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "employment in montevideo mn",
+    "parent": 112,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "jobs montevideo mn",
+    "parent": 112,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "montevideo ga",
+    "parent": 112,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "chronos montevideo",
+    "parent": 112,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "paraguay immigration",
+    "parent": 1
+  },
+  {
+    "id": 119,
+    "name": "barbados employment",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "antiguan creole",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "jobs in antigua government",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "grow antigua",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "barbados employment opportunities",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "antigua employment opportunities",
+    "parent": 118,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 126,
+    "name": "0",
+    "parent": 125,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 128,
+    "name": "24",
+    "parent": 127,
+    "size": 1
+  }
+]
