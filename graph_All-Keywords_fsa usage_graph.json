@@ -1,0 +1,1057 @@
+[
+  {
+    "id": 1,
+    "name": "fsa usage"
+  },
+  {
+    "id": 2,
+    "name": "fsa pay",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "fsa store eligible only",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "last minute fsa purchases",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "fsa purchase list",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "fsa stores online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "fsa purchases",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "fsa eligible products",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "fsa eligible items at walgreens",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "fsa qualified products",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "best fsa vendors",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "fsa store",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "fsa products at walgreens",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "f c",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "fsa dc",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "peloton fsa",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "fsa dca",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "fsa sotre",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "fsa elegible",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "fsa is",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "fsafed",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "the fsa",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "depedent care fsa",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "dc fsa",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "fsa turbotax",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "fsa airport",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "fsa enrollment",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "what can you use an fsa card for",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "fsa card application",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "what can you use your fsa card on",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how to use fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how to get a fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "where can i use my fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "where can i use fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "where to use fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "where is my fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "what is a fsa card",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "what can i use my fsa card for",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "fsa job",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "fsa transit limit 2023",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "limited purpose fsa limits 2023",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "fsa limits for 2023",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "transit fsa limit 2023",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "medical fsa 2024 limit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "fsa limits for 2022",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "shrm 2024 fsa limits",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "fsa limits 2021",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "fsa medical limits 2023",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "transit fsa limit 2024",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "shrm fsa limits 2024",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "fsa transit limit 2024",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "fsa need",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "flexible fsa",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "flex fsa",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "fsa flex spending",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "pto and fmla",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "fsla status",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "fsla",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "fsa flex",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "fmla vs pfl california",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "flexfsahra eligible",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "fsa tax",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "dependent day care fsa eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "fsa dependent care eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "childcare fsa eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "dependent daycare fsa eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "day care fsa eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "eligible expenses for dependent care fsa",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "dependent care fsa eligible expenses irs",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "fsa for childcare expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "fsa childcare eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "fsa dependent care qualified expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "dependant care fsa eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "daycare fsa eligible expenses",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "worth fsa",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "fsa vs health savings account",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "fsa savings",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "fsa save plan",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "difference between health savings account and fsa",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "how much does fsa save you",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "fsa saving account",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "fsa savings account",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "health care fsa vs health savings account",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "how much does an fsa save you",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "health saving account vs fsa",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "fsa health savings",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "health savings account vs health care fsa",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "fsa taxes",
+    "parent": 1
+  },
+  {
+    "id": 90,
+    "name": "what can i buy with fsa account",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "what can you buy with fsa card 2022",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "what can i buy with fsa funds",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "what can you purchase with fsa",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "what can you buy with fsa money",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "what can you buy with your fsa",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "what to get with fsa money",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "what to buy with fsa",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "what can i buy with my fsa",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "best things to buy with fsa",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "what can you purchase with fsa card",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "things to buy with fsa funds",
+    "parent": 89,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "fsa benefits",
+    "parent": 1
+  },
+  {
+    "id": 103,
+    "name": "healthcare fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "health care fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "is a health care fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "are fsas worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "is health care fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "is a fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "is healthcare fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "is fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "is an fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "are fsa worth it",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "fsa deductible",
+    "parent": 1
+  },
+  {
+    "id": 115,
+    "name": "what is fit",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "fsa medicare",
+    "parent": 1
+  },
+  {
+    "id": 117,
+    "name": "fsa reimbursement deadline 2022",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "how long to submit fsa claims",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "what is the deadline to submit fsa claims for 2022",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "fsa march 15 deadline",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "fsa enrollment deadline 2023",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "deadline to submit fsa claims 2022",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "fsa spending deadline",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "fsa claim deadline 2023",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "last day to submit fsa claims for 2022",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "fsa claims processor",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "fsa enrollment deadline 2022",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "fsa claim",
+    "parent": 116,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "fsa covered",
+    "parent": 1
+  },
+  {
+    "id": 130,
+    "name": "how to use a fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "fsa how to use",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "how do you use your fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "how do you use fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "how to use my fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "how to use your fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "how to use fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "how to set up an fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "how to use up fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "how to set up fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "how to set up a fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "setting up an fsa",
+    "parent": 129,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "fsa whats",
+    "parent": 1
+  },
+  {
+    "id": 143,
+    "name": "amazon fsa card not working",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "why cant i use my fsa card on amazon",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "amazon fsa not working",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "cant use fsa card on amazon",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "fsa card not working on amazon",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "how do i add my fsa card to amazon",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "amazon add fsa card",
+    "parent": 142,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "fsa happens",
+    "parent": 1
+  },
+  {
+    "id": 151,
+    "name": "can you buy supplements with fsa",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "is nutrafol fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "is protein powder fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "food sensitivity test fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "fsa eligible supplements",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "are fiber supplements fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "fsa eligible food",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "supplements fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "can you use fsa for supplements",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "nutrafol fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "are supplements fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "protein powder fsa eligible",
+    "parent": 150,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "fsa irs",
+    "parent": 1
+  },
+  {
+    "id": 164,
+    "name": "flsa training pay",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "flsa tipped employees",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "fli withholding",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "under the flsa overtime pay is required for",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "flsa training time",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "flsa regular rate of pay",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "flsa salary minimum",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "minimum salary for flsa exempt",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "flsa new salary threshold",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "flsa rate of pay",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "colorado flsa salary threshold 2023",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "flsa threshold 2023",
+    "parent": 163,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 177,
+    "name": "2",
+    "parent": 176,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 179,
+    "name": "154",
+    "parent": 178,
+    "size": 1
+  }
+]
