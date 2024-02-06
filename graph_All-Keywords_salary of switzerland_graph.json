@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "name": "salary of switzerland"
+  },
+  {
+    "id": 2,
+    "name": "geneva time",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "zurich is in which country",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "average wage in zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "in which country is zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "zurich costs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "switzerland zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "zurich which country",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "b permit zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "country of zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "country zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "which country is zurich",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what country is zurich in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "zurich what country",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "switzerland salary",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "what time is in switzerland geneva",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "geneva to schaffhausen",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "geneva which country",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "time in switzerland geneva",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "which country is geneva in",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what time is it in switzerland geneva",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what time is it in switzerland just now",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "geneva to zug",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "time in geneva swiss",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "geneva benefits",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "zurich country",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "minimum pay switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "what is the minimum wage in switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "minimum salary in switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "minimum salary switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "what is minimum wage in switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "swiss minimum wage",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "what is the minimum salary in switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "minimum pay in switzerland",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "0",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
