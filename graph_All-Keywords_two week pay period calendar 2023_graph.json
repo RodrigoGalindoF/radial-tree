@@ -1,0 +1,1069 @@
+[
+  {
+    "id": 1,
+    "name": "two week pay period calendar 2023"
+  },
+  {
+    "id": 2,
+    "name": "pay usps",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "bi weekly payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is bi weekly payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "biweekly payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "bi weekly paychecks should be illegal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how does a bi weekly payroll work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "bi weekly payroll schedule",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "bi-weekly payroll schedule",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "payroll weekly or biweekly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "bi weekly paid jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "what is biweekly payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "bi-weekly payroll",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "bi weekly check in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "payroll payday",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "one day pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "days pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "paid days",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "pay equality day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "daily work daily pay near me",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "same day pay companies",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "day off pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how does same day pay work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "are personal days paid",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "paid day off",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "pay my day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "payment day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "hours worked",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "walgreens pto accrual rate",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "off-cycle payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "problem 12-6 preparing a payroll register",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "payroll toasttab company code",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "jail time for unpaid payroll taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "hourly payroll rutgers",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "toasttab payroll login",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "mn state payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "problem 12-4 preparing a payroll check",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "mn state payroll taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "company forgot to take me off payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "amc payroll",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "payday invite",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "2023 ppl pay period calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "2023 pay calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "gs pay period calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "2023 paychex payroll calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "gs pay schedule calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "2022 pay period calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "pay period calendar 2022",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "paycheck calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "2024 state pay calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "calendar for tax refund 2023",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "pay date calendar 2023",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "gs pay calendar",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "payroll weekly",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "how many days left until 2023",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "2023 calendar numbered weeks",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "howmany days until june 1",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how many working days in a year 2024",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "90 days from july 7",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how much longer till march",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "how many more months till may",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "what months have 5 weeks in 2022",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "how many weeks til june 1",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "90 days from july 1 2023",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "how to get the most days off in 2024",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how many months till may",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "year payroll",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "$700 a week is how much a year",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "do teachers get paid biweekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "how much does buckle pay an hour",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "save a lot pay weekly or biweekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "does wingstop pay weekly or bi-weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "pay weeks in a year",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "do emts get paid weekly or biweekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "is pfl paid weekly or biweekly california",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "weekly paid",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "does buckle pay weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "places that pay weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "list of restaurants that pay weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "office payday",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "bi monthly pay schedule 2022",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "how many biweekly pay periods in 2020",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "bi weekly pay period calendar 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "2023 biweekly payroll calendar monday to sunday",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "biweekly pay schedule 2024",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "bir schedule 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "2023 pay periods biweekly",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "pay periods biweekly 2024",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "how many bi weekly pay periods in 2020",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "biweekly pay period 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "biweekly payroll schedule 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "biweekly pay periods left in 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "pay schedule",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "pay day payroll",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "payday payroll services",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "payday payroll service",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "payroll payday",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "my payday payroll",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "payday payroll",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "payday payroll app",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "payday employer solutions",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "pay year",
+    "parent": 1
+  },
+  {
+    "id": 103,
+    "name": "paid to date meaning",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "paytodate",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "pay date calculator",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "what is a year to date pay stub",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "paydate",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "pay per date",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "year to date pay stub calculator",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "pay date",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "cms pay dates",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "pay stub year to date",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "what is year to date pay stub",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "pay dates",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "paycheck math",
+    "parent": 1
+  },
+  {
+    "id": 116,
+    "name": "paid time off for part time employees",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "how to request unpaid time off",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "whats paid time off",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "earned time off vs paid time off",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "average paid time off in us",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "how to calculate accrued time off",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "does paid time off expire",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "oregon paid time off laws",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "how does accrued time off work",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "re-accrued",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "accrued bonus 25 month rule",
+    "parent": 115,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "state pay",
+    "parent": 1
+  },
+  {
+    "id": 128,
+    "name": "usps pay periods 2024",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "united states postal service pay periods",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "postal pay periods 2023",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "post office pay days",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "usps paydays 2023",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "post office pay schedule",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "usps pay periods 2024 pdf",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "ups paydays 2023",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "usps 2024 pay periods",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "usps pay period 2023",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "post office pay period",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "usps pay period",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "early pay",
+    "parent": 1
+  },
+  {
+    "id": 141,
+    "name": "deputy time and attendance",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "deputy schedule",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "deputy time",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "deputy scheduling",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "deputy employee",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "payroll calendar",
+    "parent": 1
+  },
+  {
+    "id": 147,
+    "name": "what months do we get paid 3 times",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "when is the next pay day",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "how many pay days left in 2023",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "when is pay day this month 2023",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "when is the next payday",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "when do we get paid 3 times in 2023",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "when is my next payday",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "how many pay days in 2023",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "usaa pay dayes 2023",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "next pay day",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "leap year payroll",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "year end payroll checklist",
+    "parent": 146,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "weekly payroll",
+    "parent": 1
+  },
+  {
+    "id": 160,
+    "name": "state of montana payroll calendar 2023",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "state pay calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "nm state employee calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "new york state payroll calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "state payroll calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "ri state employee calendar 2024",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "state of mn payroll calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "state of nj payroll calendar 2024",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "federal employee payroll calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "state of new jersey 2023 payroll calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "federal employee calendar",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "state employee calendar 2022",
+    "parent": 159,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "deputy time",
+    "parent": 1
+  },
+  {
+    "id": 173,
+    "name": "wait staff wages",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "do wait staff make minimum wage",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "wait staff minimum wage",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "wait staff wages by state",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "wait staff hourly wage",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 179,
+    "name": "6",
+    "parent": 178,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 181,
+    "name": "147",
+    "parent": 180,
+    "size": 1
+  }
+]
