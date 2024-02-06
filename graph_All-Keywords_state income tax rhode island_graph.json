@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "state income tax rhode island"
+  },
+  {
+    "id": 2,
+    "name": "capitol hill",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "alaska state jobs website",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "labor laws alaska",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "alaska state taxes rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "filing for unemployment alaska",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "per diem rates alaska",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "file for alaska unemployment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "alaska overtime laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "alaska resident benefits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "alaska employee benefits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "state of alaska employee benefits",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "alaska ui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "does alaska have a state income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "ri state",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "ri state jobs salaries",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "ri state employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "state employee salaries ri",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "state salaries ri",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "ri state workers salaries",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "name": "0",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 24,
+    "name": "16",
+    "parent": 23,
+    "size": 1
+  }
+]
