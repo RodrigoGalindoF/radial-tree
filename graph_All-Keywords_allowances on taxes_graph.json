@@ -1,0 +1,655 @@
+[
+  {
+    "id": 1,
+    "name": "allowances on taxes"
+  },
+  {
+    "id": 2,
+    "name": "withholding new",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "number of allowances taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what are allowances for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what are irs allowances",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what are allowances in taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "whats a tax allowance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "allowance tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what do tax allowances mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what are allowances on taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "what does allowance mean in taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "allowances on taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "allowances tax meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "allowance meaning in tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "allowances claim",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how to fill out a w4 for dummies with dependents",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "do i count myself as a dependent on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "should both parents claim dependents on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "can i claim 1 dependent on my w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "dependents on w4 form",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "can both parents claim child on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "should i claim myself as a dependent on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how to claim dependents on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "can i claim my wife as a dependent on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how many dependents should i claim on my w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "should both parents claim dependents on w4 if filing jointly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "claiming 0 dependents on w4",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "withholding allowances",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "is sales returns and allowances a debit or credit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "sales returns and allowances credit or debit",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "sales less sales discounts less sales returns and allowances",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "return allowance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "sales return and allowance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "sales returns and allowances account",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "accounting for sales returns and allowances",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "sales less sales returns and allowances and sales discounts",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "returns or allowances",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "return and allowances",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "sales returns and allowances accounting",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "sales return and allowances",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "allowances number",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "claim an allowance",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "can i claim myself as an allowance",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "what does claiming an allowance mean",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "claim allowances",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "claim allowance meaning",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "claiming allowances",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "claimed allowances",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "what does claiming allowances mean",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "claiming allowances meaning",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "what does it mean to claim allowances",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "should i claim an allowance for myself",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "should i claim allowances",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "allowances dependents",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "what is regular withholding allowance",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "allowances tax withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "what is a withholding allowance",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "what does number of regular withholding allowances mean",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "what are allowances on tax withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "tax withholding number of allowances",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "tax withholding allowances 0 or 1",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "what are allowances for tax withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "do more allowances mean more withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "what do i put for withholding allowances",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "number of allowances for regular withholding allowances",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "allowances for federal tax withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "claim dependents",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "total dependents amount",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "care for dependents",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "qualifying dependents amount",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "single with 1 dependent",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "claiming 0 dependents",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "do i count myself as a dependent",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "dependents and beneficiaries",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "how many dependents do you have",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "0 dependents",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "how much money do you get for a dependent",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "how many dependents do i have",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "what is the total number of dependents",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "allowances taxes",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "claim dependents",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "irs definition of a dependant",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "tax form dependents claimed",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "how does claiming dependents work",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "claim dependents 2022 w 4 form example filled out",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "someone can claim you as a dependent box",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "if you claim more dependents do you get more money",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "tax form to claim dependents",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "dependent on taxes means",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "irs definition dependent",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "what is claim dependents",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "what happens if you falsely claim a dependent",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "allowance meaning",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "new york nonresident withholding partnership",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "nyc withholding allowance",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "new york employee withholding form",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "new york withholding allowance",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "employer did not withhold nyc taxes",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "new york nonresident withholding",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "ny state tax withholding form",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "nys withholding allowance",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "family paid",
+    "parent": 1
+  },
+  {
+    "id": 103,
+    "name": "child support deduction",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "can child support take your whole check",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "income withholding order for child support",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "check child support balance nj",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "how much can child support take from paycheck",
+    "parent": 102,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 109,
+    "name": "0",
+    "parent": 108,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 111,
+    "name": "91",
+    "parent": 110,
+    "size": 1
+  }
+]
