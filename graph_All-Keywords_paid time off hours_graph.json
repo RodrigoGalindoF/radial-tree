@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "paid time off hours"
+  },
+  {
+    "id": 2,
+    "name": "change employer",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "hourly employees working off the clock",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how does time off work with salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how does salary work with time off",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "do hourly workers get paid time off",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "salary employees and time off",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how does paid time off work for hourly employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "paid time off policy for hourly employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "time off policy for hourly employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "salary and time off",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "hourly employee working off the clock",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "salary time off law",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "on-call policy for hourly employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "day request",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "can your job change your schedule without notice",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "can your boss change your schedule last minute",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "can employer change your work schedule without notice",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "can an employer change your schedule without notice",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "can my manager change my schedule",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "employer changing timesheet",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "can employers change your schedule",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "can an employer change your hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "changing employees working hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "can employer change hours without notice",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "employer changing working hours",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "can an employer change schedule without notice",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "4",
+    "parent": 30,
+    "size": 1
+  }
+]
