@@ -1,0 +1,400 @@
+[
+  {
+    "id": 1,
+    "name": "cost of employees"
+  },
+  {
+    "id": 2,
+    "name": "us workforce",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "blackstone employee count",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "top companies by employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "26000 for employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "plaid number of employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how many jobs are there",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "up to 26000 per employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "most employed",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "total number of jobs in us",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "most employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "number of businesses in united states",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how many businesses in the us",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what is the maximum number of employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "cost training",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "average cost of hiring an employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how much does it cost to hire an employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "job costing construction",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "cost to hire an employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "hire cost",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "cost to employ",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "average cost to hire an employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "average cost of hiring a new employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how much does it cost to hire staff",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "total employment cost",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "cost hire",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "cost of hiring an employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "employees number",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "size of us workforce",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how many people are in the us workforce",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "population of us workforce",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "us workforce size",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "total us workforce",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "us workforce population",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "size of the us workforce",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "employee fully",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "estimate employee cost",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how to calculate employee cost",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "calculate cost of employee",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how to calculate cost per employee",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "calculate the cost of an employee",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "employee hourly cost calculator",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how to calculate employee cost per hour",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "cost per employee formula",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "employee cost per hour calculator",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "labor cost estimator",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "cost benefits",
+    "parent": 1
+  },
+  {
+    "id": 48,
+    "name": "how much does my employer pay for my health insurance",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how much does health insurance cost a company per employee",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "cost of healthcare for employers",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how much does health insurance cost through employer",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "health insurance nj cost",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "health insurance cost per employee",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "how much is health insurance through employer",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "health insurance cost for employer",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "employer cost for health insurance",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how much does health insurance cost an employer",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "employee health insurance cost",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "expenses payroll",
+    "parent": 1
+  },
+  {
+    "id": 60,
+    "name": "cost to replace employee",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "average cost to replace an employee",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "cost to replace an employee",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "how much does it cost to replace an employee",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "cost of replacing an employee",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "0",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "12",
+    "parent": 67,
+    "size": 1
+  }
+]
