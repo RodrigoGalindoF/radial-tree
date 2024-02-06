@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "name": "stock equity"
+  },
+  {
+    "id": 2,
+    "name": "equity balance",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "owners equity examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "owners equity is best described as",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "equity vs ownership",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how to calculate average owners equity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "accounts that affect owners equity are",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "equity ownership meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "example of owners equity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what does owners equity mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "another term for owners equity is:",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "ownership equity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "statment of owners equity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "equity alliance",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "what is employee stock option",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "salary stock options",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "employee stock option plan example",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "employee stock option trust",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how do employee stock options work",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "stock options for employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how do stock options work for employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "employee stock options explained",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "what are stock options for employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "granting stock options to foreign employees",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "equity stock",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "what is an equity grant",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "building equity definition",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "what is an equity award",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "what is equity award",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "what are equity programs",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "equity awards",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what are equity grants",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how does an equity grant work",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "equity award services",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "build equity meaning",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "new hire equity grant",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "equity program",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "0",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "7",
+    "parent": 40,
+    "size": 1
+  }
+]
