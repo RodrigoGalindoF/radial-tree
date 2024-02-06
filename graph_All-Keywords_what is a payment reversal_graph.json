@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "name": "what is a payment reversal"
+  },
+  {
+    "id": 2,
+    "name": "retro meaning",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "retro actively",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "retrospectively meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "retrospective def",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "example of retroactive",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "what do retro mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "retroactivley",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "whats retro mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is the meaning of retro",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "transaction reversal",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "credit returned item reversal meaning",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "credit return item reversal",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "credit returned item reversal",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "credit reversal",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "reversal credit",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "reversal credit meaning",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "what is a credit reversal",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "reversal of credit",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "credit reversal meaning",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what is credit reversal",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "ach reversed",
+    "parent": 1
+  },
+  {
+    "id": 23,
+    "name": "difference between ach debit and ach credit",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "benefits of ach payments",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "free ach payment processing for small business",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "ach credit az dept of revenue",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "ach was meaning",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "ach service providers",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "ach pull vs push",
+    "parent": 22,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "check reversal",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "what does check reversal mean",
+    "parent": 30,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "can a cleared check be reversed",
+    "parent": 30,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "check reversal",
+    "parent": 30,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "check reversal meaning",
+    "parent": 30,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "check reversed",
+    "parent": 30,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "what is a check reversal",
+    "parent": 30,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 38,
+    "name": "0",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
