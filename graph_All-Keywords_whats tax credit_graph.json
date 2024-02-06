@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "whats tax credit"
+  },
+  {
+    "id": 2,
+    "name": "retention keep",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "the tax cut and jobs act",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "tax and jobs act 2017",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "tax cuts and jobs act of 2017 impact",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "tax cuts and jobs act of 2017",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "tax cuts jobs act 2017",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "jobs act of 2017",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "the tax cuts and jobs act of 2017",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "tax cut and jobs act 2017",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "2017 tax cuts and jobs act",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "the tax cuts act",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "tax cuts 2018",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "tax cuts and jobs act 2018",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "credit research",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "erc credit for 2020",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "claim erc credit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "erc credit qualifications",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "erc credit 2020",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "erc credit 2021",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "erc credit eligibility",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "2020 erc credit",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "erc credit requirements",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "contribution contributions",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "matching contribution meaning",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "simple contribution rules",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "define contributions",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "what are contributions",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "simple plan employer contribution rules",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "matching contributions",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "refundable tax",
+    "parent": 1
+  },
+  {
+    "id": 32,
+    "name": "r&d tax credit code section",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "r & d tax credit 2023",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "r&d credits 2023",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "r&d credit irs",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "r and d credit irs",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "r&d tax credit services",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "r&d tax credit changes 2023",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "irs r&d credit",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "r&d tax credit irs",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "accounting for r&d tax credit",
+    "parent": 31,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "marketplace tax",
+    "parent": 1
+  },
+  {
+    "id": 43,
+    "name": "marketplace insurance tax credit",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how does marketplace tax credit work",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "marketplace premium tax credit",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "what is tax credit for marketplace",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how does the marketplace tax credit work",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "tax credit for health insurance marketplace",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "insurance marketplace tax credits",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "tax credit health insurance marketplace",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "health insurance marketplace tax credit",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "0",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
