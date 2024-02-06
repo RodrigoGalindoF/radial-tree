@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "name": "hours of work a week"
+  },
+  {
+    "id": 2,
+    "name": "week hrs",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "effects of working 50 hours a week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "50 hours a week salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "is working 50 hours a week a lot",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "50 hours a week is how many hours a day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "is 60 hours a week too much",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "60 hours a week is how many hours a day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "80 hours a week is how many hours a day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "can you work 60 hours a week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "60 hour working week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "50 hour work week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "working 55 hours a week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "48 hours a week is how many hours a day",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "hour whats",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how many hours a week can you legally work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how many hours can you legally work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how many hours straight can you legally work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how many hours can you work in a day legally",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how many hours can you work legally in a day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how many hours legally can you work in a day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how many hours can you legally work in a week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how many hours a day can you work by law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how many hours in a day can you legally work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "legal amount of work hours a day",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how many hours can you work a day by law",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "how many hours a day can you work legally",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "hours legal",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "working hours legal",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "employment working hours law",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "is it legal to work more than 40 hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "legal working times",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "is it legal to work 20 hours a day",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "legal working hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "is it legal to work 12 hours a day",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "can you work 24 hours straight",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "is it against the law to work 24 hours straight",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "legal work hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "can you work more than 12 hours a day",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "legal hours for full time",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "week average",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "how long does adaptation usually take",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how long does it take hr to prepare an offer",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how many job interviews is normal",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how long is the process",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how many interviews does it take to get a job",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how long does offer letter take",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "0",
+    "parent": 48,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 51,
+    "name": "32",
+    "parent": 50,
+    "size": 1
+  }
+]
