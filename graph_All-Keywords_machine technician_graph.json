@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "machine technician"
+  },
+  {
+    "id": 2,
+    "name": "technician job",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "non destructive testing jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "duct cleaning technician",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "plant health care technician",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calibration technician job description",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "soldering technician",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "video technician",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "tech home office",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "the typical working environment for an instrument technician",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "tech employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "copier repair technician",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "digital diagnostics careers",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "engineering technician job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "55",
+    "parent": 17,
+    "size": 1
+  }
+]
