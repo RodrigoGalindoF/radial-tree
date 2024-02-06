@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "covid sick pay california 2023"
+  },
+  {
+    "id": 2,
+    "name": "assistance educational",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "covid 19 relief business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "covid tax credit 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "covid relief tax credit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "erc money from the irs covid relief program",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "covid tax relieforg",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "covid tax relief 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "covid money for businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "refund for keeping employees during covid",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "self employed covid relief",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "covid tax relief for businesses",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "covid refunds for business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "self-employed covid relief 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "covid positive",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "business relief program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "business relief funds",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "small business relief fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "congress debt relief programs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "american finance relief",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "united states unemployment relief program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "economic relief loans",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 24,
+    "name": "0",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "7",
+    "parent": 25,
+    "size": 1
+  }
+]
