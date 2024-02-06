@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "mission statement and vision"
+  },
+  {
+    "id": 2,
+    "name": "mission company",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "mission-driven",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "mission driven brands",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "mission driven",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "brand purpose vs mission",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "mission driven leadership",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "mission driven companies",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "mission based companies",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "mission driven startups",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "mission driven synonym",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "mission-driven examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "mission driven meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "mission driven company",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "5",
+    "parent": 17,
+    "size": 1
+  }
+]
