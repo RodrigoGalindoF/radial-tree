@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "minimum wage in australia"
+  },
+  {
+    "id": 2,
+    "name": "australia minimum",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "minimum wage australia 2023 per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "australia minimum wage 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "minimum wages in australia 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "minimum pay rate australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "minimum salary australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "minimum wage australia 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what is minimum wage in australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is the minimum wage for australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "minimum wage in australia 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "australia salary minimum",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "minimum wage in melbourne australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "lowest salary in australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "25",
+    "parent": 17,
+    "size": 1
+  }
+]
