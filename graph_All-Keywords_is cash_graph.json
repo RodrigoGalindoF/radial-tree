@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "name": "is cash"
+  },
+  {
+    "id": 2,
+    "name": "cash legit",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "im cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "i really like to use cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "cash tills",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "look at all that cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "cash way",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "balancing a cash till",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "petti cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "must cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "simple cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "we need cash",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "cash at the door",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "small cash tills",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "cash proof",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "cashier customer service",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how to operate cashier machine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "cashier till training",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "cashier jobs las vegas",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "job description for a cashier",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "cash tips",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "counter cashier machine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "cashier tips",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "cashier machine for sale",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "cashier job discription",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "cash handling tips for cashiers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "cash drew",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "money bank",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "subway com check balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how to draw a balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "the beginning balance on the monthly bank statement",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "payflex check balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how to calculate adjusted cash balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "adjusted bank balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "cash balance at the beginning of the period",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "myflexonline balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "what is the current years cash balance",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "base year",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "define base year",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "definition of base year",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "total base meaning",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 43,
+    "name": "0",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 45,
+    "name": "15",
+    "parent": 44,
+    "size": 1
+  }
+]
