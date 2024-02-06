@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "working with diversity"
+  },
+  {
+    "id": 2,
+    "name": "diversity value",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "why is diversity equity and inclusion important",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "belonging diversity and inclusion",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "inclusion equity and diversity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "diversity inclusion and equity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "diversity inclusion and belonging",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "diversity equity inclusion belonging",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "why diversity equity and inclusion is important",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "power in the context of diversity equity and inclusion",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "diversity inclusion belonging",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "diversity inclusion and belonging for students",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "diversity inclusion equity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "importance of diversity equity and inclusion",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "diversity business",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "valuing diversity is about inclusion",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "diversity is valued",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "value diversity",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "define valuing diversity",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "valuing diversity meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "value of diversity",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what is the value of diversity in an organization",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "valuing diversity creates",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "valuing diversity is about inclusion true or false",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "0",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "18",
+    "parent": 27,
+    "size": 1
+  }
+]
