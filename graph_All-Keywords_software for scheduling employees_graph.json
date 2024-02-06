@@ -1,0 +1,413 @@
+[
+  {
+    "id": 1,
+    "name": "software for scheduling employees"
+  },
+  {
+    "id": 2,
+    "name": "scheduling fair",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "schedulers definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "flexible schedule policy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "hcmc scheduling",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "schedules k-1",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "belk employee schedule",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "access your schedule giant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "sb airbus schedule",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "employe schedule maker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "mykp schedule",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "schedulesourcenet",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "my work schedule",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "schedules plus",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "work schedule",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "employee weekly work schedule",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "work weekly schedule template",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "employee weekly schedule",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "weekly staff schedule",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "employee weekly schedule template",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "monthly work schedule maker",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "7 day weekly work schedule template",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "template for work schedule weekly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "one week work schedule template",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "weekly work schedule template",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "weekly work schedule templates",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "work schedule template weekly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "scheduling free",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "best business scheduling app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "best employee scheduling software for small business",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "small business employee scheduling app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "best scheduling app for business",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "business schedule app",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "small business employee scheduling software",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "scheduling apps for businesses",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "small business staff scheduling software",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "employee scheduling software for small business",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "scheduling app for business",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "small business employee scheduling",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "employee scheduling app for small business",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "software scheduling",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "free staffing schedule",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "free staff schedule maker",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "free staff scheduling",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "scheduling staff app",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "staff scheduling online",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "staff scheduling app",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "staff schedule app",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "free online staff scheduling software",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "free staff scheduling app",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "best staff scheduling app",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "online staff scheduling",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "online staff scheduling software",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "labor scheduling",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "employee schedule free",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "free online employee schedule maker",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "employee scheduling free",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "free employee schedule form",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "free employee schedule maker",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "free employee schedule",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "create employee schedule free",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "free employee scheduler",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "employee schedule maker free",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "free employee scheduling",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "free schedule maker for employees",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "employee scheduler free",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "0",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 70,
+    "name": "50",
+    "parent": 69,
+    "size": 1
+  }
+]
