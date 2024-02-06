@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "whats an accrual in accounting"
+  },
+  {
+    "id": 2,
+    "name": "accrual method",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "accrual basis accounting example",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "accrual basis definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "if a company is using accrual basis accounting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is accrual basis accounting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "what does accrual basis mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "accrual-basis accounting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "which of the following statements about accrual-basis accounting is true",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "under accrual basis accounting when are transactions recorded",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "accrual basis accounting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "accrual basis accounting:",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is the accrual basis of accounting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what is the purpose of the accrual basis of accounting",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "20",
+    "parent": 17,
+    "size": 1
+  }
+]
