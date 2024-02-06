@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "massachusetts minimum wage"
+  },
+  {
+    "id": 2,
+    "name": "income boston",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "massachusetts raise minimum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is minimum wage in massachusetts 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "current minimum wage massachusetts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how much is massachusetts minimum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "massachusetts minimum wage 2020",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what is the minimum wage in massachusetts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "minimum salary in massachusetts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "minimum wage 2024 massachusetts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "massachusetts minimum wage 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "massachusetts minumum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "wait staff minimum wage massachusetts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "minimum wage increase in massachusetts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "massachusetts pay",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "median salary massachusetts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "average wage in massachusetts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "massachusetts median salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "massachusetts average salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "average massachusetts salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "massachusetts salaries",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "median income ma",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "median salary in massachusetts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "median income for massachusetts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "average massachusetts income",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "average income in massachusetts 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "average salary in massachusetts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "35",
+    "parent": 30,
+    "size": 1
+  }
+]
