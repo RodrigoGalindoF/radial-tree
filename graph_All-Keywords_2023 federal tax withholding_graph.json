@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "2023 federal tax withholding"
+  },
+  {
+    "id": 2,
+    "name": "calculator withholding",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "mn social security tax 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "2024 max social security tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "social security tax cap 2024",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "federal tax on social security 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "social security wage base for 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "maximum ss tax 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "2024 social security max contribution",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "social security wage base 2024 increase",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "max social security wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "social security withholding 2024",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "max ss tax 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "social security employer tax rate 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "limits tax",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "federal income tax rate for payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "payroll federal income tax rates",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "federal income tax rate payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what rate is federal income tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 21,
+    "name": "0",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 23,
+    "name": "5",
+    "parent": 22,
+    "size": 1
+  }
+]
