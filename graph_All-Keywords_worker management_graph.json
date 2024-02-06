@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "name": "worker management"
+  },
+  {
+    "id": 2,
+    "name": "multiple worksheet",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "tenure at a company",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is tenure",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "employment tenure definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "define: tenure",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "employee track",
+    "parent": 1
+  },
+  {
+    "id": 8,
+    "name": "frontline worker",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "frontline workers",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is a frontline",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "indeed flagged",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "multiple jobs worksheet calculator",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "multiple jobs worksheet",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "multiple job worksheet",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "w-4 multiple jobs worksheet",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "w 4 multiple jobs worksheet",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "w4 multiple jobs worksheet",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "multiple jobs worksheet w4",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "jobvite inc",
+    "parent": 1
+  },
+  {
+    "id": 20,
+    "name": "form labs jobs",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "drawdown labs",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "form labs",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "realwork labs reviews",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "job fair",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "w4 multiple jobs",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "what does multiple jobs mean on w4",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "w4 with two jobs",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "w4 two jobs",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "w4 multiple jobs calculator",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "two jobs w4",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "do you have to claim multiple jobs on w4",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "multiple jobs on w4",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "w 4 for 2 jobs",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "2 jobs w4",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "w 4 multiple jobs",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "multiple jobs w4",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "job attracts",
+    "parent": 1
+  },
+  {
+    "id": 38,
+    "name": "jobs i can do on my own time",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "what is considered freelance work",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "freelance gig",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "jobs i can do from home on my own time",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "work on your own time",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "\u0645\u0648\u0642\u0639 creative jobs",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "creative hands on jobs",
+    "parent": 37,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "integrity staffing",
+    "parent": 1
+  },
+  {
+    "id": 46,
+    "name": "deal desk job description",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "deal desk best practices",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "deal desk function",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "what does deal desk do",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "deal desk process",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "deal desk analyst job",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "what is deal desk",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "employees point",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "temp vs contractor",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "temp employee vs contractor",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "hr temp staffing",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "temporary worker vs independent contractor",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "temp work from home",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "temp worker meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "temp remote work",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 62,
+    "name": "0",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "1",
+    "parent": 63,
+    "size": 1
+  }
+]
