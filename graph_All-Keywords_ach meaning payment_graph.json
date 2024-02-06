@@ -1,0 +1,501 @@
+[
+  {
+    "id": 1,
+    "name": "ach meaning payment"
+  },
+  {
+    "id": 2,
+    "name": "ach federal",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "ach payment process",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "payment through ach",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "automatic ach payments",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "online ach payment processing",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "ach payments for business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ach automatic payment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ach reimbursement",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "payment via ach",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ach payments",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "receive ach payments",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "making an ach payment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "ach payment option",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "ach check",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "ach payment method",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "payment type ach",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "whats an ach payment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what does ach payments mean",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "what is the meaning of ach payment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "define ach payment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what is a ach payment method",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "payment via ach meaning",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "what does an ach payment mean",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "what is an ach payment method",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "whats ach payment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "ach transfer",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "how do i do an ach transfer",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "define ach transfer",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ach wire transfer meaning",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "information needed for ach transfer",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is an ach wire transfer",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how does ach transfer work",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "transfer ach",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "info needed for ach transfer",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how does an ach transfer work",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "what is an ach transfer",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "what is ach transfer mean",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "ach transfer definition",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "ach account",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "direct debit ach",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "what does ach debit mean",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "what is ach debit transaction",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "electronicach debit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "what is a ach debit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "what is an ach debit payment",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "what does ach debit stand for",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "ach debit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "ach debit meaning",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "ach debits",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "ach debit transaction",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "ach vs direct debit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "ach whats",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "what is an ach account number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "ach number meaning",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "is ach the same as account number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "what is the ach number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "what is ach account number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "what is a bank ach number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "what is ach number in banking",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "whats an ach number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "what is ach number",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "ach processing",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "how long does a ach payment take",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "how long does it take for ach payments to process",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how long does it take an ach payment to clear",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "how long does an ach payment take",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "ach payment time",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "when do ach payments post",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "how long do ach payments take",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "when do ach payments process",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "how long do ach payments take to process",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "ach payment processing time",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "ach payments processing time",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "what time do ach payments post",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "ach post",
+    "parent": 1
+  },
+  {
+    "id": 77,
+    "name": "same day ach windows",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "same day ach fee",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "same day ach processing windows",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "same day ach fees",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "ach same day meaning",
+    "parent": 76,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 83,
+    "name": "0",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 85,
+    "name": "176",
+    "parent": 84,
+    "size": 1
+  }
+]
