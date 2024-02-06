@@ -1,0 +1,721 @@
+[
+  {
+    "id": 1,
+    "name": "social security tax"
+  },
+  {
+    "id": 2,
+    "name": "medicare social",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "irs social security and medicare withholding rates 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "social security withholding rates 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ssa withholding 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "social security withholding 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "social security withholding rate 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "2023 social security withholding rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "social security withholding 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "2023 social security and medicare withholding rates",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "social security withholding limit 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "social security tax withholding form 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "social security tax withholding 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "federal social security",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "withholding social",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "employee social security withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "social security income withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "limit on social security withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "maximum ss tax withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "social security withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "social security benefits withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "ss withholding",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "withholding from social security payments",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "max withholding for social security",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "withholding for social security",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "voluntary withholding for social security",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "withholding social security",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "tax ssa",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "social security tax percentage",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "percent social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "what is the percentage of social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "percent for social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "social security tax percent",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "what percentage is social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "percentage social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "social security income tax percentage",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "what percentage is the social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "percentage of social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "what percent is social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "what percent is the social security tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "taxable social",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "ss tax percent",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "ss rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "what is the ss tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "ss tax percentage",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "ss tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "what percentage is ss tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "ss rate 2023",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "ssi tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "ss tax rates",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "what is ss tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "ssa tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "what percent is ss tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "withheld social",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "how do i change my tax withholding on social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how do i change my social security tax withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how do i change withholding on my social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "how to change withholdings on social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how to change social security withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "how do i change withholding on social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "change withholding on social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "social security change withholding",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "change tax withholding on social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "how do i have federal withheld from social security",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "can i change my tax withholding for social security online",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "can i change social security withholding online",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "income social",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "what is the social security cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "social security cap on earnings",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "social security wage cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "why is there a cap on social security taxes",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "social security employee tax cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "does social security tax have a cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "ssi tax cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "payroll social security cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "social security payroll cap",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "earnings cap on social security",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "income cap on social security taxes",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "payroll tax cap social security",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "federal social",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "how much social security tax is withheld",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "social security tax withholding rate",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "how much tax to withhold from social security",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "how much social security tax should be withheld",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "social security tax withheld rate",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "what percentage of tax should i withhold from social security",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "how much tax to withhold on social security",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "how much is withheld for social security",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "how much tax should be withheld from social security",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "social security withholding percentage",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "how much should i withhold from social security",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "social security tax withheld percentage",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "much social",
+    "parent": 1
+  },
+  {
+    "id": 94,
+    "name": "when does social security tax stop coming out of paycheck",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "when do i stop paying social security",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "when do you stop paying social security tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "how to stop paying social security",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "when is my social security check coming",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "when does social security stop coming out of your check",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "at what age do you stop paying social security tax",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "when do you stop paying social security taxes",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "when do you stop paying medicare and social security taxes",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "when do social security taxes stop",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "is social security shutting down",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "when does social security stop being withheld",
+    "parent": 93,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "medicare much",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "how much tax for social security and medicare",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "how much is social security and medicare tax",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "how much does social security deduct for medicare",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "how much is ss and medicare tax",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "how much is medicare and social security tax",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "medicare tax deduction",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "how much is medicare and ss tax",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "how much is medicare deduction from social security",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "how much is taken out of social security for medicare",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "medicare social security deduction",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "how much is social security tax and medicare",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "deductions from social security for medicare",
+    "parent": 106,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 120,
+    "name": "0",
+    "parent": 119,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 122,
+    "name": "100",
+    "parent": 121,
+    "size": 1
+  }
+]
