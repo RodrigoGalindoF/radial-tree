@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "gartner 2023 magic quadrant"
+  },
+  {
+    "id": 2,
+    "name": "quadrant inc",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "quadrant resource llc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "first quadrant company",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "quadrant private equity australia",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "quadrant inc jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "north quadrant marketplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "quadrant inc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 10,
+    "name": "0",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
