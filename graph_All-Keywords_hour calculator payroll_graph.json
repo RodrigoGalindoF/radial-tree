@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "name": "hour calculator payroll"
+  },
+  {
+    "id": 2,
+    "name": "calculator payroll",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "hourly caculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "pay calculator per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "per hour calculator salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "calculator hourly rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "hourlypaycheck calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculator for hourly pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "pay hourly calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "pay calculator hourly rate",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "pay per hour calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "net pay calculator hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "hourly pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "hourly money calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "minutes payroll",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "calculate payroll check after taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how to figure payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "calculating payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "calculate payroll check",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "calculate payroll for employee",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to calculate a payroll check",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how do you calculate payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "calculate payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "payroll how to calculate",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "payroll calculations",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how to count payroll",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "payroll calculation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "payroll calculator",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "hourly to salary paycheck calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "hourly paycheck calculator california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "federal hourly paycheck calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "hourly paycheck calculator for california",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "salary to hourly - paycheck calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "hourly paycheck calculator pa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "paycheck tax calculator hourly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "annual to hourly paycheck calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "hour calculator paycheck",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "hourly paycheck calc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "calculator for paycheck hourly",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "paycheck hourly calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "payroll calculate",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "how to count payroll hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "calculate time for payroll",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "figuring time for payroll",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "payroll hour conversion",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how do you calculate payroll hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how do i calculate minutes in payroll",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "payroll hours conversion",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how to calculate hours and minutes for payroll",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how to calculate time for payroll",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "calculate payroll time",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how to calculate payroll hours and minutes manually",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "payroll hours",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "payroll conversion",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "on time payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "timekeeping and payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "time and payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "payroll tracking software",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "payroll and time tracking",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "workforce timeclock",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "time tracking and payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "time 4 payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "time tracking payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "on-time payroll",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "payroll tracking",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "workforce time keeping",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "calculator hourly",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "payroll hours calculator free",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "online hour calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "hours calculator free",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "hourly payroll calculator free",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "free hour calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "free hourly paycheck calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "free hourly calculator",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "free paycheck calculator hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "free payroll calculator hourly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "payroll time",
+    "parent": 1
+  },
+  {
+    "id": 78,
+    "name": "how to calculate hourly paycheck",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "calculate my hourly paycheck",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "paycheck hours",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "hourly to paycheck",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "calculate hours for paycheck",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "hourly paycheck",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "paycheck hour counter",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "calculate paycheck hourly",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "how to calculate paycheck hourly",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "how do you calculate your hours for paycheck",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "paycheck hourly",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "how to calculate paycheck hours",
+    "parent": 77,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "payroll hours",
+    "parent": 1
+  },
+  {
+    "id": 91,
+    "name": "what is 45 minutes in payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "how much do i get paid for 45 minutes",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "what is 15 minutes in payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "15 minutes payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "what is 20 minutes in payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "what is 40 minutes in payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "1 hour 45 minutes in minutes",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "15 minutes in payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "how to calculate 15 minutes for payroll",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "how to calculate 45 minutes for payroll",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "7 minute rule for payroll",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "45 minutes in payroll time",
+    "parent": 90,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 104,
+    "name": "0",
+    "parent": 103,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 106,
+    "name": "60",
+    "parent": 105,
+    "size": 1
+  }
+]
