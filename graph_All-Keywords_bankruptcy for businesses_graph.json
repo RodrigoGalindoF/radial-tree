@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "bankruptcy for businesses"
+  },
+  {
+    "id": 2,
+    "name": "liquidation company",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "consolidation business definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "business consolidation loans",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "consolidation in business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "business debt consolidation loan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "debt consolidation business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "synonyms consolidation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 10,
+    "name": "0",
+    "parent": 9,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
