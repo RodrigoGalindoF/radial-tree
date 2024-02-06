@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "name": "laws for salaried employees"
+  },
+  {
+    "id": 2,
+    "name": "salaried mean",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "state sick leave",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "sick time accrual",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "legal sick days",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "24 hour sick",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "pay for sick days",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "sicks hours",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "using sick time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "sick leave days",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "is sick time paid",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "paid sick leave laws",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "accrued sick time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "do part time workers get sick leave",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "overtime holiday",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "can you get holiday pay and overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "vacation pay and overtime in same week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "does holiday pay and overtime stack",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "paying holiday pay on overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how to calculate overtime with holiday pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "overtime in a holiday week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "overtime and holiday pay in same week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "overtime payments in holiday pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how does holiday pay work with overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "christmas closed",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "are insurance companies open on columbus day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "are insurance companies open on columbus day 2023",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "is chase open on labor day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "are insurance companies closed today",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "businesses open on labor day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "are insurance companies open on presidents day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "are insurance companies open on memorial day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "are insurance companies closed on presidents day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "are insurance companies open on labor day",
+    "parent": 25,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "0",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 38,
+    "name": "5",
+    "parent": 37,
+    "size": 1
+  }
+]
