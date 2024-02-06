@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "amazon pay period"
+  },
+  {
+    "id": 2,
+    "name": "amazon sick",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "amazon flex app update",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "amazon flex app for android",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how to update amazon flex app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "amazon flex app android",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "applebees payroll",
+    "parent": 1
+  },
+  {
+    "id": 8,
+    "name": "does amazon pay overtime after 40 hours",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "holiday overtime pay amazon",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how much is overtime pay at amazon",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "does amazon pay time and a half for overtime",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how does amazon overtime work",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how much do amazon pay for overtime",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "amazon holiday overtime pay",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "amazon mandatory overtime",
+    "parent": 7,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 17,
+    "name": "0",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
