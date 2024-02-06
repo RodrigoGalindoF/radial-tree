@@ -1,0 +1,1105 @@
+[
+  {
+    "id": 1,
+    "name": "form 940 irs"
+  },
+  {
+    "id": 2,
+    "name": "tax fill",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "irs i-9 form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "i9 tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "irs i 9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "irs form i-9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "irs 9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "form i9 irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "i 9 tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "irs i-9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "irs 1-9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "i-9 irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "irs i 9 form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "irs form 1-9",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "irs mail",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "state tax codes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how many tax codes are there",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "what is my business code for taxes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what is the irs code",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "tax codes for business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "irs business code number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what is a tax code",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "tax type code",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "what is tax code",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "what tax code",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "tax withholding codes",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "tax codes for businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "losses tax",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "what is a tax status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "filing statuses for taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "different tax filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how do i check my tax filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "federal tax filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how to check your tax filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "irs filing statuses",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "define tax status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "fed filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "tax filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "check my federal tax filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "tax return filing status",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "irsgov forms",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "irs address for form 940",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "irs address for 941",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "941 irs mailing address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "irs form 941 mailing address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "irs form 940 mailing address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "irs where to send 941",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "irs form 941 address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "irs 941 address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "where to mail form 941 irs",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "irs form 940 address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "irs where to mail 940",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "irs address for 940",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "irs tcc",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "tax filer definition",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "filing corporate taxes online",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "tax filing process",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "tax return process",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "already filed taxes but forgot something",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "can you change your tax filing status at any time",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "irs issues warning to think twice",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "online taxes for free: simplifying your tax filing process",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "filing taxes is something that has to do",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "mistake on taxes already filed",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "filing taxes meaning",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "what does filing for taxes mean",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "irs est",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "irs business structures",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "irs business sepxense categories",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "irs for business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "irs hobby vs business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "irs a private company",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "hobby or business irs",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "irs forms for business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "irs hobby versus business",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "irs business categories list",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "corporate tax rate irs",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "irs business vs hobby",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "business vs hobby irs",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "irs employer",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "does clover report cash sales to irs",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "do banks report cashiers checks to irs",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "irs tracking cash deposits",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "irs tracking",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "irs cash app reporting",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "does square report cash to irs",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "square reporting to irs",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "transcript tax",
+    "parent": 1
+  },
+  {
+    "id": 89,
+    "name": "free tax software irs",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "self employed tax software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "tax software download free",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "1120 tax software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "tax and accounting software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "nerdwallet best tax software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "free 1120 tax return software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "best tax software for s corp",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "accounting tax software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "tax filing software for small business",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "best tax software for accountants",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "wolters kluwer tax software",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "irs hurricane",
+    "parent": 1
+  },
+  {
+    "id": 102,
+    "name": "tax portal login",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "irs air system",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "irs 8027",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "irs form 8027 instructions",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "irs to go app",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "irs third party authorization form",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "turbo tax account login",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "irs form 8027",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "irs air",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "irs air login",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "taxbandits erc login",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "www irs w4app",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "irs health",
+    "parent": 1
+  },
+  {
+    "id": 115,
+    "name": "irs notice 2021-49",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "irs notice 2021 49",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "fidelity tax notice",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "irs sends special notice to taxpayers in eight states",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "b notices irs",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "irs form b notice",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "irs issues june notice for millions of americans",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "accelerate tax notice",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "c notice irs",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "irs tax notice",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "irs notice 2022-41",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "irs audit notice",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "irs retention",
+    "parent": 1
+  },
+  {
+    "id": 128,
+    "name": "speak to a live irs agent",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "how to speak to a human at the irs",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "is there a 24 hour irs customer service number",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "speak to a live person at irs",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "irs customer service online chat",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "irs telefono",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "how to speak to a live person at irs",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "irs take action message",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 136,
+    "name": "irs number to speak to a live person",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "irs 24 7 customer service",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "irs message",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "message irs",
+    "parent": 127,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "pin irs",
+    "parent": 1
+  },
+  {
+    "id": 141,
+    "name": "irs employee verification",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "irs phone number for payroll taxes",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "payroll tax account number",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "irs verify social security numbers",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "irs employment verification",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "6 digit caller id number irs",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "irs verification number",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "irs employment verification phone number",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 149,
+    "name": "tax payer identification form",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "discover irs verification",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "irs employer identification number verification",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "bank of america federal tax identification number",
+    "parent": 140,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "tax employment",
+    "parent": 1
+  },
+  {
+    "id": 154,
+    "name": "state tax forms w4",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "w-4 for state taxes",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "irs w4 forms",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "wt 4 tax form",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "state tax form w4",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "w4 for state taxes",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "irs w4t form",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "w 4 state tax form",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 162,
+    "name": "turbo tax w4",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "what is a w4 tax form for",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "w4 tax form help",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "w4 state tax form",
+    "parent": 153,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "irs reimbursement",
+    "parent": 1
+  },
+  {
+    "id": 167,
+    "name": "whats an entity",
+    "parent": 166,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "irs llc disregarded entity",
+    "parent": 166,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "texas franchise tax entity search",
+    "parent": 166,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "irs disregarded entity",
+    "parent": 166,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "disregarded entity irs",
+    "parent": 166,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "https wwwirsgovfire",
+    "parent": 1
+  },
+  {
+    "id": 173,
+    "name": "irs 2022 w9",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "2023 irs w9",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 175,
+    "name": "w-9 irs 2022",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "irs 2023 w9",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "2023 w9 irs",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "irs w 9 for 2023",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "irs w9 2022",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "irs w-9 2022",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "2023 w4 irs",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "w9 irs 2022",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 183,
+    "name": "irs w-9 2023",
+    "parent": 172,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 185,
+    "name": "3",
+    "parent": 184,
+    "size": 1
+  },
+  {
+    "id": 186,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 187,
+    "name": "97",
+    "parent": 186,
+    "size": 1
+  }
+]
