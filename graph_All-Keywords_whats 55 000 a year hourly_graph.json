@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "name": "whats 55 000 a year hourly"
+  },
+  {
+    "id": 2,
+    "name": "month much",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "85000 a year is how much an hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "80000 per year is how much per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how much is 4500 per hour annually",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "80000 a year hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "80000 a year is how much an hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how much per hour is 90000 a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how much an hour is 80000 a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "500 a week is how much an hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "90000 is how much an hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "85000 per year is how much per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is 80000 a year hourly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "75000 per year is how much per hour",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "hourly annual",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "whats the hourly rate for 60000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what is 60000 a year hourly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "hourly pay for 60000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how much hourly is 60000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "6000 a year is how much an hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what does 60000 a year hourly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "hourly rate for 60000",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "how much is 60000 a year per hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "whats 60000 a year hourly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "what is the hourly rate for 60000",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "6000 monthly salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "hour good",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "what is 55 an hour annually",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "what is 55 an hour salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "55hr to salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much is 55 an hour annually",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "55 per hour annual salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "55 an hour annual salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "$55 per hour annual salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "55 dollars an hour yearly salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "55 an hour to salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how much is 55 an hour",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "55 an hour is how much a year",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "55 hr to salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "hourly much",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "hr 185",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "a1 hr anywhere",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "185 hr",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "hr a1",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "60 dollars an hour is how much a year",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how much is 60 an hour annually",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how much is 60 per hour annually",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "60 hr is how much a year",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how much is 60 000 after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how much is 60 hours",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "tax on 60k salary",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "airport much",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "100 000 year is how much an hour",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "100 dollars an hour is how much a year",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "how much is 100 000 a year per hour",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "100 thousand a year is how much an hour",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "how much per hour is 100 000 a year",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "100 dollars a day is how much a year",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "100 000 annual to hourly",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "100hour yearly salary",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "100 000 yearly to hourly",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "how much an hour is 100 000 a year",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "hourly pay for 100k a year",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "100hour is how much a year",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "hr anywhere",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "5000 per hour annual salary",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "50000 a year hourly",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "5000 monthly salary to hourly",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "whats 50000 a year hourly",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "50000 per hour",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "50000 year hourly",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "hourly pay for 50000 a year",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "5000 a month salary",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "how much is 50000 salary per hour",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "what is 50000 a year hourly",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "hourly rate of 50000 salary",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "how much an hour is 50000",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "average year",
+    "parent": 1
+  },
+  {
+    "id": 79,
+    "name": "what is 100 000 salary per hour",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "100 000 salary per hour",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "how much is 100 000 an hour",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "100 per hour annual salary",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "how much is 100k salary per hour",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "100 000 salary hourly",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "hourly rate for 100 000 salary",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "100 hr salary",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "100k salary per hour",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "100 000 salary to hourly",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "100 dollars per hour yearly salary",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "100k salary to hourly",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "highest per",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "average per hour salary in us",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "average hourly salary",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "average hourly rate",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "average salary in us per hour",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "average hour salary in us",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "what is the average hourly wage",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "what is the average wage per hour",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "average hour salary us",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "whats the average hourly wage",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 102,
+    "name": "0",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 104,
+    "name": "131",
+    "parent": 103,
+    "size": 1
+  }
+]
