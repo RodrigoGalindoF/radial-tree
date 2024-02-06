@@ -1,0 +1,500 @@
+[
+  {
+    "id": 1,
+    "name": "financial welness"
+  },
+  {
+    "id": 2,
+    "name": "app cash",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "wells fargo social security direct deposit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "wells fargo lifemart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "wells fargo bank identification code for direct deposit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "wells fargo ashley furniture card",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "wells fargo direct deposit advance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "wells fargo direct deposit information",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "wells fargo client login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "wells fargo furniture payment",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "wells fargo ashley furniture credit card",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "wells fargo login client",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "wells fargo ashley furniture",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "wells fargo careers workday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "funding free",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "one north carolina fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "b side fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "fair share fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "mission asset fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "american payback fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "american funds advisor site",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "frontera fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "california rebuilding fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "asset fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "rise together fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "minnesota uc fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "emergecny fund",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "stake reserve",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "nerdwallet savings",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "nerdwallet compound interest",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "nerd wallet roth ira",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "401k calculator nerdwallet",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "nerdwallet 401k calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "nerdwallet roth ira calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "cost of living nerd wallet",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "nerd wallet compound interest calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "nerdwallet social security calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "compound interest calculator nerdwallet",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "roth ira nerdwallet",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "wealth kwb",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "what is trust economics",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "what is a trust in economics",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "trustonefinancial",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "is credit advantage legit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "is discount store savings legit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "is the dot compliance group legit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "is global trust management legit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "is apply and demand legit",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "what is the most trusted profession",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "fund american",
+    "parent": 1
+  },
+  {
+    "id": 51,
+    "name": "get funding for business",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "best business funding",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how to fund a business",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "funding to buy a business",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "best funding for small business",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "is the government funded",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "government money to start a business",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "funding to start a small business",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "valley business funding",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "starting a business funding",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "government business funding",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "how to fund",
+    "parent": 50,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "enterprise bank",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "what to do in a recession",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "survive recession",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "business recession",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "what to do during recession",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "how do you get out of recession",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "recession in business",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "payday payactiv",
+    "parent": 1
+  },
+  {
+    "id": 71,
+    "name": "property management companies careers",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "property management jobs phoenix az",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "property management jobs no experience",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "property management assistant job description",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "property management jobs indianapolis",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "property management jobs miami",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "property development jobs",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "treasury global",
+    "parent": 1
+  },
+  {
+    "id": 79,
+    "name": "unclaimed stocks",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "what is unclaimed money",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "what are unclaimed assets",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 83,
+    "name": "0",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 85,
+    "name": "18",
+    "parent": 84,
+    "size": 1
+  }
+]
