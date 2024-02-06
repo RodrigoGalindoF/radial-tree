@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "how can i find my 401k"
+  },
+  {
+    "id": 2,
+    "name": "find check",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how do i find out if i have 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how to find out if you have 401k money",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "how to check 401k balance from old job",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "how do i find if i have a 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how to check 401k balance online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how do i check the balance of my 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how to check if i have 401k money",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how to find out if you have retirement funds",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "how do you know if you have a 401k plan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "how to find out if you have a 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "how do i find out if i have a 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how can i check my 401k",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "find retirement",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how to find my retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how do i find my retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how can i find my retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "find old retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "how do i find old retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how to find an old retirement account",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "how do you find old retirement accounts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 24,
+    "name": "0",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "10",
+    "parent": 25,
+    "size": 1
+  }
+]
