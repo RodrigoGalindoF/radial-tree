@@ -1,0 +1,430 @@
+[
+  {
+    "id": 1,
+    "name": "department of the treasury internal revenue service austin tx 73301-0052"
+  },
+  {
+    "id": 2,
+    "name": "treasury kansas",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "department of the treasury address austin texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "department of treasury internal revenue service address austin tx",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "letter from dept of treasury irs austin tx",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "department of treasury address austin tx",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "department of the treasury internal revenue service austin texas",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "department of treasury austin tx letter",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "department of the treasury austin tx address",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "department of treasury internal revenue service austin",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "dept of treasury austin tx letter",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "dept of treasury austin tx address",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "department of treasury irs austin tx 73301 letter",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "austin department of treasury",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "austin ut",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "department of the treasury internal revenue service address ogden ut",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "department of treasury internal revenue service ogden ut 84201",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "department of the treasury internal revenue service ogden ut",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "utah state treasury",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "department of the treasury ogden utah address",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "department of treasury utah address",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "department of treasury internal revenue service center ogden ut 84201",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "irs letter from ogden utah 2022",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "dept of the treasury internal revenue service ogden ut",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "irs letter from ogden utah 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "irs customer service center ogden ut 84201",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "dept of treasury ogden utah address",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "philadelphia irs",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "colorado famli payroll tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "registration colorado",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "federal income tax colorado",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "state of colorado forms",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "denver revenue online",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "city of denver department of revenue",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "colorado department of revenue denver",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "colorado llc filing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "denver tax rate income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "address of colorado department of revenue",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "colorado federal income tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "colorado revenue service",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "colorado revenue",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "mass department of revenue mailing address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "mass dept of revenue mailing address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "massachusetts department of revenue address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "ma department of revenue phone number",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "mass dept of revenue address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "massachusetts department of revenue telephone number",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "massachusetts dept of revenue address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "state of massachusetts department of revenue",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "massachusetts department of revenue contact",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "massachusetts department of revenue mailing address",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "address for massachusetts department of revenue",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "massachusetts revenue department contact",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "austin treasury",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "internal revenue address austin texas",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "internal revenue service austin texas 73301 phone number",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "address for internal revenue service in austin texas",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "internal revenue service austin texas 73301",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "internal revenue austin texas address",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "internal revenue service austin tx 73301 0057",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "internal revenue services austin texas",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "internal revenue austin texas",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "internal revenue service austin tx 73301 phone number",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "internal revenue address in austin texas",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "internal revenue service austin tx 73301 0215 usa",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "internal revenue service austin tx 73301 address",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "revenue dept",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "internal revenue service po box 93100 louisville ky",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "internal revenue service po box 1214 charlotte nc 28201",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 71,
+    "name": "0",
+    "parent": 70,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 73,
+    "name": "51",
+    "parent": 72,
+    "size": 1
+  }
+]
