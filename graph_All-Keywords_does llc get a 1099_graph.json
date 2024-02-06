@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "does llc get a 1099"
+  },
+  {
+    "id": 2,
+    "name": "get corp",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "does llc c corp get 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "1099 for business owner",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "llc taxed as c corp 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "does a llc c corporation get a 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "1099 to c corp",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "does a business owner get a 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "do i need to 1099 a corporation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "1099 nec for corporations",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "do you 1099 c corp",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "do c corps issue 1099s",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "do s corp llc get a 1099",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "1099 companies",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "20",
+    "parent": 17,
+    "size": 1
+  }
+]
