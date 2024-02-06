@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "develop a plan"
+  },
+  {
+    "id": 2,
+    "name": "https benefits",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "planning operations",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is operational planning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "managers can use an operating plan to",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "operational plan examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "what is the operational planning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "operational planning and management",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "strategic operational planning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "strategic and operational planning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "operational plan definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "define operational planning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "operational plan format",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "strategic plan operational plan",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "plan summary",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "strategic workforce planning tools",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "corporate leadership development",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "recruiting plans and strategies",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "leadership rotation program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "corporate leadership development program",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "employee development strategic plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "strategic recruitment plan",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 24,
+    "name": "0",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "name": "23",
+    "parent": 25,
+    "size": 1
+  }
+]
