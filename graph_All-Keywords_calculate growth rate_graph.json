@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "calculate growth rate"
+  },
+  {
+    "id": 2,
+    "name": "year growth",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how to calculate sales growth year over year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "how to calculate annual increase",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "year over year increase",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "year on year growth formula",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how to calculate year over year growth percentage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "calculation for year over year growth",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how to calculate year on year growth",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "growth year over year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "excel year over year growth formula",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "year over year growth formula in excel",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "year over year growth formula",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "percentage increase year over year formula",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "29",
+    "parent": 17,
+    "size": 1
+  }
+]
