@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "name": "employer identification number"
+  },
+  {
+    "id": 2,
+    "name": "employer id",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "employment identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "employers identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what is employment identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "where is the employer identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "filers employer identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "employer identification code",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "where is employer identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "employer identification numbers",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "what is my employer identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "whats an employer identification number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "ein employer",
+    "parent": 1
+  },
+  {
+    "id": 14,
+    "name": "employer identification number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "employer state id lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "federal employer identification number lookup free",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "employer federal id number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "federal employee identification number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "state employer identification number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "federal employer id number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "ct employer identification number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "ca state employer id number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "employee id number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "employment identification number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "federal employee id number lookup",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "employee number",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "employer identification numbe",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "employer information",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "employer id form",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "federal employer identification numbe",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "2 forms of id for employment",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is employer id",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "forms of identification for employment",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "federal employer identification",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "employer abbreviation",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "two forms of id for work",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "employer identification",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "acceptable forms of id for employment",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "number lookup",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "employers state id number texas",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "texas employers state id number",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 43,
+    "name": "0",
+    "parent": 42,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 45,
+    "name": "80",
+    "parent": 44,
+    "size": 1
+  }
+]
