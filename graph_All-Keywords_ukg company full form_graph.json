@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "name": "ukg company full form"
+  },
+  {
+    "id": 2,
+    "name": "uk work",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "is ukg a publicly traded company",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "ukg check stubs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ukg partner marketplace",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ukg applicant tracking system",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "ukg product support representative salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "ukg platform",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ukg sales internship",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "ukg implementation consultant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ukg solutions consultant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "ukg lms",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "ukg document manager",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "ukg payactive",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "visa tier",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "ukg layoffs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "ukg layoffs today",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "ukg layoffs 2023",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "ukg news layoffs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "ukg layoff",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "brex concur",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "name": "ukc contact",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "ukc website",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "ukc address",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "ukc phone number",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "ukc world champion",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "contact ukc",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "ukc customer service",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "ukc forms",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ukc board",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "ukc results",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "ukc show results",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "ukc contact number",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "dental uk",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "uk healthcare employee benefits",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "what hmrc stands for",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "uk healthcare human resources",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "uk healthcare benefits",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "a1 united insurance",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "british united provident association",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "what is u k g",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "resources of united kingdom",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "man group london",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "uk healthcare hr",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "what is the goal of the hmo",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "united kingdom resources",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "kyc global",
+    "parent": 1
+  },
+  {
+    "id": 48,
+    "name": "kyc screening process",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "kyc risk assessment",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "kyc issues",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "kyc global",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "kyc best practices",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "kyc risk",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "local due diligence kyc",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "kyc processes",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "best practice kyc",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "aml kyc openings",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "kyc operations",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "global kyc",
+    "parent": 47,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 61,
+    "name": "0",
+    "parent": 60,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 63,
+    "name": "27",
+    "parent": 62,
+    "size": 1
+  }
+]
