@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "name": "que significa llc en espan\u0303ol"
+  },
+  {
+    "id": 2,
+    "name": "amazon espa\u00f1ol",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "amazon contacto espa\u00f1ol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "amazon customer service espa\u00f1ol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "amazon phone number en espanol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "amazon espa\u00f1ol numero",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "amazon customer service number espa\u00f1ol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "soporte de amazon",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "why my amazon is in spanish",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "amazon espa\u00f1ol customer service",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "contacto de amazon en espa\u00f1ol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "customer service amazon phone number espa\u00f1ol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "amazon customer service en espa\u00f1ol",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "numero de contacto amazon",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "espa\u00f1ol en",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "atencion al cliente de amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "atenci\u00f3n al cliente amazon en espa\u00f1ol",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "servicio al cliente de amazon en espanol",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "amazon en espa\u00f1ol servicio al cliente",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "servicio al cliente amazon usa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "servicio al cliente en espa\u00f1ol de amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "amazon numero atencion al cliente",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "amazon atenci\u00f3n al cliente",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "amazon servicio cliente espa\u00f1ol",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "numero de atencion al cliente amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "amazon servicio al cliente en espanol",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "numero atencion al cliente amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "telus internationalonelogincomportal",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "partners geico providers login",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "geico customer service: chat",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how do i speak to a human at geico",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "geico support number",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "geico customer service rep",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "geico insurance customer care",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "live chat geico",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "geico fax phone number",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "geico telephone number in spanish",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "tel\u00e9fono telefono",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "ups telefono espa\u00f1ol",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "ups telefono en espanol",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "ups espanol servicio al cliente",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "ups servicio al cliente en espa\u00f1ol",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "0",
+    "parent": 43,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 46,
+    "name": "7",
+    "parent": 45,
+    "size": 1
+  }
+]
