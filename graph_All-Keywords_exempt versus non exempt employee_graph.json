@@ -1,0 +1,803 @@
+[
+  {
+    "id": 1,
+    "name": "exempt versus non exempt employee"
+  },
+  {
+    "id": 2,
+    "name": "non exempt",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "exempt and non exempt definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "exempt or non exempt meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "exempt vs non excempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "non-exempt vs exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "exempt non exempt meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "exempt vs non exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "difference between non exempt and exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what does not exempt mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "difference exempt and non exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "define exempt and non exempt",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "exempt position",
+    "parent": 1
+  },
+  {
+    "id": 14,
+    "name": "meaning of exempted",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "how to go exempt",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "what does exempt",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what does going exempt mean",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "define exempt",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what is exemption",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "what exempt means",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what is an exempt",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "exemptions definition",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "definition of exemption",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "what is meant by exempted",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "what does exempt mean",
+    "parent": 13,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "exempt california",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "exempt v non exempt employees",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "non exempt vs exempt california",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "exempt or non exempt",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "exempt emplyee",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "exempt vs non exempt washington state",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "non exempt and exempt",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "am i exempt or non exempt",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "exempt or non-exempt",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "exempt and non-exempt",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "no exempt",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "exempt vs non exempt illinois",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "non-exempthourly",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "exempt test",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "exempt vs non-exempt employment",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "difference between exempt and non exempt jobs",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "difference between exempt and non exempt employees",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "exempt vs non-exempt employees",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "exempt vs non exempt workers",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "difference between non-exempt and exempt employees",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "employee exempt vs non exempt",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "exempt non exempt employee definition",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "what is an exempt employee vs non exempt",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "exempt vs non-exempt employee",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "exempt vs non exempt employee meaning",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "exempt exemptions",
+    "parent": 1
+  },
+  {
+    "id": 52,
+    "name": "exempt position",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "non exempt role",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "non exempt position means",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "non exempt position",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "exempt position means",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "non-exempt position meaning",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "what does an exempt position mean",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "exempt position meaning",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "what does non-exempt position mean",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "exempt employee",
+    "parent": 1
+  },
+  {
+    "id": 62,
+    "name": "exempt vs nonexempt",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "am i exempt or nonexempt",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "what is the difference between exempt and nonexempt work",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "full time exempt vs nonexempt",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "nonexempt vs exempt",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "what is the difference between exempt and nonexempt jobs",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "exempt or nonexempt what does that mean",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "difference between exempt and nonexempt",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "test for exempt vs nonexempt",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "difference between exempt and nonexempt jobs",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "what is exempt and nonexempt employee means",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "what is the difference between exempt and nonexempt employees",
+    "parent": 61,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "exempt taxes",
+    "parent": 1
+  },
+  {
+    "id": 75,
+    "name": "what are exemptions on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "how to claim tax exempt on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "w2 exempt",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "how to file exempt w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "exempt w4 status",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "federal exemptions on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "w2 exempt vs non exempt",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "w4 form exemptions",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "how do i file exempt on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "what does non exempt mean on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "what is a personal exemption on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "how to change exemptions on w4",
+    "parent": 74,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "exempt nonexempt",
+    "parent": 1
+  },
+  {
+    "id": 88,
+    "name": "exempt meaning in tax",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "what is non exempt income",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "file exempt meaning",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "what does exempt mean on taxes",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "what does being exempt from taxes mean",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "tax non exempt",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "can you file exempt on federal taxes",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "what does exempt mean in taxes",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "what does it mean to be exempt from taxes",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "non exempt tax meaning",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "tax exempt vs non exempt",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "exempt on taxes meaning",
+    "parent": 87,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "status exempt",
+    "parent": 1
+  },
+  {
+    "id": 101,
+    "name": "what does exempt status mean",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "what does exemption status mean",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "qualifications for exempt status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "exemption status meaning",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "what is exemption status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "status non-exempt",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "criteria for exempt status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "exempt status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "exempt status meaning",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "what is exempt status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "requirements for exempt status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "non exempt status",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "exempt classification",
+    "parent": 1
+  },
+  {
+    "id": 114,
+    "name": "wa cares act exemption",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "professional exemption",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "what does claiming exempt mean",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "0 exemptions vs 1",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "michigan w-4 exemption calculator",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "figuring out exemptions",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "how to know if you are exempt or nonexempt",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "how do you know if you are exempt from taxes",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "will i go to jail for claiming exempt",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 123,
+    "name": "what does i do not claim exemption from withholding mean",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "admin exemption",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "how to determine if a job is exempt or nonexempt",
+    "parent": 113,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "exempt mean",
+    "parent": 1
+  },
+  {
+    "id": 127,
+    "name": "exempt and non exempt classification",
+    "parent": 126,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "exempt classification",
+    "parent": 126,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "non-exempt classification",
+    "parent": 126,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "non exempt classification",
+    "parent": 126,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "exempt non exempt classification",
+    "parent": 126,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "exempt vs non-exempt classification",
+    "parent": 126,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 134,
+    "name": "0",
+    "parent": 133,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 136,
+    "name": "226",
+    "parent": 135,
+    "size": 1
+  }
+]
