@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "calculating overtime pay"
+  },
+  {
+    "id": 2,
+    "name": "overtime law",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "wage and overtime calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "paycheck calculator plus overtime",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "hourly with overtime calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "hourly pay with overtime calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "overtime and holiday pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "overtime paycheck calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "overtime holiday pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "overtime calculator with tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "hourly paycheck calculator with overtime",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "pay overtime calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "pay and overtime calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "hourly paycheck calculator overtime",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "ot calculate",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "overtime exempt salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "salary non exempt overtime pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "are any employees exempt from earning overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "exemptions for overtime pay",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "salary overtime exemption",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "exempt employees and overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "overtime exemption rules",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "salary non exempt overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "overtime for exempt employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "overtime pay exemption",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "can exempt employees get overtime",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "overtime pay for exempt employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "overtime hour",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "overtime for 20 an hour",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "what is overtime pay for 20 an hour",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "17 overtime pay",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "overtime for 17 an hour",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how much time is overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how many hours is overtime in a day",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "define overtime hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "anything over 40 hours is overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how many hours considered overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "what is overtime pay for 15 an hour",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "after how many hours is overtime",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "overtime over 40 hours",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "41",
+    "parent": 43,
+    "size": 1
+  }
+]
