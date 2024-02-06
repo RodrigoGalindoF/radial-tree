@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "what if i cant pay taxes"
+  },
+  {
+    "id": 2,
+    "name": "driving tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "can i file taxes without income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "who doesnt have to pay taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "who doesnt need to file taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "do i need to file taxes with no income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "can i file taxes with no income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "do i have to file taxes with no income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "who doesnt have to file taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "who does not need to file taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "can you file taxes with no income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "can i file my taxes with no income",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "who do not have to file taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "afford taxes",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "what happens if you dont pay your taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "cant pay taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what if you cant pay taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "what happens if you dont pay the irs on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what if i cant pay taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "what happens if i dont pay my taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what if you dont pay taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what happens when you dont pay your taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "what happens if you dont do your taxes on time",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "0",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "1",
+    "parent": 26,
+    "size": 1
+  }
+]
