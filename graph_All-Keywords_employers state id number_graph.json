@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "name": "employers state id number"
+  },
+  {
+    "id": 2,
+    "name": "ein many",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "duns number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "provider number",
+    "parent": 1
+  },
+  {
+    "id": 5,
+    "name": "returning enterprise car",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "ce carrier enterprise",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "enterprise employee",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "enterprise after hours number",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "enterprise deposit with insurance",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "enterprise toll pass",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "enterprisejobs",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "enterprise 24 hour customer service",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "ce enterprise",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "enterprise businesses",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "enterprise after hours",
+    "parent": 4,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "ein unemployment",
+    "parent": 1
+  },
+  {
+    "id": 17,
+    "name": "what can i do with a ein number",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "walgreens ein",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what can i do with ein number",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "feiein number",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what can i do with an ein",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "benefits of an ein number",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "fake ein number",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "ein number hawaii",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "people ready ein number",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "people ready ein",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "ein number ny",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "disadvantages of having an ein",
+    "parent": 16,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "state number",
+    "parent": 1
+  },
+  {
+    "id": 30,
+    "name": "tax id number itin",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "taxpayer identification number itin",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is an itin number for taxes",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "tax id itin",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "irs request itin",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "itin tax identification number",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "itin tax id",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "itin tax number",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "number nevada",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "id state income tax rate",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "is federal id the same as tax id",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "physician tax id lookup",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "physician tax id",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "example of tax id number",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "tax id example in us",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "id income tax",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "doctor tax id",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "id state income tax",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "federal tax id vs state tax id",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how do i get a state tax id",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "id tax rate",
+    "parent": 38,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "id texas",
+    "parent": 1
+  },
+  {
+    "id": 52,
+    "name": "can you have more than one ein number",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "how many eins can i have",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "can i have more than one ein number",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "how many ein numbers can i have",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "how many ein can you have",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "can you have two ein numbers",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "can i have multiple ein numbers",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "number lookup",
+    "parent": 1
+  },
+  {
+    "id": 60,
+    "name": "federal business license",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "business operating license",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "application for business license",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 64,
+    "name": "0",
+    "parent": 63,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "27",
+    "parent": 65,
+    "size": 1
+  }
+]
