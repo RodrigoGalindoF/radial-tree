@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "is new years a holiday"
+  },
+  {
+    "id": 2,
+    "name": "holiday new",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "new years federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "is new years day a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "new years day federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "new years day a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "is new year a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "federal holiday new years",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "is new years a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "name": "0",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 13,
+    "name": "11",
+    "parent": 12,
+    "size": 1
+  }
+]
