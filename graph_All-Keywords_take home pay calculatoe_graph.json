@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "name": "take home pay calculatoe"
+  },
+  {
+    "id": 2,
+    "name": "home calculator",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "whats my take home pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "net take home salary calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "reverse take home pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "wage take home",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "teacher pay calculator take home",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "take home pay calculator 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "average take home pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "paycheck bring home calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "net take home pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "if take home pay calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "calculatornet take home pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "take calculator",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "take home pay california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "how to calculate take home pay in california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "take home pay cal",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "estimate take home pay california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "what is my take home pay in california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "calculating take home pay california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what will my take home pay be in california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "calculate my take home pay california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "california take home pay 100k",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how much take home pay california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "take home salary california",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "calculate california take home pay",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "much home",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "what is take home pay on 60000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "75000 salary take home pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "70000 salary take home",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "take home pay for 90000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "take home pay 65000 salary",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "take home pay of 40000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "if your salary is 50000 what is take home",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "if your salary is 60000 what is take home",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "80000 take home pay",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "take home pay on 80000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "take home pay on 75000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "take home pay for 80000",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "bonus take",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "name": "how much would i bring home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "how much do i take home after tax",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how much i will take home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how much money will i take home after tax",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "how much should i be taking home after tax",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "how much will i take home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "how much i take home after tax",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "how much to take home after tax",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "how much would i take home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "how much do you take home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "how much do you bring home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "how much should i bring home after taxes",
+    "parent": 40,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "pay take",
+    "parent": 1
+  },
+  {
+    "id": 54,
+    "name": "net take home pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "what is take home pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "what is take home pay called",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "is net pay take home pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "whats take home pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "take home net pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "take home pay definition",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "net pay take home",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "is take home pay gross or net",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "is net pay what you take home",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "what is the term used for take-home pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "what is the term used for take home pay",
+    "parent": 53,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 67,
+    "name": "0",
+    "parent": 66,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 69,
+    "name": "213",
+    "parent": 68,
+    "size": 1
+  }
+]
