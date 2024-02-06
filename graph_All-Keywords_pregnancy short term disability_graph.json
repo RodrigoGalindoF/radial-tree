@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "pregnancy short term disability"
+  },
+  {
+    "id": 2,
+    "name": "disability pregnancy",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "short-term disability for pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "does disability insurance cover pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "is pregnancy covered under short term disability",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "best short term disability insurance for pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "short disability pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "can you apply for disability while pregnant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "is pregnancy considered a temporary disability",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "can you get disability for pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "can i get disability for pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "short termdisability pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "disability checks for pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "short term disability and pregnancy",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "24",
+    "parent": 17,
+    "size": 1
+  }
+]
