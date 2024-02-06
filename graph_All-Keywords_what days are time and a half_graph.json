@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "what days are time and a half"
+  },
+  {
+    "id": 2,
+    "name": "yale workday",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "how many days can you miss work",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "european 4 day work week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "bare minimum monday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "it support 24 7",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how to change w4 on workday app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "some hours exceed anytime pay daily limit",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "weekes construction",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "how many days straight can you work in california",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "weekendz off inc",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "no weekend nursing jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "qualtrics workday integration",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "how long is roku down for maintenance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "shift hour",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "harvard pilgrim log in",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "harvard pilgrim massachusetts",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "harvard pilgrim out-of state coverage",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "harvard pilgrim plans",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "harvard pilgrim federal id number",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "taiwan time",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "name": "what says the time in ohio usa",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "what is considered full time in oklahoma",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "full time hours illinois",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "is 32 hours full time in ohio",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "what time is it in ohio rn",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "what is considered full time in oregon",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "hour in ohio",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "time in ohio rn",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "virginia hour",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "virginia labor law full-time hours",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "hour in michigan",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "what is full time hours in illinois",
+    "parent": 21,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "short breaks",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "what is last",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "longer breaks",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "lastmile meaning",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "corporate rules",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how long can a short be",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "what does going short mean",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "cutoff date",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "break all the rules",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how about you short",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "the day breaks your mind aches",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "company cut",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 47,
+    "name": "0",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 49,
+    "name": "2",
+    "parent": 48,
+    "size": 1
+  }
+]
