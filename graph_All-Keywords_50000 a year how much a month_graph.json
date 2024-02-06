@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1,
+    "name": "50000 a year how much a month"
+  },
+  {
+    "id": 2,
+    "name": "year salary",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "52k a year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "60k a year is how much a month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "60k a year monthly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "52 000 a year is how much a month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "43k a year is how much a month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "60k a year is how much a week",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "how much is 60 000 a year biweekly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "38 000 a year is how much a month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "60k a year is how much biweekly",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "48k a year is how much a month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "58k a year is how much a month",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "60k per year",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "salary month",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "how much per hour is 60000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "65000 is how much an hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "60000 per hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how much is 65000 an hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "65000 is how much per hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "how much per hour is 65000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "65000 per hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "65000 annual to hourly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "how much is 60000 an hour",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how much hourly is 65000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "how much an hour is 65000 a year",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "65000 a year is how much hourly",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "month much",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "annual income before tax calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how much tax should i pay a month",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how to find monthly income after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "calculate monthly taxes on income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "monthly income calculator before taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how much do i make a month after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "monthly income after taxes calculator",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "what is my monthly income after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "monthly taxable income",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how much tax is paid on monthly salary",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how much do i make monthly after taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "monthly pay after tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "much month",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "how much is 65000 a year after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "65000 a year is how much a month after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "65000 a year is how much biweekly after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "70000 a year is how much a month after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "tax on 750 a week",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "68000 a year is how much a month after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "75000 a year is how much a month after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "85000 a year is how much a month after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "85000 a year after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "45000 a year is how much a month after taxes",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "daily labor daily pay",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "average wage per week",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "average year",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "how much is 36000 a year per month",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "$2500 a month is how much an hour",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "2000 a month is how much per hour",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "20000 a year is how much a month",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "how much is 60000 a year per month",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "20000 a month is how much a year",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "$2000 a month is how much a year",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "60000 a year is how much a month",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "$6000 a month is how much an hour",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "2000 a month is how much an hour",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "1800 a month is how much an hour",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "how much is 2000 a month hourly",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "average monthly",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "45k salary bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "how much is 60000 a year bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "how much is 55000 a year bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "55k salary bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "85 000 salary bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "65000 bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "60 000 bi weekly pay",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "how much is 60k a year bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "60k salary bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "how much is 90k a year bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "how much is 80k a year bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "85000 salary bi weekly",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "0",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 83,
+    "name": "34",
+    "parent": 82,
+    "size": 1
+  }
+]
