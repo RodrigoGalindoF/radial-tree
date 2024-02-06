@@ -1,0 +1,478 @@
+[
+  {
+    "id": 1,
+    "name": "state of georgia payroll"
+  },
+  {
+    "id": 2,
+    "name": "georgia labor",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is georgias minimum wage 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "georgia minimum wage 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what is georgia minimum wage 2022",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what is georgias minimum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "minimum wage ga 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "current minimum wage in ga",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "georgias minimum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "ga minimum wage 2024",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "minimum wage georgia 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "what is the state of georgia minimum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is ga minimum wage",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "gov ga",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "georgia ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "gov georgia",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "gov ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "ga gov com",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "www georgia ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "ga govcom",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "state of ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "www ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "georgia govcom",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "www gov ga gov",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "state georgia",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "workers compensation insurance georgia",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "state of georgia payroll",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "georgia pay rate",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "ga payroll",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "georgia state payroll",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "worker compensation georgia",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "georgia prompt pay act",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "ga workmans compensation",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "georgia payroll",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "wage inquiry georgia department of labor",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "georgia payroll laws",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "workers owed wages georgia",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "georgia work",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "employee rights in georgia",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "ga employment laws",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "georgia background check for employment",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "how far back do employment background checks go in georgia",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "georgia hiring laws",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "employment law georgia",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "employment laws in georgia",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "georgia employee rights",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "georgia employment laws",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "employee rights georgia",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "ga employment law",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "employment rights in georgia",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "calculator georgia",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "georgia net worth tax table",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "georgia job tax credit",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "georgia jobs tax credit",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "65000 after taxes georgia",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "georgia child tax credit 2023",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "ga tax bracket 2023",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "ga net worth tax table 2022",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "georgia state tax brackets 2023",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "60000 after taxes georgia",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "ga income tax rate 2023",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "georgia income tax brackets 2023",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "georgia state income tax 2022",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "georgia ein",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "ga g4 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "georgia w 4 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "georgia w2 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "state of georgia tax forms g4",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "ga tax form g4",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "state of georgia g-4 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "georgia g-4 dependent allowances",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "state of georgia form g 4",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "georgia g-4 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "ga 500 tax form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "how to fill out a g4 form",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "state of ga form g 4",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 79,
+    "name": "0",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "59",
+    "parent": 80,
+    "size": 1
+  }
+]
