@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "501 c 3 irs"
+  },
+  {
+    "id": 2,
+    "name": "c meaning",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "irs 501c4",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "irs code 501 c 4",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "section 501 c 3 of the internal revenue code",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "does a 501c3 file a tax return",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "501 c3 irs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "internal revenue code section 501 c 3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "does a 501c3 pay taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "us tax code 501 c 3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "irs application for 501c3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "irs code section 501 c 3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "irs 501 c 3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "internal revenue code 501 c 3",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "18",
+    "parent": 17,
+    "size": 1
+  }
+]
