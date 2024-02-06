@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "name": "calculating costs"
+  },
+  {
+    "id": 2,
+    "name": "overhead cost",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "overhead in business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is overhead allocation",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "overhead meaning business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "overhead operations",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "reduce business overheads",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what is overhead in a business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "allocated overhead",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "define overhead in business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "overhead in computing",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "overhead computing",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "variable overhead examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "overhead definition in business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "dram much",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "what are fixed costs in a business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what are fixed costs in business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "fixed costs in a business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "meaning of fixed costs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "business fixed costs examples",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "list of fixed costs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "fixed costs examples in a business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "fixed costs in a business examples",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "fixed cost examples in business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "a fixed cost is",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "the fixed cost per unit is equal to",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "a company with a high ratio of fixed costs",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "costing system",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "costing system",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "costing basics",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "over costing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is a costing method",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "based costing system",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "direct costing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "traditional costing system",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "costing systems",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how to do costing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "pricing costing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "time based costing",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "in traditional costing systems overhead is generally applied based on",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "cost principle",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "what is the accounting cost",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "accounting cost principle",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "accounting historical cost concept",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "cost principle accounting",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "cost principle accounting definition",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "accounting concepts historical cost",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "cost principle in accounting",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "what is cost principle in accounting",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "cost concept in accounting",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "overhead business",
+    "parent": 1
+  },
+  {
+    "id": 52,
+    "name": "cost of operations definition",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "cost of operations",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "operational expenditures definition",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "operations cost",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "operational expenditure",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "operations expenditures",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "operational expenses",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "what are operational costs",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "operation expenditures",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "operational expense",
+    "parent": 51,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "cost job",
+    "parent": 1
+  },
+  {
+    "id": 63,
+    "name": "average cost of cleaning supplies per month for a business",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "service costing",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "average cost per hire by industry",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "monthly cost of laundry for one person",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "costs of running a business",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "deciding how much to charge for goods and services",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "business costs",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "cost of running a company",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "average business overhead percentage",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "businesses cost",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "average business expenses by industry",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "average overhead percentage",
+    "parent": 62,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "statement cost",
+    "parent": 1
+  },
+  {
+    "id": 76,
+    "name": "total revenue calculator",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "excel formula to calculate total revenue",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "formula to calculate total revenue in excel",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "find the revenue function",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "how to calculate total revenue in access",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "how to find revenue in excel",
+    "parent": 75,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "disclaimer estimate",
+    "parent": 1
+  },
+  {
+    "id": 83,
+    "name": "contractor estimate disclaimer sample",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "estimate disclaimer wording",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "price subject to change disclaimer examples",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "construction estimate disclaimer examples",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "this is an estimate only disclaimer",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "this is an estimate only disclaimer example",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "estimate disclaimer",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "pricing subject to change disclaimer examples",
+    "parent": 82,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "cost examples",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "fixed business expenses",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "fixed expenses in business",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "fixed variable and periodic expenses",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "semi variable expenses",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "semi fixed expenses",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "semi fixed cost",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "what are fixed expenses in a budget",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "fixed operating expenses",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 101,
+    "name": "0",
+    "parent": 100,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 103,
+    "name": "43",
+    "parent": 102,
+    "size": 1
+  }
+]
