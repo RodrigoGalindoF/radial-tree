@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "name": "reciprocity tax states"
+  },
+  {
+    "id": 2,
+    "name": "reciprocal states",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "which states have tax reciprocity with new york",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what is tax reciprocity",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "reciprocity agreements state taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "state tax reciprocity agreements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "state tax reciprocity chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "vehicle sales tax reciprocity between states",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "reciprocity tax states",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "sales tax reciprocity between states",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "states with tax reciprocity agreements",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "reciprocity agreement taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "west virginia reciprocity income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "state tax reciprocity chart 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "reciprocity agreement",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "no reciprocity",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what is reciprocity agreement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "what is a reciprocity",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "reciprocity agreement states",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "reciprocity form",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "md reciprocity",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "reciprocity treaty",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "reciprocity agreement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "what is a reciprocity agreement",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "reciprocity agreements",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "tax pa",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "michigan reciprocal states sales tax",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "what states have reciprocity with michigan",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "michigan reciprocal tax agreement",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "michigan reciprocal states",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "states with reciprocity with michigan",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "michigan reciprocal agreement",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "reciprocal states with michigan",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "reciprocity tax",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "indiana taxes vs illinois",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "sales tax wisconsin vs illinois",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "wisconsin income tax vs illinois",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "live in illinois work in indiana",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "work in illinois live in indiana taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "if i live in indiana and work in illinois",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "live in illinois work in missouri taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "live in indiana work in illinois taxes",
+    "parent": 34,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "0",
+    "parent": 43,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 46,
+    "name": "15",
+    "parent": 45,
+    "size": 1
+  }
+]
