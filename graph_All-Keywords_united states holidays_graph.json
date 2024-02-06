@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "name": "united states holidays"
+  },
+  {
+    "id": 2,
+    "name": "mail day",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "easter federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "is easter sunday a national holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "is easter a legal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "is easter a federalholiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "is easter considered a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "is easter a state holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "is easter monday a government holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "is there a federal holiday for easter",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "is easter considered a national holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "federal holiday for easter",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "is easter monday a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "has easter ever been a federal holiday",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "holidays major",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "list of usa holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "list all federal holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "list of holidays usa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "list of holidays in usa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "list of holidays united states",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "list national holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "federal holiday list",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "list of us holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "list of government holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "usa holidays list",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "list of american holidays",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "state holidays",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "holidays in september us",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "us holiday in september",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "holidays in september america",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "federal holidays september",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "september holidays in usa",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "when is the next holiday in september",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "holidays in september in usa",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "us holidays in september",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "united states holidays september",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "september federal holiday",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "federal holidays in september",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "holiday junteenth",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "4 july federal holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "is 4th july a holiday in usa",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "is july 5th a bank holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "federal 4th of july holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "holidays after july 4th",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "is july 5th a federal holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "fourth of july a federal holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "is the 4th of july a federal holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "4th of july a federal holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "is 4th of july a federal holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "is july 4th a national holiday",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "federal holiday for july 4th",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "first holiday",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "holidays on oct 21",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "when are the holidays",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "when is holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "when holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "day after holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "holiday in oct",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "when is the christmas holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "after the holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "what year did the holiday come out",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "10 sep holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "most recent holiday",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "holidays on oct 11",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "christmas work",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "holiday business",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "holiday tim",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "most important american holidays",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "holiday program",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "after holiday sales",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "regular holiday",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "holidays def",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "frb holiday schedule",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "creative holidays",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "holiday examples",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "benefits of holiday",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "holiday announcement memo for holiday",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "year holidays",
+    "parent": 1
+  },
+  {
+    "id": 79,
+    "name": "holidays each year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "all holidays in a year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "what are all of the holidays in a year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "holidays per year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "what are all the holidays of the year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "holidays this year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "holidays all year round",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "what are all the holidays in a year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "what holidays are in a year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "holidays in a year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "what holidays are in the year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "all holidays of the year",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "holidays coming",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "overtime and holidays",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "holiday double time pay",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "does mcdonalds pay time and a half on holidays",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "holiday doubles",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "what is holiday hours",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "does holiday pay count as hours worked",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "dions holiday hours",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "time and half holidays",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "hr holiday rules",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "what does holiday hours mean",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "what holidays pay time and a half",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "public holiday hours",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 105,
+    "name": "0",
+    "parent": 104,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 107,
+    "name": "287",
+    "parent": 106,
+    "size": 1
+  }
+]
