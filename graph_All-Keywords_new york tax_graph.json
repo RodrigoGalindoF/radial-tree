@@ -1,0 +1,649 @@
+[
+  {
+    "id": 1,
+    "name": "new york tax"
+  },
+  {
+    "id": 2,
+    "name": "payroll ny",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "nys department of taxation and finance jobs",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "new york department of revenue",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ny state taxation contact",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "new york department of taxation address",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "nys tax and finance contact",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "nys department of taxation and finance mailing address",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "new york state department of taxation and finance contact",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "new york state tax contact info",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "ny state tax contact info",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "new york department of tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "new york department of tax and finance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "new york department of taxation and finance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "income new",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "ny city sales tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how to calculate sales tax in nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "new york state sales tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how to calculate nyc sales tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "nys sales tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "sales tax in new york calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "sales tax nyc calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "calculate sales tax nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "sales tax in new york state calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to calculate ny state sales tax",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "sales tax calculator nyc",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "ny state sales tax calculator",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "tax york",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "how much is the new york state tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how much ny state tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how much state tax in new york",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "how much does ny take out in taxes",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "how much tax in ny",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "how much is the income tax in new york",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how much is ny state income tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how much is ny tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how much taxes does nyc take out",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "how much tax in nyc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how much is the tax in nyc",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how much nyc tax",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "nyspayroll",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "ny withholding tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "ny tax withholding form",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "ny withholding tax rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "calculate ny state tax withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "new york city tax withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "ny tax withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "ny state tax withholding",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "nyc withholding tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "new york withholding tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "new york state withholding rate",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "state tax withholding ny",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "ny state withholding tax",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "allowances new",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "name": "ny corporate income tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "corporation tax rate new york",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "new york city corporate tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "nys s corp tax rates",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "nyc corporation tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "nys s corp minimum tax 2022",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "new york state corporate tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "nys corporation tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "ny state corporate tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "nys corporate tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "new york city corporate income tax rate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "new york state tax rate corporate",
+    "parent": 54,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "law transparency",
+    "parent": 1
+  },
+  {
+    "id": 68,
+    "name": "mailing new york state tax return",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "mailing address new york state tax return",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "nys tax filing address",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "where to mail my new york state tax return",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "where do i send my new york state tax return",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "address for new york state income tax",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "nys income tax mailing address",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "new york state tax mailing address",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "mailing address for ny state taxes",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "where to mail new york state tax return",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "new york state income tax mailing address",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "address for new york state tax return",
+    "parent": 67,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "withholding new",
+    "parent": 1
+  },
+  {
+    "id": 81,
+    "name": "ny metro commuter tax 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "commuter tax nyc",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "nyc commuter tax",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "commuter tax new york city",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "new york state commuter tax",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "ny metropolitan commuter transportation mobility tax zone 2",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "nyc commuter tax 2023",
+    "parent": 80,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "queens tax",
+    "parent": 1
+  },
+  {
+    "id": 89,
+    "name": "average income in new york city 2022",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "new york city income",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "nys median income",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "ny state median income",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "median income mn",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "income in new york",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "new york state income distribution",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "top 10 percent income new york city",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "nyc income distribution",
+    "parent": 88,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "nassau tax",
+    "parent": 1
+  },
+  {
+    "id": 99,
+    "name": "tax rate in bronx ny",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "bronx tax rate",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "bronx new york sales tax",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "bronx ny sales tax rate",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "bronx ny tax rate",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "taxes bronx ny",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "bronx new york sales tax rate",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "bronx sales tax rate",
+    "parent": 98,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 108,
+    "name": "0",
+    "parent": 107,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 110,
+    "name": "119",
+    "parent": 109,
+    "size": 1
+  }
+]
