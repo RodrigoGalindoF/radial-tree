@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "attendance tracking"
+  },
+  {
+    "id": 2,
+    "name": "attendance demand",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "attendance to",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "attendancetracker",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "kronos time and attendance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "kronos time attendance",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "attendance for an event",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "attendance at waste management phoenix open",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "attendance symbols and meanings",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "attendance online",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "attendance icon",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "attendance manager",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "attendance check in app",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "attendance evaluation examples",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "attendance app",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "why is attendance at work important",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "employee attendance issues",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "employee time and attendance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how to explain bad attendance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "work attendance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "why is attendance important at work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "addressing employee attendance issues",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "addressing attendance issues with employees",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "workplace attendance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "how to talk to employee about attendance",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "is attendance truly important defend your answer with an explanation",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "poor attendance at work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "34",
+    "parent": 30,
+    "size": 1
+  }
+]
