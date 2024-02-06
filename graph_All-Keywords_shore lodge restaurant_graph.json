@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "shore lodge restaurant"
+  },
+  {
+    "id": 2,
+    "name": "emeril lagasse",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "little palm island menu",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "islands restaurant riverside ca",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "treasure island restaurants",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "island restaurant sf",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "little palm island dinner menu",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "little palm island resort restaurant",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "islands restaurant long beach pike",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "restaurant treasure island",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "restaurants ny",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "harvest restaurant scranton",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "harvest restaurant group nj",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "atlas restaurant baltimore",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "schulte hospitality group louisville ky",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "harvest restaurant group",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "tavistock restaurant",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "artistry restaurant group",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "revere restaurant group",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "general harvest restaurants",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "holloway restaurant group",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "capstone restaurant group",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "atlas group restaurants",
+    "parent": 11,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "cafe mortys",
+    "parent": 1
+  },
+  {
+    "id": 25,
+    "name": "connection cafe uta",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "connection cafe uta menu",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "uta connection cafe",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "uta connection cafe menu",
+    "parent": 24,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "picazzos italian",
+    "parent": 1
+  },
+  {
+    "id": 30,
+    "name": "the stand century city menu",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "the stand menu century city",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "the stand locations",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "the stand restaurant locations",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "the stand restaurant century city",
+    "parent": 29,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 36,
+    "name": "0",
+    "parent": 35,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 38,
+    "name": "2",
+    "parent": 37,
+    "size": 1
+  }
+]
