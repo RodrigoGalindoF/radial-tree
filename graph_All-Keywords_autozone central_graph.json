@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "autozone central"
+  },
+  {
+    "id": 2,
+    "name": "autozone reynolds",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "autozone login with phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "autozonecareers login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "auto zone login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "doc autozone login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "autozonecomcareers login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "autozone doc login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "autozoners employee login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "autozonecom login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "autozone com login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 13,
+    "name": "0",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
