@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "health insurance premium tax credit"
+  },
+  {
+    "id": 2,
+    "name": "health tax",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "medical insurance premiums taxable",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "taxes medical insurance premiums",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "where do i find my health insurance premiums for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "medical insurance premiums for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "health insurance taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "healthcare tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "medical insurance tax form",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what are medical insurance premiums for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "taxable insurance premium",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "health insurance tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "health insurance premium taxable",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "health insurance premiums for taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "16",
+    "parent": 17,
+    "size": 1
+  }
+]
