@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "jordan valley clinic"
+  },
+  {
+    "id": 2,
+    "name": "funeral french",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "holt international childrens services",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "holt childrens services",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "spay neuter",
+    "parent": 1
+  },
+  {
+    "id": 6,
+    "name": "total screening solutions",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "freelance manual testing jobs",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "quack test management",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ux testing jobs",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "what is non discrimination testing",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "should you opt out of ai resume screening",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "penetration testing job",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "discriminatory testing",
+    "parent": 5,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "law jobs",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "acupuncture bronx",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "acupuncture oak park il",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "bronx acupuncture",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 19,
+    "name": "0",
+    "parent": 18,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  }
+]
