@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "name": "what does semi monthly mean for pay"
+  },
+  {
+    "id": 2,
+    "name": "monthly difference",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "intermittent meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "what does intermittent mean",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what means intermittent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "definition of intermittent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "definition intermittent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "intermittently meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "intermittent means",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "intermittent definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "define intermittent",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "intermittently definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "intermittent define",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "semimonthly pay",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "semi monthly salary meaning",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "how to calculate semi monthly pay hourly",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what is semi monthly payroll mean",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "calculating semi monthly income",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "how many times a year is semi annually",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "what is semi monthly pay schedule",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "what is a semi monthly pay schedule",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "semi monthly payroll meaning",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "semi monthly salary definition",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "what is a semi monthly salary",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "semi monthly paycheck schedule",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "semi annual pay",
+    "parent": 14,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "intermittent definition",
+    "parent": 1
+  },
+  {
+    "id": 28,
+    "name": "what is semi weekly mean",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "define semi weekly",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "definition of semi weekly",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "semi-weekly",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "semi-weekly meaning",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "semi weekly means",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "semi-weekly definition",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "what is semiweekly",
+    "parent": 27,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "0",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "23",
+    "parent": 38,
+    "size": 1
+  }
+]
