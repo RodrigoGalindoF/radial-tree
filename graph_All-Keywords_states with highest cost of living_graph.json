@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "states with highest cost of living"
+  },
+  {
+    "id": 2,
+    "name": "state cost",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "low cost states to live in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "lowest living cost state in usa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "lowest cost states to live in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "lowest living cost state",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "which state has the lowest cost of living",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "lowest cost of living state",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what state has the lowest cost of living",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "states with low cost of living",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "lowest states cost of living",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "low cost of living states in usa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "cheap living cost states in usa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "lowest housing costs in us",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "3",
+    "parent": 17,
+    "size": 1
+  }
+]
