@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "name": "rogers ar jobs"
+  },
+  {
+    "id": 2,
+    "name": "ross careers",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "sambuca nashville",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "sams club coupons book",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "sam local start-api",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "sambuca nashville tn menu",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "sammark",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "sams flyer",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "sams car rental",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "sambucca nashville",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "samotics",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "county teller",
+    "parent": 1
+  },
+  {
+    "id": 13,
+    "name": "vw omaha",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "baxter volkswagen omaha",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "toyota baxter omaha ne",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "omaha vw",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "baxter volkswagen",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "vw baxter omaha",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "baxter vw omaha",
+    "parent": 12,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "cruise workers",
+    "parent": 1
+  },
+  {
+    "id": 21,
+    "name": "umialik insurance alaska",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "alaska club employment",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "anchorage assessor",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "anchorage mill and feed",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "alaska mill and feed anchorage alaska",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "umialik insurance anchorage",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "alaska rubber & rigging supply",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "kalamazoo city assessor",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "state of alaska payroll",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "nome alaska employment",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "la insurance kalamazoo",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "dutch harbor alaska jobs",
+    "parent": 20,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "huntsville al",
+    "parent": 1
+  },
+  {
+    "id": 34,
+    "name": "part time madison wi",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "findorff madison wisconsin",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "franklin-madisonservice",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "able distributing madison",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "madison cortland arc oneida ny",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "midwest family madison",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "franklin madison payment",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "the atmosphere madison",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "madison precision products",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "findorff madison",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "franklin madison login",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "franklin madison customer service",
+    "parent": 33,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "license captains",
+    "parent": 1
+  },
+  {
+    "id": 47,
+    "name": "background spark",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "spark incentives",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "spark trends",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "when do spark incentives pay out",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "spark customer care",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "when does spark pay",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "average spark driver pay",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "sparktrends",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "walmart spark delivery customer service",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "spark trendz",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "pizza factory sparks",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "sparkk construction",
+    "parent": 46,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "crown careers",
+    "parent": 1
+  },
+  {
+    "id": 60,
+    "name": "angels list jobs",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "angels in your home rochester",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "west angels",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "angels baseball jobs",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "angels in your home rochester ny",
+    "parent": 59,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "biltmore estate",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "beantown hvac",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "beantown electric",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "beantown ac",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "beantown home services",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "beantown ac plymouth",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "jtekt jtm",
+    "parent": 1
+  },
+  {
+    "id": 72,
+    "name": "jh findorff",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 74,
+    "name": "0",
+    "parent": 73,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 76,
+    "name": "9",
+    "parent": 75,
+    "size": 1
+  }
+]
