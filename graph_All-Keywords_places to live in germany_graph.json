@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "places to live in germany"
+  },
+  {
+    "id": 2,
+    "name": "berlin days",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "cities in germany population",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "germany biggest cities",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "biggest german cities by population",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "largest cities in germany by population",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "biggest german cities",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "biggest german city",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "largest cities in germany 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "cities by population germany",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "largest germany cities",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "second largest german city",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "largest cities in germany",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "largest cities of germany",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "german laws",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "germany average work week",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "paying in german",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "largest employers in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "employment rate in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "employment in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "the germans increased their workforce by",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "average work week in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "when did germany become independent",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "salary for doctors in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "earnings in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "normal salary in germany",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "average german salary",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "0",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "name": "8",
+    "parent": 30,
+    "size": 1
+  }
+]
