@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "irs federal tax chart"
+  },
+  {
+    "id": 2,
+    "name": "tax chart",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "irs withholding charts",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "irs withholding chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "w 4 tax withholding chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "federal withholding tax chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "tax withholding chart 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "withholding tax chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "irs chart for withholding",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "federal tax withholding chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "w 4 withholding chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "irs tax withholding chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "tax bracket chart",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "tax bracket chart for 2023",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "9",
+    "parent": 17,
+    "size": 1
+  }
+]
