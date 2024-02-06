@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "what makes a business a small business"
+  },
+  {
+    "id": 2,
+    "name": "small percentage",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "what is considered a small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "small business definitions",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "what defines a small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "what constitutes a small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "how are small businesses defined",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what is defined as a small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "a small business is defined as:",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "another term for small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "define small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "definition of small business in usa",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is the definition of small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "what is considered small business",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "small disadvantaged",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "types of small businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "what small businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "most common small businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "different kinds of small businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "different types of small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "list small businesses",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "small business usa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "small business types",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "example of a small business",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "in which industry are small businesses most prevalent",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "small businesses examples",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "list of small business in usa",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "small popular",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "number of businesses in the united states",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "how many companies are in the usa",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how many small business owners in the us",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "number of business in us",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "number of small business owners in us",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "largest companies in the us by employees",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how many businesses are there in the united states",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "how many businesses are there in the us",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "how many us companies",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "number of businesses in the us",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "how many companies are in america",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "how many business",
+    "parent": 28,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 42,
+    "name": "0",
+    "parent": 41,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 44,
+    "name": "62",
+    "parent": 43,
+    "size": 1
+  }
+]
