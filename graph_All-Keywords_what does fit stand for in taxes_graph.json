@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "what does fit stand for in taxes"
+  },
+  {
+    "id": 2,
+    "name": "fit withholding",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "fit in taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "fit taxable wages definition",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "fit tax meaning",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "why is my fit tax so high",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "fit wh tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "what is fit tax on my paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "what are fit taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "fitw tax meaning on paycheck",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "fit payroll tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "fed fit taxes",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "whats fitw tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "fit deduction on paystub",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "0",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 18,
+    "name": "21",
+    "parent": 17,
+    "size": 1
+  }
+]
