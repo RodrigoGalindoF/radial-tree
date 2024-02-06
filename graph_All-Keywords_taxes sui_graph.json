@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "name": "taxes sui"
+  },
+  {
+    "id": 2,
+    "name": "sui er",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "job suisse",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "er sui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "ak sui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "$sui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "sui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "il sui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "ma sui",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "pa sui",
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "name": "2023 sui rates",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "what is the sui rate",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "what is a sui rate",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "california sui rate 2022",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "sui rates by state 2022",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "washington sui rate",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "how is sui calculated",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "how to calculate sui tax",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "ca sui rate",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "sui rates by state 2023",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "2023 sui rates by state",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "what is sui rate",
+    "parent": 10,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "sui paid",
+    "parent": 1
+  },
+  {
+    "id": 24,
+    "name": "pa sui ee meaning",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "what is the pa sui tax",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "pa sui rate",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "pa-sui",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "pa sui tax rate",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "sui pa",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "what is sui tax in pa",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "what is pa sui on w2",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "what is pa sui",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "pa sui tax rate 2022",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "pa sui rate 2022",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "sui tax pa",
+    "parent": 23,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "name": "0",
+    "parent": 36,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "19",
+    "parent": 38,
+    "size": 1
+  }
+]
