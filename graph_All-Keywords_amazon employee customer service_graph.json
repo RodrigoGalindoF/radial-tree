@@ -1,0 +1,691 @@
+[
+  {
+    "id": 1,
+    "name": "amazon employee customer service"
+  },
+  {
+    "id": 2,
+    "name": "amazon login",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "amazon employee login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "amazon work email login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "amazon former employee login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "amazon employee login w2",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "amazon employee email login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "how to access amazon employee email",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "amazon employee sign in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "amazon login employee",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "amazon employee log in",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "amazon login for employees",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "amazon w2 login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "amazon job internal",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "amazon n\u00famero",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "amazondsp",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "dsp for amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "dap amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "idp amazon",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "idp amazon work",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "idp amazon hub",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "amazon dsw",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "amazon dap",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "amazon edp",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "amazon dsp",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "amazon speak",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "can i email amazon customer service",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "amazon email for help",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "what is amazon customer service email",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "amazon contact email address",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "how to email amazon customer service",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "email address for amazon customer service",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 33,
+    "name": "amazon mailbox",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "amazon erc email",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "how to send an email to amazon customer service",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "amazon customer care email address",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "email contact for amazon customer service",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "customer service email amazon",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "hour stores",
+    "parent": 1
+  },
+  {
+    "id": 40,
+    "name": "amazoncontact-us",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "amazon attrition",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "supply amazon",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "amazon automatic",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "amazoncpmcode",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "n\u00famero de amazon customer service",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 46,
+    "name": "amazonautoparts",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "amazon numer",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "amazoncommazon",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "amazon pull up",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "como llamar a amazon",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "amazon statements",
+    "parent": 39,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "amazon dsp",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "name": "sas amazon",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "amazon sm",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "amazon lgin",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "amazon ua",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "amazon dell",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "amazon conract",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 59,
+    "name": "amazon cpo",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "amazon ccp",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "amazon lion",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "amazon bd",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "amazon omc",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "amazon cus",
+    "parent": 52,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "amazon code",
+    "parent": 1
+  },
+  {
+    "id": 66,
+    "name": "amazon forgot my password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "amazoncom password assistance",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "how to change amazon password if forgotten",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "password assistance amazon",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "forgot my amazon email and password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "forgot my amazon password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 72,
+    "name": "how do you change your amazon password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "i forgot my amazon password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "how to find my amazon password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "whats my amazon password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "how do i reset my amazon password",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "amazon password assistance",
+    "parent": 65,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "amazon contact",
+    "parent": 1
+  },
+  {
+    "id": 79,
+    "name": "amazon hr department",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "amazon hr customer service",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "amazon hr support",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "hr cases amazon",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "amazon hr cases",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "amazon hr services",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 85,
+    "name": "hr at amazon",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "hr department for amazon",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "amazon hr w2",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "my hr amazon",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "hr for amazon",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "amazon hr careers",
+    "parent": 78,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "amazon remote",
+    "parent": 1
+  },
+  {
+    "id": 92,
+    "name": "https amazoncomuscode verification code",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "amazoncomcode sign in",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "amazon activation code",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "forgot my amazon pin",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "amazon com pin to reset it",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "amazon login code",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 98,
+    "name": "reset amazon pin",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "amazon com code activation",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "amazon sign in code",
+    "parent": 91,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "amazon job",
+    "parent": 1
+  },
+  {
+    "id": 102,
+    "name": "amazon schedule your shift today",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "amazon shifts hours",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "amazon shift times",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "what is personal time off amazon",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "amazon work schedule",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "amazon mandatory overtime pay",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "what happens if you dont finish amazon flex in time",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "does amazon offer overtime",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "amazon hr hours",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 111,
+    "name": "amazon day shift hours",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "amazon hours near me",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "how many hours of pto does amazon give",
+    "parent": 101,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 115,
+    "name": "0",
+    "parent": 114,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 117,
+    "name": "191",
+    "parent": 116,
+    "size": 1
+  }
+]
