@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "city of omaha jobs"
+  },
+  {
+    "id": 2,
+    "name": "omaha steel",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "nebraska unemployment employer registration",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "does nebraska have state income tax",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "nebraska department of labor phone number",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "beatrice community hospital nebraska",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "employment in beatrice ne",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "nebraska take home pay",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 9,
+    "name": "unemployment lincoln ne",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "lincoln ne jobs full time",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "nebraska employee salaries",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "new hampshire capital gains",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "nebraska rn salary",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "nebraska capital gains tax calculator",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "maine unemployment",
+    "parent": 1
+  },
+  {
+    "id": 16,
+    "name": "maineventcomcareers",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "department of labor maine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "mainegoveunemployment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "at&t augusta maine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "unemployment phone number maine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "solstice bangor maine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "maine fast file",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "accountants portland maine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "time now in maine",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "maine filing for unemployment",
+    "parent": 15,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 27,
+    "name": "0",
+    "parent": 26,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "name": "7",
+    "parent": 28,
+    "size": 1
+  }
+]
