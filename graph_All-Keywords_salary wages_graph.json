@@ -1,0 +1,1093 @@
+[
+  {
+    "id": 1,
+    "name": "salary wages"
+  },
+  {
+    "id": 2,
+    "name": "payable salaries",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "wage claim login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 4,
+    "name": "wage works login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 5,
+    "name": "loginwageworkscom loginwageworkscom",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 6,
+    "name": "wageworks login",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 7,
+    "name": "loginwageworkscom",
+    "parent": 2,
+    "size": 1
+  },
+  {
+    "id": 8,
+    "name": "pay rate",
+    "parent": 1
+  },
+  {
+    "id": 9,
+    "name": "wageworks healthequity",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 10,
+    "name": "health equity wageworks",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 11,
+    "name": "healthequitycom wageworks",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "health equity wage works",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 13,
+    "name": "healthequity wage works",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 14,
+    "name": "healthequity wageworks",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 15,
+    "name": "wage works health equity",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 16,
+    "name": "what is health equity wageworks",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 17,
+    "name": "wageworkshealthequity",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 18,
+    "name": "wageworks health equity",
+    "parent": 8,
+    "size": 1
+  },
+  {
+    "id": 19,
+    "name": "labor burden",
+    "parent": 1
+  },
+  {
+    "id": 20,
+    "name": "salary coverter",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 21,
+    "name": "iom tech salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 22,
+    "name": "salary for a product manager",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 23,
+    "name": "retire at 62 with $750 000",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 24,
+    "name": "slot technician salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 25,
+    "name": "michael page recruiter salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 26,
+    "name": "ui artist salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 27,
+    "name": "railroad salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 28,
+    "name": "cfrn salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 29,
+    "name": "cim salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 30,
+    "name": "wework salary",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 31,
+    "name": "group m salaries",
+    "parent": 19,
+    "size": 1
+  },
+  {
+    "id": 32,
+    "name": "wageworks health",
+    "parent": 1
+  },
+  {
+    "id": 33,
+    "name": "wage salary pay",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 34,
+    "name": "meaning of wages and salary",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 35,
+    "name": "what is salary pay",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 36,
+    "name": "salary to wage",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 37,
+    "name": "salary wage definition",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 38,
+    "name": "salary wages meaning",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 39,
+    "name": "what is salary wage",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 40,
+    "name": "salary wage",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 41,
+    "name": "salary salary salary",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 42,
+    "name": "wages salary definition",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "what is a salary pay",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 44,
+    "name": "how much is salary pay",
+    "parent": 32,
+    "size": 1
+  },
+  {
+    "id": 45,
+    "name": "federal wage",
+    "parent": 1
+  },
+  {
+    "id": 46,
+    "name": "how to ask pay rate",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 47,
+    "name": "calculate rate of pay",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 48,
+    "name": "what is your desired rate of pay",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 49,
+    "name": "pay rate comparison",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 50,
+    "name": "salary rate",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 51,
+    "name": "rate of pay desired",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 52,
+    "name": "pay rate meaning",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 53,
+    "name": "basic pay rates",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 54,
+    "name": "salary rates",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 55,
+    "name": "rate of pay expected",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 56,
+    "name": "pay rates",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 57,
+    "name": "employee rates",
+    "parent": 45,
+    "size": 1
+  },
+  {
+    "id": 58,
+    "name": "wage def",
+    "parent": 1
+  },
+  {
+    "id": 59,
+    "name": "2441 provider amount paid",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 60,
+    "name": "pay conversion chart",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 61,
+    "name": "paying volunteers a stipend",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 62,
+    "name": "breakdown pay",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 63,
+    "name": "whats the pay",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 64,
+    "name": "worker draw",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 65,
+    "name": "what do i get paid",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 66,
+    "name": "pay plan meaning",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 67,
+    "name": "salary breakdown",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 68,
+    "name": "economic impact paymen",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 69,
+    "name": "per pay",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 70,
+    "name": "is $20 an hour a livable wage",
+    "parent": 58,
+    "size": 1
+  },
+  {
+    "id": 71,
+    "name": "salary paid",
+    "parent": 1
+  },
+  {
+    "id": 72,
+    "name": "what is annual basic salary",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 73,
+    "name": "how much is basic wage",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 74,
+    "name": "what is your current or last basic monthly salary",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 75,
+    "name": "whats basic pay",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 76,
+    "name": "what does basic salary mean",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 77,
+    "name": "national basic wage",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 78,
+    "name": "what basic salary means",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 79,
+    "name": "united states basic salary",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 80,
+    "name": "basic pay definition",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 81,
+    "name": "us basic salary",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 82,
+    "name": "whats a basic salary",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 83,
+    "name": "basic salary meaning",
+    "parent": 71,
+    "size": 1
+  },
+  {
+    "id": 84,
+    "name": "login loginwageworkscom",
+    "parent": 1
+  },
+  {
+    "id": 85,
+    "name": "job scale",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 86,
+    "name": "is pay scale accurate",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 87,
+    "name": "what does it mean to scale in business",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 88,
+    "name": "how do you scale",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 89,
+    "name": "pay scale definition",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 90,
+    "name": "salary pay scales",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 91,
+    "name": "pay scalecom",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 92,
+    "name": "pay-scale",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 93,
+    "name": "pay scale",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 94,
+    "name": "pay scale com",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 95,
+    "name": "salary and pay scale",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 96,
+    "name": "career pay scales",
+    "parent": 84,
+    "size": 1
+  },
+  {
+    "id": 97,
+    "name": "salaries adjusting",
+    "parent": 1
+  },
+  {
+    "id": 98,
+    "name": "find salary",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 99,
+    "name": "how to find out salary",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 100,
+    "name": "salary insights",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 101,
+    "name": "check salary",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 102,
+    "name": "india in hand salary calculator",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 103,
+    "name": "how to do a salary analysis",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 104,
+    "name": "how to calculate real salary",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 105,
+    "name": "estimate for work",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 106,
+    "name": "check the salary",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 107,
+    "name": "how to calculate salaries payable",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 108,
+    "name": "salary analysis",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 109,
+    "name": "how to determine your salary",
+    "parent": 97,
+    "size": 1
+  },
+  {
+    "id": 110,
+    "name": "wage wages",
+    "parent": 1
+  },
+  {
+    "id": 111,
+    "name": "wages and salaries",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 112,
+    "name": "what are wages earned",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 113,
+    "name": "wages work",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 114,
+    "name": "wage and salary",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 115,
+    "name": "earned wage access apps",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 116,
+    "name": "wagessalary",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 117,
+    "name": "employment wages",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 118,
+    "name": "wages",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 119,
+    "name": "wageswork",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 120,
+    "name": "wages paid",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 121,
+    "name": "what does wage earner mean",
+    "parent": 110,
+    "size": 1
+  },
+  {
+    "id": 122,
+    "name": "salary information",
+    "parent": 1
+  },
+  {
+    "id": 123,
+    "name": "required salary",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 124,
+    "name": "how to include salary requirements",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 125,
+    "name": "required salary meaning",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 126,
+    "name": "what does salary required mean",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 127,
+    "name": "how to format salary requirements",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 128,
+    "name": "salary requested",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 129,
+    "name": "define salary requirements",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 130,
+    "name": "how to state salary requirements",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 131,
+    "name": "how to indicate salary requirements",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 132,
+    "name": "what does required salary mean",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 133,
+    "name": "what are salary requirements",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 134,
+    "name": "salary requirements on job application",
+    "parent": 122,
+    "size": 1
+  },
+  {
+    "id": 135,
+    "name": "pay chart",
+    "parent": 1
+  },
+  {
+    "id": 136,
+    "name": "wage calculator usa",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 137,
+    "name": "online wage statements estub",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 138,
+    "name": "wage determination federal contracts",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 139,
+    "name": "federal wage system",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 140,
+    "name": "2023 wage bracket method tables",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 141,
+    "name": "wage bracket method",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 142,
+    "name": "wage table",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 143,
+    "name": "wage caculator",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 144,
+    "name": "wage estimator",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 145,
+    "name": "wage calulator",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 146,
+    "name": "job wage calculator",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 147,
+    "name": "wage calculatir",
+    "parent": 135,
+    "size": 1
+  },
+  {
+    "id": 148,
+    "name": "germany calculator",
+    "parent": 1
+  },
+  {
+    "id": 149,
+    "name": "what should i put for desired salary per hour",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 150,
+    "name": "hourly pay to annual salary chart",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 151,
+    "name": "hourly wage to salary chart",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 152,
+    "name": "annual salary to hourly wage chart",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 153,
+    "name": "definition of hourly",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 154,
+    "name": "desired hourly wage",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 155,
+    "name": "laws on changing from hourly to salary",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 156,
+    "name": "desired salary annually or hourly",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 157,
+    "name": "hourly paid contract of employment",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 158,
+    "name": "hourly wages",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 159,
+    "name": "is desired salary hourly or yearly",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 160,
+    "name": "hourly rate us",
+    "parent": 148,
+    "size": 1
+  },
+  {
+    "id": 161,
+    "name": "salary ask",
+    "parent": 1
+  },
+  {
+    "id": 162,
+    "name": "how to talk about salary expectations",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 163,
+    "name": "how to word salary expectations",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 164,
+    "name": "rejected because of salary expectations",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 165,
+    "name": "wagesalary expectations",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 166,
+    "name": "salary advance",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 167,
+    "name": "wage salary expectations",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 168,
+    "name": "what does wage expected mean",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 169,
+    "name": "salary expectation calculator",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 170,
+    "name": "anticipated salary",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 171,
+    "name": "expected salary calculator",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 172,
+    "name": "wage expected",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 173,
+    "name": "expect salary",
+    "parent": 161,
+    "size": 1
+  },
+  {
+    "id": 174,
+    "name": "generator free",
+    "parent": 1
+  },
+  {
+    "id": 175,
+    "name": "free w2 generator",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 176,
+    "name": "w2 generator from pay stub",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 177,
+    "name": "w2 generator",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 178,
+    "name": "100 free paystub generator",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 179,
+    "name": "salary generator",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 180,
+    "name": "income generator",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 181,
+    "name": "paystub generator free trial",
+    "parent": 174,
+    "size": 1
+  },
+  {
+    "id": 182,
+    "name": "Sub-Clusters Remaining",
+    "parent": 1
+  },
+  {
+    "id": 183,
+    "name": "26",
+    "parent": 182,
+    "size": 1
+  },
+  {
+    "id": 184,
+    "name": "Total Rows Remaining",
+    "parent": 1
+  },
+  {
+    "id": 185,
+    "name": "440",
+    "parent": 184,
+    "size": 1
+  }
+]
